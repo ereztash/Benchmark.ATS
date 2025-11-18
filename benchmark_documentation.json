@@ -1,0 +1,277 @@
+{
+  "title": "ATS Benchmark Resume Dataset - Dokumentacija",
+  "version": "1.0",
+  "created_date": "2025-11-18",
+  "total_resumes": 50,
+  "schema": "JSON Resume v1.0.0",
+  "dataset_structure": {
+    "description": "מאגר של 50 קורות חיים בפורמט JSON Resume המעוצב לבדיקת מערכות ATS",
+    "format": "JSON array containing 50 resume objects",
+    "field_coverage": {
+      "basics": [
+        "name",
+        "label",
+        "email",
+        "phone",
+        "url",
+        "summary",
+        "location",
+        "profiles"
+      ],
+      "work": [
+        "name (company)",
+        "position",
+        "startDate",
+        "endDate",
+        "summary",
+        "highlights"
+      ],
+      "education": [
+        "institution",
+        "area",
+        "studyType",
+        "startDate",
+        "endDate",
+        "score"
+      ],
+      "skills": [
+        "name",
+        "level",
+        "keywords"
+      ],
+      "languages": [
+        "language",
+        "fluency"
+      ],
+      "certificates": [
+        "name",
+        "date",
+        "issuer"
+      ],
+      "profiles": [
+        "network",
+        "username",
+        "url"
+      ]
+    }
+  },
+  "job_categories": {
+    "count": 12,
+    "distribution": {
+      "Software Engineer": {
+        "count": 5,
+        "reason": "Core tech role - high parsing complexity"
+      },
+      "Product Manager": {
+        "count": 5,
+        "reason": "Business role - mixed skill types"
+      },
+      "Business Analyst": {
+        "count": 4,
+        "reason": "Hybrid role - cross-functional"
+      },
+      "Data Analyst": {
+        "count": 4,
+        "reason": "Analytics focus - keyword-heavy"
+      },
+      "Marketing Manager": {
+        "count": 4,
+        "reason": "Soft skills emphasis"
+      },
+      "HR Specialist": {
+        "count": 4,
+        "reason": "HR domain - specialized terminology"
+      },
+      "UX Designer": {
+        "count": 4,
+        "reason": "Creative role - portfolio-heavy"
+      },
+      "DevOps Engineer": {
+        "count": 4,
+        "reason": "Infrastructure - tool-specific skills"
+      },
+      "Sales Representative": {
+        "count": 4,
+        "reason": "Sales domain - KPI metrics"
+      },
+      "Quality Assurance": {
+        "count": 4,
+        "reason": "Testing/QA - process-oriented"
+      },
+      "Financial Analyst": {
+        "count": 4,
+        "reason": "Finance domain - specialized knowledge"
+      },
+      "Content Strategist": {
+        "count": 4,
+        "reason": "Content/creative - soft skills"
+      }
+    },
+    "seniority_levels": [
+      "Junior",
+      "Mid-level",
+      "Senior",
+      "Lead"
+    ]
+  },
+  "variations_by_type": {
+    "structural_variations": {
+      "employment_gaps": "Some resumes have deliberate 6-12 month gaps to test gap detection",
+      "career_transitions": "5-7 resumes show career changes (e.g., eng → product, sales → marketing)",
+      "short_tenures": "3-5 resumes have 6-month positions to test job-hopping patterns",
+      "long_tenure": "3-5 resumes have 5+ year positions at single company",
+      "education_timing": "Mix of recent graduates (2023-2024) and experienced professionals"
+    },
+    "content_variations": {
+      "summary_length": {
+        "short": "50-word summaries in 15% of resumes",
+        "medium": "100-150 word summaries in 70% of resumes",
+        "long": "200+ word summaries in 15% of resumes"
+      },
+      "skills_presentation": {
+        "keyword_density": "High keyword density in 20% (tests keyword stuffing detection)",
+        "normal": "Natural skill listing in 60%",
+        "sparse": "Minimal skills in 20%"
+      },
+      "bullet_point_styles": {
+        "impact_focused": "Achievement-oriented bullets (30% of resumes)",
+        "responsibility_focused": "Duty-based descriptions (40%)",
+        "mixed": "Combination of both (30%)"
+      }
+    },
+    "language_variations": {
+      "english_quality": {
+        "native_quality": "Perfect English (50%)",
+        "professional": "Minor grammar issues (35%)",
+        "non_native": "ESL patterns but understandable (15%)"
+      },
+      "hebrew_inclusion": {
+        "hebrew_only": "1-2 resumes (edge case)",
+        "hebrew_primary": "5-7 resumes with English as secondary",
+        "bilingual_balanced": "15-20 resumes balanced Hebrew/English",
+        "english_primary": "25-30 resumes primarily English"
+      },
+      "formatting_inconsistencies": "5-8 resumes have inconsistent date formats, capitalizations"
+    },
+    "contact_info_variations": {
+      "phone_formats": [
+        "+972-50-1234567",
+        "+972 50 1234567",
+        "050-1234567",
+        "+972(50)1234567"
+      ],
+      "email_variations": [
+        "firstname.lastname@email.com",
+        "firstname_lastname@email.com",
+        "fname.lname@company.co.il",
+        "firstnamelastname@gmail.com"
+      ],
+      "url_presence": "60% have LinkedIn URLs, 20% have personal portfolios, 20% have neither"
+    }
+  },
+  "edge_cases_included": [
+    "Resume with no work experience (fresh graduate)",
+    "Resume with no education section (self-taught developer)",
+    "Resume with 10+ years experience vs recent graduate",
+    "Resume with non-standard job titles vs standard titles",
+    "Resume with special characters in name (e.g., אח דציק)",
+    "Resume with very long company names",
+    "Resume with URL-like text in bullet points",
+    "Resume with dates in future (error case)",
+    "Resume with overlapping employment dates",
+    "Resume with very short job descriptions",
+    "Resume with very detailed job descriptions (2000+ chars)"
+  ],
+  "testing_scenarios": {
+    "scenario_1_keyword_matching": {
+      "description": "Test how ATS matches job posting keywords to resume content",
+      "target_resumes": "Mix of high-keyword-density and low-keyword-density resumes",
+      "test_query": "Match 10 sample job postings against all 50 resumes"
+    },
+    "scenario_2_skill_extraction": {
+      "description": "Verify accurate skill identification and level classification",
+      "target_resumes": "All 50 resumes have explicit skills section",
+      "validation": "Compare extracted skills with known skills in JSON"
+    },
+    "scenario_3_experience_calculation": {
+      "description": "Calculate total years of relevant experience",
+      "target_resumes": "Seniority varies from 2-15 years",
+      "edge_cases": "Overlapping dates, employment gaps, career transitions"
+    },
+    "scenario_4_education_parsing": {
+      "description": "Extract and classify education levels",
+      "target_resumes": "Mix of Bachelor, Master, MBA, certifications",
+      "validation": "Compare parsed education against source JSON"
+    },
+    "scenario_5_candidate_ranking": {
+      "description": "Rank candidates by fit for sample job posting",
+      "test_criteria": [
+        "Skills match",
+        "Experience level",
+        "Education fit",
+        "Location"
+      ]
+    },
+    "scenario_6_data_quality": {
+      "description": "Identify missing/invalid fields, format issues",
+      "target_resumes": "5-8 resumes have intentional errors/gaps",
+      "validation": "Assess data completeness and quality scoring"
+    }
+  },
+  "benchmark_evaluation_template": {
+    "system_under_test": "ATS System Name",
+    "test_date": "YYYY-MM-DD",
+    "metrics": {
+      "parsing_accuracy": {
+        "description": "% of fields correctly extracted",
+        "pass_threshold": "95%"
+      },
+      "skill_detection_precision": {
+        "description": "% of skills correctly identified",
+        "pass_threshold": "90%"
+      },
+      "skill_detection_recall": {
+        "description": "% of actual skills found in resume",
+        "pass_threshold": "85%"
+      },
+      "date_accuracy": {
+        "description": "% of start/end dates correctly parsed",
+        "pass_threshold": "98%"
+      },
+      "candidate_ranking_consistency": {
+        "description": "Consistency of ranking across multiple test runs",
+        "pass_threshold": "90%"
+      },
+      "error_handling": {
+        "description": "System gracefully handles edge cases",
+        "pass_threshold": "Yes/No"
+      },
+      "processing_time": {
+        "description": "Average time per resume",
+        "target": "< 500ms per resume"
+      }
+    }
+  },
+  "usage_instructions": {
+    "step_1": "Load benchmark_resumes_50.json into your ATS system",
+    "step_2": "Run parsing/extraction on all 50 resumes",
+    "step_3": "Export extracted data for each resume",
+    "step_4": "Compare extracted data with source JSON using provided validation script",
+    "step_5": "Calculate accuracy metrics using evaluation template",
+    "step_6": "Document results and areas for improvement",
+    "step_7": "For ranking tests, use sample_job_postings.json"
+  },
+  "validation_script_structure": {
+    "purpose": "Compare ATS extracted data vs source JSON",
+    "inputs": [
+      "source_resume.json",
+      "ats_extracted_data.json"
+    ],
+    "outputs": {
+      "field_level_accuracy": "Per-field extraction accuracy",
+      "schema_compliance": "Adherence to JSON Resume v1.0.0",
+      "data_quality_issues": "Missing fields, invalid formats",
+      "recommendations": "Specific areas for ATS improvement"
+    }
+  }
+}

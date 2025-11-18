@@ -1,0 +1,304 @@
+{
+  "title": "דוגמאות קונקרטיות - וריאציות קורות חיים לבנצ'מארק",
+  "description": "Examples of specific resume variations included in the 50-resume benchmark dataset",
+  "created": "2025-11-18",
+  "example_1_high_keyword_density": {
+    "id": "resume_high_keywords",
+    "profile": "Software Engineer with keyword stuffing",
+    "purpose": "Test if ATS can detect over-optimization and keyword stuffing",
+    "characteristics": {
+      "skills_mentioned": "25+ times in 2-page resume",
+      "repetition": "Same keywords appear in summary, experience, and skills",
+      "issue_type": "Intentional SEO-like optimization (red flag for some ATS)"
+    },
+    "sample_snippet": {
+      "summary": "Software Engineer with expertise in Python, JavaScript, React, Node.js, SQL, Docker, and more. Skilled in Python programming, JavaScript development, React frameworks, and Node.js backend development. Expert in SQL databases and Docker containerization.",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Docker",
+        "Git",
+        "REST API",
+        "Python (advanced)",
+        "JavaScript (expert)"
+      ],
+      "work_highlight": "Implemented Python backend using Node.js and Docker for React frontend with JavaScript and SQL databases"
+    },
+    "testing_consideration": "Should trigger keyword density warnings if ATS implements detection"
+  },
+  "example_2_employment_gap": {
+    "id": "resume_employment_gap",
+    "profile": "Product Manager with 18-month career break",
+    "purpose": "Test if ATS identifies and flags employment gaps",
+    "gap_details": {
+      "employment": "Jan 2019 - Jun 2020 (Company A)",
+      "gap": "Jul 2020 - Dec 2021 (18 months)",
+      "resumption": "Jan 2022 - Present (Company B)",
+      "explanation": "Gap reason not mentioned in resume (real-world scenario)"
+    },
+    "testing_consideration": "Some ATS flag gaps > 12 months; validation should verify gap detection accuracy"
+  },
+  "example_3_career_transition": {
+    "id": "resume_career_transition",
+    "profile": "Data Analyst transitioning from Software Engineer background",
+    "purpose": "Test cross-functional skill mapping and role classification",
+    "career_path": {
+      "2015-2018": "Software Engineer at TechCorp (3 years)",
+      "2018-2021": "Software Engineer at DataSystems (3 years)",
+      "2021-Present": "Data Analyst at Analytics Inc. (3+ years)"
+    },
+    "skill_overlap": {
+      "retained_from_engineering": [
+        "Python",
+        "SQL",
+        "Git",
+        "Agile"
+      ],
+      "new_skills_added": [
+        "Tableau",
+        "Data Visualization",
+        "Statistics",
+        "Power BI"
+      ]
+    },
+    "testing_consideration": "ATS should recognize transferable skills; ranking for 'Data Analyst' role should weight new role experience heavily"
+  },
+  "example_4_short_tenure_job_hopping": {
+    "id": "resume_job_hopping",
+    "profile": "Marketing professional with frequent job changes",
+    "purpose": "Test if ATS detects and flags job-hopping pattern",
+    "employment_history": [
+      {
+        "company": "MarketingHub",
+        "duration": "6 months"
+      },
+      {
+        "company": "BrandForce",
+        "duration": "8 months"
+      },
+      {
+        "company": "GrowthCo",
+        "duration": "10 months"
+      },
+      {
+        "company": "DigitalDynamics",
+        "duration": "14 months"
+      },
+      {
+        "company": "Current Employer",
+        "duration": "2+ months (ongoing)"
+      }
+    ],
+    "red_flag_analysis": {
+      "average_tenure": "7.6 months",
+      "pattern": "Each position 6-14 months",
+      "concern_level": "High for some recruiters"
+    },
+    "testing_consideration": "Some ATS may calculate stability metrics; should verify accuracy of job-hopping detection"
+  },
+  "example_5_fresh_graduate": {
+    "id": "resume_fresh_graduate",
+    "profile": "Recent university graduate, no professional experience",
+    "purpose": "Test ATS handling of education-heavy resumes",
+    "structure": {
+      "basics": {
+        "name": "Noa Levi",
+        "label": "Recent Graduate - Computer Science"
+      },
+      "education": [
+        {
+          "institution": "Tel Aviv University",
+          "studyType": "Bachelor",
+          "area": "Computer Science",
+          "startDate": "2020-09-01",
+          "endDate": "2024-06-01",
+          "score": "3.8",
+          "courses": [
+            "Data Structures",
+            "Algorithms",
+            "Web Development",
+            "Database Systems"
+          ]
+        }
+      ],
+      "work": [],
+      "skills": [
+        {
+          "name": "Python",
+          "level": "Advanced"
+        },
+        {
+          "name": "JavaScript",
+          "level": "Intermediate"
+        },
+        {
+          "name": "React",
+          "level": "Beginner"
+        }
+      ],
+      "projects": [
+        {
+          "name": "E-commerce Platform",
+          "description": "Full-stack web application built with React and Node.js",
+          "highlights": [
+            "Implemented user authentication",
+            "Designed database schema",
+            "Deployed to AWS"
+          ]
+        }
+      ]
+    },
+    "testing_consideration": "ATS must handle missing work history gracefully; should weight projects and education appropriately"
+  },
+  "example_6_self_taught_developer": {
+    "id": "resume_self_taught",
+    "profile": "Software Engineer with no formal CS degree",
+    "purpose": "Test if ATS penalizes non-traditional backgrounds",
+    "education_section": {
+      "type": "Empty or non-traditional",
+      "alternatives": {
+        "online_courses": [
+          "Udemy Python Bootcamp",
+          "freeCodeCamp Web Development",
+          "Coursera Data Science"
+        ],
+        "certifications": [
+          "AWS Solutions Architect",
+          "Kubernetes Certification"
+        ]
+      }
+    },
+    "work_experience": [
+      {
+        "company": "StartupXYZ",
+        "position": "Junior Developer",
+        "duration": "2 years",
+        "highlights": [
+          "Shipped production features",
+          "Reduced API latency by 40%"
+        ]
+      }
+    ],
+    "testing_consideration": "Should verify ATS doesn't automatically disqualify based on missing traditional education"
+  },
+  "example_7_long_tenure_stability": {
+    "id": "resume_long_tenure",
+    "profile": "Finance professional with 8-year tenure at single company",
+    "purpose": "Test if ATS correctly recognizes career progression within one company",
+    "employment": {
+      "company": "FinancePartners",
+      "positions": [
+        {
+          "title": "Junior Financial Analyst",
+          "years": "2016-2017"
+        },
+        {
+          "title": "Financial Analyst",
+          "years": "2017-2019"
+        },
+        {
+          "title": "Senior Financial Analyst",
+          "years": "2019-2022"
+        },
+        {
+          "title": "Finance Manager",
+          "years": "2022-2024"
+        }
+      ],
+      "total_tenure": "8 years"
+    },
+    "testing_consideration": "ATS should recognize internal promotion chain; may indicate strong company culture and job stability"
+  },
+  "example_8_special_characters_name": {
+    "id": "resume_special_chars",
+    "profile": "Candidate with Hebrew name containing special characters",
+    "purpose": "Test Unicode and special character handling",
+    "name_variations": [
+      "אברהם דצ'יק (Hebrew characters)",
+      "Mohammad Al-Rashid (Arabic script, if applicable)",
+      "José García (Spanish accents)"
+    ],
+    "contact_info": {
+      "email": "avraham.datzik@email.com",
+      "phone": "+972-50-1234567"
+    },
+    "testing_consideration": "Critical for Israeli market; ATS must handle Hebrew without encoding issues"
+  },
+  "example_9_future_dated_employment": {
+    "id": "resume_future_dates",
+    "profile": "Resume with intentional data quality error - future dates",
+    "purpose": "Test error detection and data validation",
+    "error_scenario": {
+      "end_date": "2026-06-01",
+      "issue": "Candidate likely made typo or copied template incorrectly",
+      "detection": "ATS should flag as invalid or assume ongoing position"
+    },
+    "testing_consideration": "Validates data quality checking; should have graceful error handling"
+  },
+  "example_10_overlapping_employment": {
+    "id": "resume_overlapping_employment",
+    "profile": "Resume with overlapping employment dates",
+    "purpose": "Test if ATS detects logical inconsistencies",
+    "employment": [
+      {
+        "company": "Company A",
+        "startDate": "2020-01-01",
+        "endDate": "2022-06-01"
+      },
+      {
+        "company": "Company B",
+        "startDate": "2022-04-01",
+        "endDate": "2024-12-31"
+      }
+    ],
+    "scenarios": [
+      "Candidate working two jobs simultaneously (contractor + full-time)",
+      "Data entry error on resume",
+      "Consulting gig during final months of previous role"
+    ],
+    "testing_consideration": "ATS should identify overlap and allow context interpretation"
+  },
+  "example_11_content_quality_variations": {
+    "id": "resume_content_quality",
+    "profile": "Resumes with varying content quality and detail levels",
+    "variations": {
+      "minimal_detail": {
+        "summary": "Software developer with 5 years experience",
+        "highlights": "Worked on projects",
+        "skills": "JavaScript, Python"
+      },
+      "optimal_detail": {
+        "summary": "Full-stack software developer with 5 years of experience building scalable web applications using React, Node.js, and PostgreSQL",
+        "highlights": [
+          "Architected microservices migration reducing deployment time by 60%",
+          "Led team of 4 developers, mentored 2 junior engineers",
+          "Implemented comprehensive test suite achieving 95% code coverage"
+        ],
+        "skills": "JavaScript (Expert), Python (Advanced), React (Expert), Node.js (Advanced), PostgreSQL (Intermediate)"
+      },
+      "excessive_detail": {
+        "summary": "A highly motivated and results-oriented Full Stack Software Developer with extensive experience in web development, application design, software architecture, project management, team leadership, mentoring, code review, quality assurance, DevOps practices, cloud infrastructure (AWS, GCP), containerization (Docker, Kubernetes), and more... [continues for 300+ words]"
+      }
+    },
+    "testing_consideration": "ATS ranking should prefer balanced, well-structured resumes over overly detailed ones"
+  },
+  "example_12_language_quality_variations": {
+    "id": "resume_language_quality",
+    "profile": "Resumes with varying English language proficiency",
+    "variations": {
+      "native_english": {
+        "sample": "Spearheaded the development of a real-time analytics dashboard that reduced reporting time by 80% and improved data accuracy."
+      },
+      "professional_esl": {
+        "sample": "I led development of real-time analytics dashboard. The project reduce the time for reporting 80% and improve data accuracy."
+      },
+      "non_native_esl": {
+        "sample": "I was working at building the analytics dashboard for real time. This is making the report more fast by 80% and the data is more correct."
+      }
+    },
+    "testing_consideration": "ATS should not penalize non-native speakers; focus on skills and experience, not grammar"
+  }
+}

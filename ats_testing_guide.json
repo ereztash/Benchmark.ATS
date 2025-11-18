@@ -1,0 +1,126 @@
+{
+  "title": "ATS Benchmark Testing Guide",
+  "version": "1.0",
+  "created": "2025-11-18",
+  "quick_start": {
+    "step_1_prepare": {
+      "action": "Load benchmark_resumes_50.json into your ATS",
+      "files_needed": [
+        "benchmark_resumes_50.json"
+      ],
+      "expected_output": "All 50 resumes successfully imported"
+    },
+    "step_2_parse": {
+      "action": "Run ATS parsing/extraction on all resumes",
+      "time_estimate": "< 30 seconds for all 50",
+      "output_format": "Individual JSON files or database records"
+    },
+    "step_3_export": {
+      "action": "Export extracted data in structured format",
+      "format": "JSON or CSV with fields matching JSON Resume schema",
+      "validation": "Cross-check field names match source schema"
+    },
+    "step_4_validate": {
+      "action": "Run validation script",
+      "command": "python ats_validation_script.py benchmark_resumes_50.json ats_output/",
+      "output": "Comprehensive accuracy report"
+    }
+  },
+  "detailed_testing_procedures": {
+    "test_1_parsing_accuracy": {
+      "objective": "Measure accuracy of field extraction",
+      "method": "Compare extracted fields against source JSON",
+      "success_criteria": {
+        "basics_accuracy": ">= 95%",
+        "work_accuracy": ">= 93%",
+        "education_accuracy": ">= 95%",
+        "overall": ">= 92%"
+      },
+      "test_resumes": "All 50 (focus on resumes 1-15 first)"
+    },
+    "test_2_skill_matching": {
+      "objective": "Verify skill extraction precision and recall",
+      "method": "Count correctly extracted, missed, and false-positive skills",
+      "metrics": {
+        "precision": "True positives / (True positives + False positives)",
+        "recall": "True positives / (True positives + False negatives)",
+        "f1_score": "Harmonic mean of precision and recall"
+      },
+      "success_criteria": {
+        "precision": ">= 90%",
+        "recall": ">= 85%",
+        "f1_score": ">= 87%"
+      },
+      "test_resumes": "All 50 (especially varied skill lists)"
+    },
+    "test_3_date_parsing": {
+      "objective": "Validate date extraction and format handling",
+      "edge_cases": [
+        "ISO format (2023-06-01)",
+        "US format (June 1, 2023)",
+        "European format (01/06/2023)",
+        "Month-year only (June 2023)",
+        "Overlapping dates detection"
+      ],
+      "success_criteria": ">= 98% date accuracy",
+      "test_resumes": "Resumes with varied date formats"
+    },
+    "test_4_gap_detection": {
+      "objective": "Identify employment gaps",
+      "definition": "Gap >= 3 months between jobs",
+      "method": "Manual review of identified gaps",
+      "expected_gaps": [
+        "Resume #2: 18-month gap",
+        "Resume #7: 6-month gap",
+        "Resume #12: 10-month gap"
+      ]
+    },
+    "test_5_error_handling": {
+      "objective": "Verify graceful handling of malformed data",
+      "edge_cases": [
+        "Resume with no work history",
+        "Resume with no education",
+        "Resume with future dates",
+        "Resume with overlapping employment",
+        "Resume with special characters (Hebrew)"
+      ],
+      "success_criteria": "No crashes; appropriate error messages/flags"
+    },
+    "test_6_performance": {
+      "objective": "Measure parsing speed and efficiency",
+      "metric": "Average time per resume",
+      "target": "< 500ms per resume",
+      "measurement": "Total time for 50 resumes / 50"
+    }
+  },
+  "quality_checkpoints": {
+    "checkpoint_1_data_integrity": {
+      "check": "All 50 resumes parsed without errors",
+      "pass_condition": "100% success rate"
+    },
+    "checkpoint_2_field_completeness": {
+      "check": "All fields extracted where present in source",
+      "pass_condition": "No mandatory fields missing"
+    },
+    "checkpoint_3_accuracy_threshold": {
+      "check": "Overall accuracy >= 90%",
+      "pass_condition": "Weighted average across all categories"
+    },
+    "checkpoint_4_consistency": {
+      "check": "Multiple runs produce identical results",
+      "pass_condition": "100% consistency"
+    }
+  },
+  "reporting_template": {
+    "test_date": "YYYY-MM-DD",
+    "ats_system": "Name and version",
+    "test_duration": "HH:MM",
+    "results": {
+      "overall_accuracy": "X.X%",
+      "parsing_success_rate": "X/50 (100%)",
+      "average_parse_time": "XXXms",
+      "critical_issues": [],
+      "recommendations": []
+    }
+  }
+}

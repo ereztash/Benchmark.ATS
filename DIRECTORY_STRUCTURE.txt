@@ -1,0 +1,30 @@
+ATS-BENCHMARK-DATASET/
+│
+├── 📊 MAIN DATASET (Load into ATS first)
+│   ├── benchmark_resumes_50.json          [117.1 KB] - 50 complete resumes
+│   └── edge_case_resumes.json             [50 KB]   - 8 edge case scenarios
+│
+├── 📋 DOCUMENTATION (Read for understanding)
+│   ├── benchmark_documentation.json       - Technical schema & structure
+│   ├── benchmark_resume_examples.json     - 12 detailed variation examples
+│   ├── benchmark_summary.json             - Executive overview
+│   └── ats_testing_guide.json             - Step-by-step procedures
+│
+├── 🛠️ TOOLS & SCRIPTS (Use for validation)
+│   ├── ats_validation_script.py           - Python validation tool
+│   ├── implementation_guide_he.md         - Hebrew implementation guide
+│   └── file_index_and_reference.json      - This file (quick reference)
+│
+└── 📊 RESULTS FOLDER (After testing)
+    ├── ats_extraction_output/            - ATS extracted data
+    ├── validation_report.json            - Accuracy results
+    └── benchmark_test_report.pdf         - Final report
+
+TESTING WORKFLOW:
+1. Load: benchmark_resumes_50.json → ATS
+2. Parse: Run ATS extraction (target: <500ms each)
+3. Export: Extract results to JSON
+4. Validate: python ats_validation_script.py
+5. Analyze: Review accuracy report
+6. Test: Load edge_case_resumes.json
+7. Report: Generate benchmark report

@@ -1,0 +1,185 @@
+{
+  "title": "ATS Benchmark Dataset - File Index & Quick Reference",
+  "version": "1.0",
+  "generated": "2025-11-18",
+  "files_summary": {
+    "PRIMARY_DATASETS": [
+      {
+        "filename": "benchmark_resumes_50.json",
+        "size": "117.1 KB",
+        "purpose": "Main benchmark dataset with 50 complete resumes",
+        "format": "JSON Array",
+        "count": 50,
+        "usage": "Load into ATS for testing"
+      },
+      {
+        "filename": "edge_case_resumes.json",
+        "size": "50 KB",
+        "purpose": "8 problematic scenarios for stress testing",
+        "format": "JSON Object",
+        "scenarios": 8,
+        "usage": "Test after baseline testing complete"
+      }
+    ],
+    "DOCUMENTATION_FILES": [
+      {
+        "filename": "benchmark_documentation.json",
+        "purpose": "Complete technical documentation of dataset structure",
+        "sections": "Schema spec, field coverage, job categories, testing scenarios",
+        "audience": "Technical teams"
+      },
+      {
+        "filename": "benchmark_resume_examples.json",
+        "purpose": "Detailed examples of 12 specific resume variations",
+        "examples": 12,
+        "audience": "QA engineers, test designers"
+      },
+      {
+        "filename": "benchmark_summary.json",
+        "purpose": "Executive summary and dataset composition overview",
+        "audience": "Project managers, stakeholders"
+      },
+      {
+        "filename": "ats_testing_guide.json",
+        "purpose": "Step-by-step testing procedures and quality checkpoints",
+        "procedures": 6,
+        "audience": "QA teams, testers"
+      },
+      {
+        "filename": "implementation_guide_he.md",
+        "purpose": "Hebrew language implementation guide",
+        "format": "Markdown",
+        "language": "Hebrew",
+        "audience": "Hebrew-speaking practitioners"
+      }
+    ],
+    "TOOLS_AND_SCRIPTS": [
+      {
+        "filename": "ats_validation_script.py",
+        "language": "Python 3.7+",
+        "purpose": "Compare ATS extracted data vs source JSON",
+        "usage": "python ats_validation_script.py input.json output/"
+      },
+      {
+        "filename": "file_index_and_reference.json",
+        "purpose": "This comprehensive file index and quick reference guide"
+      }
+    ]
+  },
+  "testing_workflow": [
+    {
+      "step": 1,
+      "task": "Load benchmark dataset",
+      "file": "benchmark_resumes_50.json",
+      "action": "Import 50 resumes into ATS"
+    },
+    {
+      "step": 2,
+      "task": "Review testing procedures",
+      "file": "ats_testing_guide.json",
+      "action": "Understand testing approach"
+    },
+    {
+      "step": 3,
+      "task": "Run ATS parsing",
+      "action": "Trigger extraction on all 50 resumes",
+      "target": "<500ms per resume"
+    },
+    {
+      "step": 4,
+      "task": "Export ATS output",
+      "action": "Save extracted data in JSON format"
+    },
+    {
+      "step": 5,
+      "task": "Run validation",
+      "file": "ats_validation_script.py",
+      "action": "Compare extracted vs source data"
+    },
+    {
+      "step": 6,
+      "task": "Review results",
+      "action": "Check accuracy metrics (target >= 92%)"
+    },
+    {
+      "step": 7,
+      "task": "Test edge cases",
+      "file": "edge_case_resumes.json",
+      "action": "Verify error handling"
+    },
+    {
+      "step": 8,
+      "task": "Generate report",
+      "file": "ats_testing_guide.json",
+      "action": "Use provided reporting template"
+    }
+  ],
+  "success_criteria": {
+    "overall_accuracy": ">= 92%",
+    "basics_accuracy": ">= 95%",
+    "work_experience_accuracy": ">= 93%",
+    "education_accuracy": ">= 95%",
+    "skills_f1_score": ">= 87%",
+    "date_accuracy": ">= 98%",
+    "processing_speed": "< 500ms per resume",
+    "error_handling": "No crashes on edge cases"
+  },
+  "file_priority_order": [
+    {
+      "rank": 1,
+      "file": "benchmark_resumes_50.json",
+      "reason": "Main dataset - load first"
+    },
+    {
+      "rank": 2,
+      "file": "ats_testing_guide.json",
+      "reason": "Define testing approach"
+    },
+    {
+      "rank": 3,
+      "file": "ats_validation_script.py",
+      "reason": "Validate results"
+    },
+    {
+      "rank": 4,
+      "file": "edge_case_resumes.json",
+      "reason": "Stress testing"
+    },
+    {
+      "rank": 5,
+      "file": "implementation_guide_he.md",
+      "reason": "Reference guide"
+    }
+  ],
+  "common_workflows": {
+    "QA_Engineer": [
+      "Load benchmark_resumes_50.json",
+      "Follow ats_testing_guide.json procedures",
+      "Export ATS data",
+      "Run ats_validation_script.py",
+      "Test edge_case_resumes.json",
+      "Generate final report"
+    ],
+    "Product_Manager": [
+      "Review benchmark_summary.json",
+      "Check ats_testing_guide.json for success criteria",
+      "Review accuracy results",
+      "Plan improvements based on findings"
+    ],
+    "Developer": [
+      "Understand benchmark_documentation.json structure",
+      "Build parsing logic",
+      "Run validation_script.py",
+      "Fix identified issues",
+      "Re-validate"
+    ]
+  },
+  "metrics_definitions": {
+    "overall_accuracy": "Weighted average of all field accuracies",
+    "parsing_accuracy": "Percentage of fields correctly extracted",
+    "skill_precision": "Correct skills / (correct + false positives)",
+    "skill_recall": "Correct skills / (correct + missed skills)",
+    "f1_score": "2 * (precision * recall) / (precision + recall)",
+    "processing_time": "Average milliseconds per resume"
+  }
+}

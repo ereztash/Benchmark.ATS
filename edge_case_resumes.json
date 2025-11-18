@@ -1,0 +1,330 @@
+{
+  "purpose": "Edge cases and problem scenarios for ATS testing",
+  "count": 8,
+  "resumes": [
+    {
+      "id": "edge_case_001",
+      "profile_name": "Employment gap + future dates error",
+      "basics": {
+        "name": "David Cohen",
+        "label": "Senior Developer",
+        "email": "david.cohen@email.com",
+        "phone": "+972-50-1234567",
+        "location": {
+          "city": "Tel Aviv",
+          "region": "Tel Aviv District",
+          "countryCode": "IL"
+        }
+      },
+      "work": [
+        {
+          "name": "TechCorp",
+          "position": "Software Engineer",
+          "startDate": "2019-06-01",
+          "endDate": "2020-12-31",
+          "summary": "Full-stack developer"
+        },
+        {
+          "name": "DataSystems",
+          "position": "Senior Developer",
+          "startDate": "2023-01-01",
+          "endDate": "2026-06-01",
+          "summary": "Leading backend architecture"
+        }
+      ],
+      "education": [
+        {
+          "institution": "Tel Aviv University",
+          "studyType": "Bachelor",
+          "area": "Computer Science",
+          "startDate": "2015-09-01",
+          "endDate": "2019-06-01"
+        }
+      ],
+      "issues_intentional": [
+        "18-month employment gap (Jan 2021 - Dec 2022)",
+        "Future end date in current position (2026)",
+        "Should trigger data quality warnings"
+      ]
+    },
+    {
+      "id": "edge_case_002",
+      "profile_name": "Overlapping employment dates",
+      "basics": {
+        "name": "Sarah Levi",
+        "label": "Product Manager",
+        "email": "sarah.levi@email.com",
+        "phone": "+972-52-7654321"
+      },
+      "work": [
+        {
+          "name": "ProductCo",
+          "position": "Product Manager",
+          "startDate": "2020-01-15",
+          "endDate": "2023-03-31",
+          "summary": "Managed product strategy"
+        },
+        {
+          "name": "InnovateLabs",
+          "position": "Senior Product Manager",
+          "startDate": "2023-02-01",
+          "endDate": "2024-10-31",
+          "summary": "Led cross-functional team"
+        }
+      ],
+      "issues_intentional": [
+        "Overlapping employment: Feb-Mar 2023",
+        "Could indicate: consulting during transition, freelance work, or data entry error",
+        "ATS should flag for verification"
+      ]
+    },
+    {
+      "id": "edge_case_003",
+      "profile_name": "Self-taught developer with no formal degree",
+      "basics": {
+        "name": "Yosef Goldman",
+        "label": "Full Stack Developer",
+        "email": "yosef.goldman@email.com",
+        "phone": "+972-54-9876543"
+      },
+      "work": [
+        {
+          "name": "StartupXYZ",
+          "position": "Junior Developer",
+          "startDate": "2020-08-01",
+          "endDate": "2022-12-31",
+          "summary": "Learned JavaScript and React on the job"
+        },
+        {
+          "name": "WebInnovate",
+          "position": "Full Stack Developer",
+          "startDate": "2023-01-01",
+          "endDate": "",
+          "summary": "Building full-stack applications with MERN"
+        }
+      ],
+      "education": [],
+      "skills": [
+        {
+          "name": "JavaScript",
+          "level": "Advanced"
+        },
+        {
+          "name": "React",
+          "level": "Advanced"
+        },
+        {
+          "name": "Node.js",
+          "level": "Intermediate"
+        }
+      ],
+      "certificates": [
+        {
+          "name": "Udemy React Bootcamp",
+          "date": "2020-10-01",
+          "issuer": "Udemy"
+        }
+      ],
+      "issues_intentional": [
+        "No formal education section",
+        "Only bootcamp certificate and work experience",
+        "ATS should handle gracefully without penalizing"
+      ]
+    },
+    {
+      "id": "edge_case_004",
+      "profile_name": "Hebrew name with special characters",
+      "basics": {
+        "name": "אברהם דצ'יק",
+        "label": "Data Analyst",
+        "email": "avraham.datzik@email.com",
+        "phone": "+972-50-5555555",
+        "location": {
+          "city": "Ramat Gan",
+          "countryCode": "IL"
+        }
+      },
+      "work": [
+        {
+          "name": "FinanceData",
+          "position": "Data Analyst",
+          "startDate": "2022-03-01",
+          "endDate": "",
+          "summary": "Analyzing financial metrics and trends"
+        }
+      ],
+      "issues_intentional": [
+        "Hebrew characters in name",
+        "Special character (apostrophe) in surname",
+        "Tests Unicode handling"
+      ]
+    },
+    {
+      "id": "edge_case_005",
+      "profile_name": "High keyword density (SEO-like optimization)",
+      "basics": {
+        "name": "Michael Brown",
+        "label": "Software Engineer - Python, JavaScript, React Expert",
+        "email": "michael.brown@email.com",
+        "summary": "Software Engineer with expertise in Python, JavaScript, React, and Node.js. Skilled in Python programming, JavaScript development, and React framework development. Expert in Python, JavaScript, and modern web technologies. Proficient in Python, JavaScript, and React. Years of experience with Python, JavaScript, and React."
+      },
+      "work": [
+        {
+          "name": "TechCorp",
+          "position": "Python Developer",
+          "startDate": "2021-01-01",
+          "endDate": "",
+          "summary": "Developing Python applications using Python frameworks. Building Python solutions. Writing Python code daily.",
+          "highlights": [
+            "Python expertise with advanced Python skills",
+            "JavaScript development in JavaScript",
+            "React framework implementation in React"
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "name": "Python",
+          "level": "Expert"
+        },
+        {
+          "name": "Python",
+          "level": "Advanced"
+        },
+        {
+          "name": "JavaScript",
+          "level": "Expert"
+        },
+        {
+          "name": "JavaScript",
+          "level": "Advanced"
+        },
+        {
+          "name": "React",
+          "level": "Expert"
+        },
+        {
+          "name": "React",
+          "level": "Master"
+        }
+      ],
+      "issues_intentional": [
+        "Excessive keyword repetition",
+        "Skills listed multiple times",
+        "Red flag: likely over-optimization for ATS",
+        "Should trigger keyword density warnings"
+      ]
+    },
+    {
+      "id": "edge_case_006",
+      "profile_name": "Frequent job changes (job hopping)",
+      "basics": {
+        "name": "Iris Shalit",
+        "label": "Marketing Manager",
+        "email": "iris.shalit@email.com"
+      },
+      "work": [
+        {
+          "name": "MarketingHub",
+          "position": "Marketing Coordinator",
+          "startDate": "2022-01-01",
+          "endDate": "2022-07-15",
+          "summary": "Social media and content"
+        },
+        {
+          "name": "BrandForce",
+          "position": "Marketing Specialist",
+          "startDate": "2022-09-01",
+          "endDate": "2023-04-30",
+          "summary": "Campaign management"
+        },
+        {
+          "name": "GrowthCo",
+          "position": "Senior Marketing Manager",
+          "startDate": "2023-06-15",
+          "endDate": "2024-04-30",
+          "summary": "Team leadership and strategy"
+        },
+        {
+          "name": "DigitalDynamics",
+          "position": "Marketing Manager",
+          "startDate": "2024-06-01",
+          "endDate": "",
+          "summary": "Digital marketing strategy"
+        }
+      ],
+      "issues_intentional": [
+        "Average tenure: 7-8 months per position",
+        "Pattern: frequent job changes",
+        "Red flag for stability concerns",
+        "Small gaps between positions"
+      ]
+    },
+    {
+      "id": "edge_case_007",
+      "profile_name": "Excessively detailed resume",
+      "basics": {
+        "name": "Benjamin Rosenberg",
+        "label": "Senior Business Analyst",
+        "email": "benjamin.rosenberg@email.com",
+        "summary": "Highly motivated, results-driven, and detail-oriented Senior Business Analyst with 7+ years of proven experience in enterprise-level business analysis, process improvement, stakeholder management, requirements gathering, solution design, project management, team leadership, mentoring junior analysts, process documentation, workflow optimization, systems integration, data analysis, quality assurance, risk management, compliance auditing, regulatory requirements analysis, best practices implementation, Agile/Scrum methodology expertise, change management, training delivery, and presentation skills. Expertise in Microsoft Office Suite, Visio, JIRA, Confluence, SQL, data modeling, and business intelligence tools. Known for exceptional communication, analytical thinking, problem-solving abilities, and cross-functional collaboration..."
+      },
+      "work": [
+        {
+          "name": "BusinessSolutions Inc.",
+          "position": "Senior Business Analyst",
+          "startDate": "2019-02-01",
+          "endDate": "",
+          "summary": "Served as Senior Business Analyst responsible for comprehensive business analysis activities including requirements elicitation through multiple channels (stakeholder interviews, workshops, documentation review), detailed requirements documentation with full specifications, traceability matrices, process flow diagrams, data models, gap analysis, solution design recommendations, feasibility studies, cost-benefit analysis, ROI calculations, implementation planning, project coordination, quality assurance, testing strategy development, test case creation, defect tracking and management, UAT coordination, change management support, training material development, training delivery, knowledge transfer sessions, ongoing support and optimization recommendations.",
+          "highlights": [
+            "Led enterprise-wide process improvement initiative resulting in 35% efficiency gains and $500K annual savings through comprehensive workflow redesign, stakeholder alignment, change management, and continuous optimization",
+            "Managed complex stakeholder engagements involving C-suite executives, department heads, and frontline staff requiring advanced communication, negotiation, and change management skills",
+            "Documented over 200 complex business requirements with full traceability to system specifications and test cases, achieving 99% accuracy rate",
+            "Coordinated multiple concurrent projects managing dependencies, resource allocation, risk mitigation, and delivery timelines"
+          ]
+        }
+      ],
+      "issues_intentional": [
+        "Summary length: ~500 words (excessive)",
+        "Job description: ~350 words per position",
+        "Highlights: detailed and lengthy",
+        "Tests: how ATS handles verbose content, parsing efficiency"
+      ]
+    },
+    {
+      "id": "edge_case_008",
+      "profile_name": "Minimal resume with sparse information",
+      "basics": {
+        "name": "Noa Amiram",
+        "label": "Designer",
+        "email": "noa.amiram@email.com"
+      },
+      "work": [
+        {
+          "name": "DesignStudio",
+          "position": "Designer",
+          "startDate": "2023-01-01",
+          "endDate": "",
+          "summary": "Design work"
+        }
+      ],
+      "skills": [
+        {
+          "name": "Figma",
+          "level": "Advanced"
+        },
+        {
+          "name": "Adobe",
+          "level": "Intermediate"
+        }
+      ],
+      "issues_intentional": [
+        "Minimal job description",
+        "No education listed",
+        "Limited skill details",
+        "Sparse contact information",
+        "Tests: can ATS work with minimal data?"
+      ]
+    }
+  ]
+}

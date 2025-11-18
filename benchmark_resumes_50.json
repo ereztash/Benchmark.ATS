@@ -1,0 +1,6885 @@
+[
+  {
+    "basics": {
+      "name": "Noa Cohen",
+      "label": "Junior Software Engineer",
+      "email": "noa.cohen@email.com",
+      "phone": "+972-52-5108603",
+      "url": "https://linkedin.com/in/noa-cohen",
+      "summary": "Experienced Software Engineer with 2 years of experience in analysis",
+      "location": {
+        "address": "27 Main Street",
+        "postalCode": "87397",
+        "city": "Ramat Gan",
+        "countryCode": "IL",
+        "region": "Southern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Noa-Cohen",
+          "url": "https://linkedin.com/in/noa-cohen"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "WebInnovate",
+        "position": "Junior Software Engineer",
+        "startDate": "2024-01-01",
+        "endDate": "",
+        "summary": "Worked as Junior Software Engineer at WebInnovate",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "AIGlobal",
+        "position": "Software Engineer",
+        "startDate": "2022-09-01",
+        "endDate": "2023-04-01",
+        "summary": "Worked as Software Engineer at AIGlobal",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tel Aviv University",
+        "area": "Engineering",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "86"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Expert",
+        "keywords": [
+          "Node.js"
+        ]
+      },
+      {
+        "name": "REST API",
+        "level": "Advanced",
+        "keywords": [
+          "REST API"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced",
+        "keywords": [
+          "SQL"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Intermediate",
+        "keywords": [
+          "React"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Intermediate",
+        "keywords": [
+          "Python"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Advanced",
+        "keywords": [
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "Docker",
+        "level": "Beginner",
+        "keywords": [
+          "Docker"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "David Stein",
+      "label": "Product Manager",
+      "email": "david.stein@email.com",
+      "phone": "+972-54-3094235",
+      "url": "https://linkedin.com/in/david-stein",
+      "summary": "Experienced Product Manager with 5 years of experience in management",
+      "location": {
+        "address": "76 Business Road",
+        "postalCode": "85674",
+        "city": "Jerusalem",
+        "countryCode": "IL",
+        "region": "Northern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "David-Stein",
+          "url": "https://linkedin.com/in/david-stein"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "InnovateLabs",
+        "position": "Associate Product Manager",
+        "startDate": "2024-01-01",
+        "endDate": "",
+        "summary": "Worked as Associate Product Manager at InnovateLabs",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "ProductCo",
+        "position": "Product Manager",
+        "startDate": "2021-02-01",
+        "endDate": "2023-07-01",
+        "summary": "Worked as Product Manager at ProductCo",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "StrategicTech",
+        "position": "Senior Product Manager",
+        "startDate": "2019-06-01",
+        "endDate": "2021-06-01",
+        "summary": "Worked as Senior Product Manager at StrategicTech",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Computer Science",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "85"
+      },
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Computer Science",
+        "studyType": "Master",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "81"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Stakeholder Management",
+        "level": "Expert",
+        "keywords": [
+          "Stakeholder Management"
+        ]
+      },
+      {
+        "name": "User Research",
+        "level": "Expert",
+        "keywords": [
+          "User Research"
+        ]
+      },
+      {
+        "name": "A/B Testing",
+        "level": "Advanced",
+        "keywords": [
+          "A/B Testing"
+        ]
+      },
+      {
+        "name": "Product Strategy",
+        "level": "Intermediate",
+        "keywords": [
+          "Product Strategy"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "REFORGE Product Strategy",
+        "date": "2024-11-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Rachel Gur",
+      "label": "Senior Data Analyst",
+      "email": "rachel.gur@email.com",
+      "phone": "+972-53-3396987",
+      "url": "https://linkedin.com/in/rachel-gur",
+      "summary": "Experienced Data Analyst with 8 years of experience in strategy",
+      "location": {
+        "address": "191 Business Road",
+        "postalCode": "86622",
+        "city": "Ramat Gan",
+        "countryCode": "IL",
+        "region": "Jerusalem District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Rachel-Gur",
+          "url": "https://linkedin.com/in/rachel-gur"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "BusinessIntel",
+        "position": "Junior Data Analyst",
+        "startDate": "2021-06-01",
+        "endDate": "",
+        "summary": "Worked as Junior Data Analyst at BusinessIntel",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "BusinessIntel",
+        "position": "Data Analyst",
+        "startDate": "2022-01-01",
+        "endDate": "2023-02-01",
+        "summary": "Worked as Data Analyst at BusinessIntel",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "BusinessIntel",
+        "position": "Senior Data Analyst",
+        "startDate": "2020-07-01",
+        "endDate": "2021-07-01",
+        "summary": "Worked as Senior Data Analyst at BusinessIntel",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "FinanceData",
+        "position": "Analytics Manager",
+        "startDate": "2018-11-01",
+        "endDate": "2019-12-01",
+        "summary": "Worked as Analytics Manager at FinanceData",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Information Systems",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "91"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Data Visualization",
+        "level": "Beginner",
+        "keywords": [
+          "Data Visualization"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced",
+        "keywords": [
+          "SQL"
+        ]
+      },
+      {
+        "name": "Tableau",
+        "level": "Intermediate",
+        "keywords": [
+          "Tableau"
+        ]
+      },
+      {
+        "name": "Power BI",
+        "level": "Beginner",
+        "keywords": [
+          "Power BI"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Advanced",
+        "keywords": [
+          "Python"
+        ]
+      },
+      {
+        "name": "Statistics",
+        "level": "Intermediate",
+        "keywords": [
+          "Statistics"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Tableau Desktop Specialist",
+        "date": "2025-02-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Hana Navon",
+      "label": "Marketing Director",
+      "email": "hana.navon@email.com",
+      "phone": "+972-51-1971823",
+      "url": "https://linkedin.com/in/hana-navon",
+      "summary": "Experienced Marketing Manager with 11 years of experience in analysis",
+      "location": {
+        "address": "22 Innovation Blvd",
+        "postalCode": "19071",
+        "city": "Givatayim",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Hana-Navon",
+          "url": "https://linkedin.com/in/hana-navon"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "BrandForce",
+        "position": "Marketing Coordinator",
+        "startDate": "2023-11-01",
+        "endDate": "",
+        "summary": "Worked as Marketing Coordinator at BrandForce",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "GrowthCo",
+        "position": "Marketing Manager",
+        "startDate": "2019-04-01",
+        "endDate": "2023-09-01",
+        "summary": "Worked as Marketing Manager at GrowthCo",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "GrowthCo",
+        "position": "Senior Marketing Manager",
+        "startDate": "2017-11-01",
+        "endDate": "2021-11-01",
+        "summary": "Worked as Senior Marketing Manager at GrowthCo",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "DigitalDynamics",
+        "position": "Marketing Director",
+        "startDate": "2018-04-01",
+        "endDate": "2019-04-01",
+        "summary": "Worked as Marketing Director at DigitalDynamics",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "BrandForce",
+        "position": "Marketing Director",
+        "startDate": "2015-01-01",
+        "endDate": "2017-02-01",
+        "summary": "Worked as Marketing Director at BrandForce",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Bar Ilan University",
+        "area": "Economics",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "81"
+      },
+      {
+        "institution": "Tel Aviv University",
+        "area": "Data Science",
+        "studyType": "Bachelor",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "88"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Digital Marketing",
+        "level": "Intermediate",
+        "keywords": [
+          "Digital Marketing"
+        ]
+      },
+      {
+        "name": "Brand Strategy",
+        "level": "Advanced",
+        "keywords": [
+          "Brand Strategy"
+        ]
+      },
+      {
+        "name": "Content Strategy",
+        "level": "Expert",
+        "keywords": [
+          "Content Strategy"
+        ]
+      },
+      {
+        "name": "Campaign Management",
+        "level": "Intermediate",
+        "keywords": [
+          "Campaign Management"
+        ]
+      },
+      {
+        "name": "Google Analytics",
+        "level": "Intermediate",
+        "keywords": [
+          "Google Analytics"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Benjamin Levi",
+      "label": "HR Coordinator",
+      "email": "benjamin.levi@email.com",
+      "phone": "+972-50-2016911",
+      "url": "https://linkedin.com/in/benjamin-levi",
+      "summary": "Experienced HR Specialist with 2 years of experience in management",
+      "location": {
+        "address": "64 Tech Avenue",
+        "postalCode": "34931",
+        "city": "Haifa",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Benjamin-Levi",
+          "url": "https://linkedin.com/in/benjamin-levi"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "OrganizationPlus",
+        "position": "HR Coordinator",
+        "startDate": "2023-07-01",
+        "endDate": "",
+        "summary": "Worked as HR Coordinator at OrganizationPlus",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "TalentCorp",
+        "position": "HR Specialist",
+        "startDate": "2022-08-01",
+        "endDate": "2023-09-01",
+        "summary": "Worked as HR Specialist at TalentCorp",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Bar Ilan University",
+        "area": "Computer Science",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "87"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Recruitment",
+        "level": "Expert",
+        "keywords": [
+          "Recruitment"
+        ]
+      },
+      {
+        "name": "Employee Relations",
+        "level": "Expert",
+        "keywords": [
+          "Employee Relations"
+        ]
+      },
+      {
+        "name": "HRIS",
+        "level": "Intermediate",
+        "keywords": [
+          "HRIS"
+        ]
+      },
+      {
+        "name": "Performance Management",
+        "level": "Expert",
+        "keywords": [
+          "Performance Management"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "HR Business Partner",
+        "date": "2023-07-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Alon Peretz",
+      "label": "UX Designer",
+      "email": "alon.peretz@email.com",
+      "phone": "+972-51-4185957",
+      "url": "https://linkedin.com/in/alon-peretz",
+      "summary": "Experienced UX Designer with 5 years of experience in strategy",
+      "location": {
+        "address": "149 Main Street",
+        "postalCode": "51104",
+        "city": "Petah Tikva",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Alon-Peretz",
+          "url": "https://linkedin.com/in/alon-peretz"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "DesignStudio",
+        "position": "Junior UX Designer",
+        "startDate": "2024-10-01",
+        "endDate": "",
+        "summary": "Worked as Junior UX Designer at DesignStudio",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "UserExperience",
+        "position": "UX Designer",
+        "startDate": "2022-09-01",
+        "endDate": "2023-02-01",
+        "summary": "Worked as UX Designer at UserExperience",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "DesignStudio",
+        "position": "Senior UX Designer",
+        "startDate": "2019-07-01",
+        "endDate": "2021-02-01",
+        "summary": "Worked as Senior UX Designer at DesignStudio",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Data Science",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "95"
+      },
+      {
+        "institution": "Bar Ilan University",
+        "area": "Engineering",
+        "studyType": "Master",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "77"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Adobe XD",
+        "level": "Advanced",
+        "keywords": [
+          "Adobe XD"
+        ]
+      },
+      {
+        "name": "Figma",
+        "level": "Intermediate",
+        "keywords": [
+          "Figma"
+        ]
+      },
+      {
+        "name": "Prototyping",
+        "level": "Advanced",
+        "keywords": [
+          "Prototyping"
+        ]
+      },
+      {
+        "name": "Wireframing",
+        "level": "Intermediate",
+        "keywords": [
+          "Wireframing"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Dani Brown",
+      "label": "Senior Business Analyst",
+      "email": "dani.brown@email.com",
+      "phone": "+972-50-4576135",
+      "url": "https://linkedin.com/in/dani-brown",
+      "summary": "Experienced Business Analyst with 8 years of experience in strategy",
+      "location": {
+        "address": "18 Tech Avenue",
+        "postalCode": "58434",
+        "city": "Ramat Gan",
+        "countryCode": "IL",
+        "region": "Haifa District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Dani-Brown",
+          "url": "https://linkedin.com/in/dani-brown"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "StrategyConsult",
+        "position": "Junior Business Analyst",
+        "startDate": "2023-08-01",
+        "endDate": "",
+        "summary": "Worked as Junior Business Analyst at StrategyConsult",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "BusinessSolutions",
+        "position": "Business Analyst",
+        "startDate": "2020-11-01",
+        "endDate": "2023-02-01",
+        "summary": "Worked as Business Analyst at BusinessSolutions",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "BusinessSolutions",
+        "position": "Senior Business Analyst",
+        "startDate": "2019-05-01",
+        "endDate": "2021-05-01",
+        "summary": "Worked as Senior Business Analyst at BusinessSolutions",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "StrategyConsult",
+        "position": "Business Analysis Manager",
+        "startDate": "2017-11-01",
+        "endDate": "2019-11-01",
+        "summary": "Worked as Business Analysis Manager at StrategyConsult",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tel Aviv University",
+        "area": "Data Science",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "79"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Requirements Analysis",
+        "level": "Advanced",
+        "keywords": [
+          "Requirements Analysis"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "Intermediate",
+        "keywords": [
+          "SQL"
+        ]
+      },
+      {
+        "name": "Business Acumen",
+        "level": "Advanced",
+        "keywords": [
+          "Business Acumen"
+        ]
+      },
+      {
+        "name": "Process Improvement",
+        "level": "Intermediate",
+        "keywords": [
+          "Process Improvement"
+        ]
+      },
+      {
+        "name": "Documentation",
+        "level": "Expert",
+        "keywords": [
+          "Documentation"
+        ]
+      },
+      {
+        "name": "Stakeholder Management",
+        "level": "Expert",
+        "keywords": [
+          "Stakeholder Management"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Hana Gonen",
+      "label": "DevOps Lead",
+      "email": "hana.gonen@email.com",
+      "phone": "+972-54-3484601",
+      "url": "https://linkedin.com/in/hana-gonen",
+      "summary": "Experienced DevOps Engineer with 11 years of experience in management",
+      "location": {
+        "address": "79 Business Road",
+        "postalCode": "15229",
+        "city": "Ramat Gan",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Hana-Gonen",
+          "url": "https://linkedin.com/in/hana-gonen"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "SystemsScale",
+        "position": "Junior DevOps Engineer",
+        "startDate": "2023-11-01",
+        "endDate": "",
+        "summary": "Worked as Junior DevOps Engineer at SystemsScale",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "SystemsScale",
+        "position": "DevOps Engineer",
+        "startDate": "2019-10-01",
+        "endDate": "2023-12-01",
+        "summary": "Worked as DevOps Engineer at SystemsScale",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "CloudOps",
+        "position": "Senior DevOps Engineer",
+        "startDate": "2017-01-01",
+        "endDate": "2021-03-01",
+        "summary": "Worked as Senior DevOps Engineer at CloudOps",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "CloudOps",
+        "position": "DevOps Lead",
+        "startDate": "2016-03-01",
+        "endDate": "2019-12-01",
+        "summary": "Worked as DevOps Lead at CloudOps",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "DeploymentHub",
+        "position": "DevOps Lead",
+        "startDate": "2015-04-01",
+        "endDate": "2017-08-01",
+        "summary": "Worked as DevOps Lead at DeploymentHub",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tel Aviv University",
+        "area": "Engineering",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "80"
+      },
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Computer Science",
+        "studyType": "MBA",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "78"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Advanced",
+        "keywords": [
+          "Kubernetes"
+        ]
+      },
+      {
+        "name": "Terraform",
+        "level": "Beginner",
+        "keywords": [
+          "Terraform"
+        ]
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced",
+        "keywords": [
+          "Docker"
+        ]
+      },
+      {
+        "name": "CI/CD",
+        "level": "Advanced",
+        "keywords": [
+          "CI/CD"
+        ]
+      },
+      {
+        "name": "AWS",
+        "level": "Expert",
+        "keywords": [
+          "AWS"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Yosef Armon",
+      "label": "Sales Development Representative",
+      "email": "yosef.armon@email.com",
+      "phone": "+972-54-9580255",
+      "url": "https://linkedin.com/in/yosef-armon",
+      "summary": "Experienced Sales Representative with 2 years of experience in development",
+      "location": {
+        "address": "49 Business Road",
+        "postalCode": "15817",
+        "city": "Netanya",
+        "countryCode": "IL",
+        "region": "Northern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Yosef-Armon",
+          "url": "https://linkedin.com/in/yosef-armon"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "MarketCapture",
+        "position": "Sales Development Representative",
+        "startDate": "2024-09-01",
+        "endDate": "",
+        "summary": "Worked as Sales Development Representative at MarketCapture",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "RevenueDrive",
+        "position": "Sales Executive",
+        "startDate": "2020-07-01",
+        "endDate": "2023-02-01",
+        "summary": "Worked as Sales Executive at RevenueDrive",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Information Systems",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "93"
+      },
+      {
+        "institution": "Bar Ilan University",
+        "area": "Information Systems",
+        "studyType": "Master",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "75"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Pipeline Management",
+        "level": "Advanced",
+        "keywords": [
+          "Pipeline Management"
+        ]
+      },
+      {
+        "name": "Sales",
+        "level": "Expert",
+        "keywords": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "CRM",
+        "level": "Advanced",
+        "keywords": [
+          "CRM"
+        ]
+      },
+      {
+        "name": "Customer Relations",
+        "level": "Intermediate",
+        "keywords": [
+          "Customer Relations"
+        ]
+      },
+      {
+        "name": "Negotiation",
+        "level": "Intermediate",
+        "keywords": [
+          "Negotiation"
+        ]
+      },
+      {
+        "name": "Closing",
+        "level": "Expert",
+        "keywords": [
+          "Closing"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Leah Gonen",
+      "label": "QA Engineer",
+      "email": "leah.gonen@email.com",
+      "phone": "+972-54-6406444",
+      "url": "https://linkedin.com/in/leah-gonen",
+      "summary": "Experienced Quality Assurance with 5 years of experience in management",
+      "location": {
+        "address": "173 Tech Avenue",
+        "postalCode": "77000",
+        "city": "Bat Yam",
+        "countryCode": "IL",
+        "region": "Central District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Leah-Gonen",
+          "url": "https://linkedin.com/in/leah-gonen"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "QAExperts",
+        "position": "QA Tester",
+        "startDate": "2023-11-01",
+        "endDate": "",
+        "summary": "Worked as QA Tester at QAExperts",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "AssuranceTech",
+        "position": "QA Engineer",
+        "startDate": "2022-04-01",
+        "endDate": "2023-11-01",
+        "summary": "Worked as QA Engineer at AssuranceTech",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "TestingLab",
+        "position": "Senior QA Engineer",
+        "startDate": "2020-01-01",
+        "endDate": "2021-04-01",
+        "summary": "Worked as Senior QA Engineer at TestingLab",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Haifa University",
+        "area": "Economics",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "76"
+      }
+    ],
+    "skills": [
+      {
+        "name": "QA Methodologies",
+        "level": "Expert",
+        "keywords": [
+          "QA Methodologies"
+        ]
+      },
+      {
+        "name": "Bug Tracking",
+        "level": "Intermediate",
+        "keywords": [
+          "Bug Tracking"
+        ]
+      },
+      {
+        "name": "Test Automation",
+        "level": "Intermediate",
+        "keywords": [
+          "Test Automation"
+        ]
+      },
+      {
+        "name": "Selenium",
+        "level": "Beginner",
+        "keywords": [
+          "Selenium"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Beginner",
+        "keywords": [
+          "Python"
+        ]
+      },
+      {
+        "name": "Manual Testing",
+        "level": "Expert",
+        "keywords": [
+          "Manual Testing"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Noa Stein",
+      "label": "Senior Financial Analyst",
+      "email": "noa.stein@email.com",
+      "phone": "+972-51-8795419",
+      "url": "https://linkedin.com/in/noa-stein",
+      "summary": "Experienced Financial Analyst with 8 years of experience in strategy",
+      "location": {
+        "address": "185 Innovation Blvd",
+        "postalCode": "81810",
+        "city": "Bat Yam",
+        "countryCode": "IL",
+        "region": "Northern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Noa-Stein",
+          "url": "https://linkedin.com/in/noa-stein"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "CapitalAdvisory",
+        "position": "Junior Financial Analyst",
+        "startDate": "2023-12-01",
+        "endDate": "",
+        "summary": "Worked as Junior Financial Analyst at CapitalAdvisory",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "InvestmentCorp",
+        "position": "Financial Analyst",
+        "startDate": "2020-09-01",
+        "endDate": "2023-08-01",
+        "summary": "Worked as Financial Analyst at InvestmentCorp",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "CapitalAdvisory",
+        "position": "Senior Financial Analyst",
+        "startDate": "2020-12-01",
+        "endDate": "2021-05-01",
+        "summary": "Worked as Senior Financial Analyst at CapitalAdvisory",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "Wealth Management",
+        "position": "Finance Manager",
+        "startDate": "2018-03-01",
+        "endDate": "2019-03-01",
+        "summary": "Worked as Finance Manager at Wealth Management",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Haifa University",
+        "area": "Data Science",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "75"
+      },
+      {
+        "institution": "Bar Ilan University",
+        "area": "Economics",
+        "studyType": "MBA",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "75"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Accounting",
+        "level": "Advanced",
+        "keywords": [
+          "Accounting"
+        ]
+      },
+      {
+        "name": "Excel",
+        "level": "Expert",
+        "keywords": [
+          "Excel"
+        ]
+      },
+      {
+        "name": "Financial Modeling",
+        "level": "Expert",
+        "keywords": [
+          "Financial Modeling"
+        ]
+      },
+      {
+        "name": "Bloomberg",
+        "level": "Beginner",
+        "keywords": [
+          "Bloomberg"
+        ]
+      },
+      {
+        "name": "Valuation",
+        "level": "Intermediate",
+        "keywords": [
+          "Valuation"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Reuben Armon",
+      "label": "Content Director",
+      "email": "reuben.armon@email.com",
+      "phone": "+972-54-4700025",
+      "url": "https://linkedin.com/in/reuben-armon",
+      "summary": "Experienced Content Strategist with 11 years of experience in management",
+      "location": {
+        "address": "112 Innovation Blvd",
+        "postalCode": "13804",
+        "city": "Petah Tikva",
+        "countryCode": "IL",
+        "region": "Haifa District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Reuben-Armon",
+          "url": "https://linkedin.com/in/reuben-armon"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "DigitalPublishing",
+        "position": "Content Writer",
+        "startDate": "2022-11-01",
+        "endDate": "",
+        "summary": "Worked as Content Writer at DigitalPublishing",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "MediaGroup",
+        "position": "Content Strategist",
+        "startDate": "2019-03-01",
+        "endDate": "2023-10-01",
+        "summary": "Worked as Content Strategist at MediaGroup",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "ContentCreative",
+        "position": "Senior Content Strategist",
+        "startDate": "2020-11-01",
+        "endDate": "2021-07-01",
+        "summary": "Worked as Senior Content Strategist at ContentCreative",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "ContentCreative",
+        "position": "Content Director",
+        "startDate": "2016-07-01",
+        "endDate": "2019-06-01",
+        "summary": "Worked as Content Director at ContentCreative",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "PublishingHub",
+        "position": "Content Director",
+        "startDate": "2013-05-01",
+        "endDate": "2017-07-01",
+        "summary": "Worked as Content Director at PublishingHub",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tel Aviv University",
+        "area": "Information Systems",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "79"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Editorial",
+        "level": "Intermediate",
+        "keywords": [
+          "Editorial"
+        ]
+      },
+      {
+        "name": "Storytelling",
+        "level": "Beginner",
+        "keywords": [
+          "Storytelling"
+        ]
+      },
+      {
+        "name": "Content Strategy",
+        "level": "Beginner",
+        "keywords": [
+          "Content Strategy"
+        ]
+      },
+      {
+        "name": "SEO Writing",
+        "level": "Beginner",
+        "keywords": [
+          "SEO Writing"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Noa Gonen",
+      "label": "Junior Software Engineer",
+      "email": "noa.gonen@email.com",
+      "phone": "+972-51-8801975",
+      "url": "https://linkedin.com/in/noa-gonen",
+      "summary": "Experienced Software Engineer with 2 years of experience in strategy",
+      "location": {
+        "address": "156 Main Street",
+        "postalCode": "31465",
+        "city": "Haifa",
+        "countryCode": "IL",
+        "region": "Jerusalem District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Noa-Gonen",
+          "url": "https://linkedin.com/in/noa-gonen"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "CloudTech",
+        "position": "Junior Software Engineer",
+        "startDate": "2024-10-01",
+        "endDate": "",
+        "summary": "Worked as Junior Software Engineer at CloudTech",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "WebInnovate",
+        "position": "Software Engineer",
+        "startDate": "2019-12-01",
+        "endDate": "2023-04-01",
+        "summary": "Worked as Software Engineer at WebInnovate",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Computer Science",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "88"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Beginner",
+        "keywords": [
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "Beginner",
+        "keywords": [
+          "SQL"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Advanced",
+        "keywords": [
+          "Git"
+        ]
+      },
+      {
+        "name": "Docker",
+        "level": "Expert",
+        "keywords": [
+          "Docker"
+        ]
+      },
+      {
+        "name": "REST API",
+        "level": "Advanced",
+        "keywords": [
+          "REST API"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Hana Stein",
+      "label": "Product Manager",
+      "email": "hana.stein@email.com",
+      "phone": "+972-51-8306261",
+      "url": "https://linkedin.com/in/hana-stein",
+      "summary": "Experienced Product Manager with 5 years of experience in analysis",
+      "location": {
+        "address": "70 Innovation Blvd",
+        "postalCode": "70931",
+        "city": "Holon",
+        "countryCode": "IL",
+        "region": "Southern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Hana-Stein",
+          "url": "https://linkedin.com/in/hana-stein"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "MarketLeaders",
+        "position": "Associate Product Manager",
+        "startDate": "2022-06-01",
+        "endDate": "",
+        "summary": "Worked as Associate Product Manager at MarketLeaders",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "MarketLeaders",
+        "position": "Product Manager",
+        "startDate": "2021-08-01",
+        "endDate": "2023-10-01",
+        "summary": "Worked as Product Manager at MarketLeaders",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "StrategicTech",
+        "position": "Senior Product Manager",
+        "startDate": "2020-08-01",
+        "endDate": "2021-06-01",
+        "summary": "Worked as Senior Product Manager at StrategicTech",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Bar Ilan University",
+        "area": "Economics",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "75"
+      },
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Business Administration",
+        "studyType": "Bachelor",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "87"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Analytics",
+        "level": "Intermediate",
+        "keywords": [
+          "Analytics"
+        ]
+      },
+      {
+        "name": "A/B Testing",
+        "level": "Beginner",
+        "keywords": [
+          "A/B Testing"
+        ]
+      },
+      {
+        "name": "Stakeholder Management",
+        "level": "Intermediate",
+        "keywords": [
+          "Stakeholder Management"
+        ]
+      },
+      {
+        "name": "Roadmapping",
+        "level": "Expert",
+        "keywords": [
+          "Roadmapping"
+        ]
+      },
+      {
+        "name": "User Research",
+        "level": "Expert",
+        "keywords": [
+          "User Research"
+        ]
+      },
+      {
+        "name": "Product Strategy",
+        "level": "Intermediate",
+        "keywords": [
+          "Product Strategy"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Dani Kazan",
+      "label": "Senior Data Analyst",
+      "email": "dani.kazan@email.com",
+      "phone": "+972-53-9907391",
+      "url": "https://linkedin.com/in/dani-kazan",
+      "summary": "Experienced Data Analyst with 8 years of experience in strategy",
+      "location": {
+        "address": "141 Business Road",
+        "postalCode": "56112",
+        "city": "Netanya",
+        "countryCode": "IL",
+        "region": "Southern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Dani-Kazan",
+          "url": "https://linkedin.com/in/dani-kazan"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "BusinessIntel",
+        "position": "Junior Data Analyst",
+        "startDate": "2022-05-01",
+        "endDate": "",
+        "summary": "Worked as Junior Data Analyst at BusinessIntel",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "AnalyticsPro",
+        "position": "Data Analyst",
+        "startDate": "2020-02-01",
+        "endDate": "2023-12-01",
+        "summary": "Worked as Data Analyst at AnalyticsPro",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "AnalyticsPro",
+        "position": "Senior Data Analyst",
+        "startDate": "2019-12-01",
+        "endDate": "2021-08-01",
+        "summary": "Worked as Senior Data Analyst at AnalyticsPro",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "FinanceData",
+        "position": "Analytics Manager",
+        "startDate": "2018-04-01",
+        "endDate": "2019-05-01",
+        "summary": "Worked as Analytics Manager at FinanceData",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Bar Ilan University",
+        "area": "Economics",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "85"
+      },
+      {
+        "institution": "Tel Aviv University",
+        "area": "Engineering",
+        "studyType": "Bachelor",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "90"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "Beginner",
+        "keywords": [
+          "SQL"
+        ]
+      },
+      {
+        "name": "Data Visualization",
+        "level": "Advanced",
+        "keywords": [
+          "Data Visualization"
+        ]
+      },
+      {
+        "name": "Statistics",
+        "level": "Intermediate",
+        "keywords": [
+          "Statistics"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Expert",
+        "keywords": [
+          "Python"
+        ]
+      },
+      {
+        "name": "Tableau",
+        "level": "Beginner",
+        "keywords": [
+          "Tableau"
+        ]
+      },
+      {
+        "name": "Pandas",
+        "level": "Beginner",
+        "keywords": [
+          "Pandas"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Tableau Desktop Specialist",
+        "date": "2022-02-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Dani Levi",
+      "label": "Marketing Director",
+      "email": "dani.levi@email.com",
+      "phone": "+972-51-3503120",
+      "url": "https://linkedin.com/in/dani-levi",
+      "summary": "Experienced Marketing Manager with 11 years of experience in strategy",
+      "location": {
+        "address": "31 Innovation Blvd",
+        "postalCode": "89471",
+        "city": "Jerusalem",
+        "countryCode": "IL",
+        "region": "Jerusalem District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Dani-Levi",
+          "url": "https://linkedin.com/in/dani-levi"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "BrandForce",
+        "position": "Marketing Coordinator",
+        "startDate": "2021-08-01",
+        "endDate": "",
+        "summary": "Worked as Marketing Coordinator at BrandForce",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "DigitalDynamics",
+        "position": "Marketing Manager",
+        "startDate": "2020-10-01",
+        "endDate": "2023-10-01",
+        "summary": "Worked as Marketing Manager at DigitalDynamics",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "MarketingHub",
+        "position": "Senior Marketing Manager",
+        "startDate": "2019-11-01",
+        "endDate": "2021-04-01",
+        "summary": "Worked as Senior Marketing Manager at MarketingHub",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "BrandForce",
+        "position": "Marketing Director",
+        "startDate": "2017-03-01",
+        "endDate": "2019-09-01",
+        "summary": "Worked as Marketing Director at BrandForce",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "DigitalDynamics",
+        "position": "Marketing Director",
+        "startDate": "2013-12-01",
+        "endDate": "2017-10-01",
+        "summary": "Worked as Marketing Director at DigitalDynamics",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Engineering",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "79"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Content Strategy",
+        "level": "Intermediate",
+        "keywords": [
+          "Content Strategy"
+        ]
+      },
+      {
+        "name": "Campaign Management",
+        "level": "Advanced",
+        "keywords": [
+          "Campaign Management"
+        ]
+      },
+      {
+        "name": "Brand Strategy",
+        "level": "Intermediate",
+        "keywords": [
+          "Brand Strategy"
+        ]
+      },
+      {
+        "name": "Social Media",
+        "level": "Expert",
+        "keywords": [
+          "Social Media"
+        ]
+      },
+      {
+        "name": "Digital Marketing",
+        "level": "Beginner",
+        "keywords": [
+          "Digital Marketing"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Iris Shavit",
+      "label": "HR Coordinator",
+      "email": "iris.shavit@email.com",
+      "phone": "+972-54-5842082",
+      "url": "https://linkedin.com/in/iris-shavit",
+      "summary": "Experienced HR Specialist with 2 years of experience in management",
+      "location": {
+        "address": "177 Business Road",
+        "postalCode": "62757",
+        "city": "Jerusalem",
+        "countryCode": "IL",
+        "region": "Central District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Iris-Shavit",
+          "url": "https://linkedin.com/in/iris-shavit"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "PeopleFirst",
+        "position": "HR Coordinator",
+        "startDate": "2021-08-01",
+        "endDate": "",
+        "summary": "Worked as HR Coordinator at PeopleFirst",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "OrganizationPlus",
+        "position": "HR Specialist",
+        "startDate": "2020-10-01",
+        "endDate": "2023-05-01",
+        "summary": "Worked as HR Specialist at OrganizationPlus",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Bar Ilan University",
+        "area": "Computer Science",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "90"
+      },
+      {
+        "institution": "Bar Ilan University",
+        "area": "Engineering",
+        "studyType": "Master",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "85"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Labor Law",
+        "level": "Expert",
+        "keywords": [
+          "Labor Law"
+        ]
+      },
+      {
+        "name": "Training",
+        "level": "Expert",
+        "keywords": [
+          "Training"
+        ]
+      },
+      {
+        "name": "Recruitment",
+        "level": "Advanced",
+        "keywords": [
+          "Recruitment"
+        ]
+      },
+      {
+        "name": "Performance Management",
+        "level": "Intermediate",
+        "keywords": [
+          "Performance Management"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Miriam Shalit",
+      "label": "UX Designer",
+      "email": "miriam.shalit@email.com",
+      "phone": "+972-53-9312590",
+      "url": "https://linkedin.com/in/miriam-shalit",
+      "summary": "Experienced UX Designer with 5 years of experience in strategy",
+      "location": {
+        "address": "10 Innovation Blvd",
+        "postalCode": "21542",
+        "city": "Netanya",
+        "countryCode": "IL",
+        "region": "Northern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Miriam-Shalit",
+          "url": "https://linkedin.com/in/miriam-shalit"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "CreativeHub",
+        "position": "Junior UX Designer",
+        "startDate": "2022-06-01",
+        "endDate": "",
+        "summary": "Worked as Junior UX Designer at CreativeHub",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "DesignStudio",
+        "position": "UX Designer",
+        "startDate": "2019-07-01",
+        "endDate": "2023-01-01",
+        "summary": "Worked as UX Designer at DesignStudio",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "InterfaceWorks",
+        "position": "Senior UX Designer",
+        "startDate": "2017-01-01",
+        "endDate": "2021-04-01",
+        "summary": "Worked as Senior UX Designer at InterfaceWorks",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tel Aviv University",
+        "area": "Data Science",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "79"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Prototyping",
+        "level": "Intermediate",
+        "keywords": [
+          "Prototyping"
+        ]
+      },
+      {
+        "name": "UI Design",
+        "level": "Advanced",
+        "keywords": [
+          "UI Design"
+        ]
+      },
+      {
+        "name": "Interaction Design",
+        "level": "Beginner",
+        "keywords": [
+          "Interaction Design"
+        ]
+      },
+      {
+        "name": "Figma",
+        "level": "Expert",
+        "keywords": [
+          "Figma"
+        ]
+      },
+      {
+        "name": "Adobe XD",
+        "level": "Beginner",
+        "keywords": [
+          "Adobe XD"
+        ]
+      },
+      {
+        "name": "Wireframing",
+        "level": "Intermediate",
+        "keywords": [
+          "Wireframing"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Google UX Design",
+        "date": "2023-07-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Rachel Peretz",
+      "label": "Senior Business Analyst",
+      "email": "rachel.peretz@email.com",
+      "phone": "+972-51-8663605",
+      "url": "https://linkedin.com/in/rachel-peretz",
+      "summary": "Experienced Business Analyst with 8 years of experience in analysis",
+      "location": {
+        "address": "154 Tech Avenue",
+        "postalCode": "19150",
+        "city": "Netanya",
+        "countryCode": "IL",
+        "region": "Jerusalem District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Rachel-Peretz",
+          "url": "https://linkedin.com/in/rachel-peretz"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "StrategyConsult",
+        "position": "Junior Business Analyst",
+        "startDate": "2021-06-01",
+        "endDate": "",
+        "summary": "Worked as Junior Business Analyst at StrategyConsult",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "StrategyConsult",
+        "position": "Business Analyst",
+        "startDate": "2020-10-01",
+        "endDate": "2023-10-01",
+        "summary": "Worked as Business Analyst at StrategyConsult",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "EnterpriseAnalytics",
+        "position": "Senior Business Analyst",
+        "startDate": "2017-06-01",
+        "endDate": "2021-06-01",
+        "summary": "Worked as Senior Business Analyst at EnterpriseAnalytics",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "EnterpriseAnalytics",
+        "position": "Business Analysis Manager",
+        "startDate": "2016-04-01",
+        "endDate": "2019-12-01",
+        "summary": "Worked as Business Analysis Manager at EnterpriseAnalytics",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Haifa University",
+        "area": "Engineering",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "78"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Business Acumen",
+        "level": "Expert",
+        "keywords": [
+          "Business Acumen"
+        ]
+      },
+      {
+        "name": "Requirements Analysis",
+        "level": "Expert",
+        "keywords": [
+          "Requirements Analysis"
+        ]
+      },
+      {
+        "name": "Stakeholder Management",
+        "level": "Intermediate",
+        "keywords": [
+          "Stakeholder Management"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "Expert",
+        "keywords": [
+          "SQL"
+        ]
+      },
+      {
+        "name": "Process Improvement",
+        "level": "Beginner",
+        "keywords": [
+          "Process Improvement"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Benjamin Cohen",
+      "label": "DevOps Lead",
+      "email": "benjamin.cohen@email.com",
+      "phone": "+972-51-7878299",
+      "url": "https://linkedin.com/in/benjamin-cohen",
+      "summary": "Experienced DevOps Engineer with 11 years of experience in analysis",
+      "location": {
+        "address": "68 Business Road",
+        "postalCode": "91691",
+        "city": "Jerusalem",
+        "countryCode": "IL",
+        "region": "Central District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Benjamin-Cohen",
+          "url": "https://linkedin.com/in/benjamin-cohen"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "DeploymentHub",
+        "position": "Junior DevOps Engineer",
+        "startDate": "2024-06-01",
+        "endDate": "",
+        "summary": "Worked as Junior DevOps Engineer at DeploymentHub",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "SystemsScale",
+        "position": "DevOps Engineer",
+        "startDate": "2019-09-01",
+        "endDate": "2023-01-01",
+        "summary": "Worked as DevOps Engineer at SystemsScale",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "SystemsScale",
+        "position": "Senior DevOps Engineer",
+        "startDate": "2019-12-01",
+        "endDate": "2021-02-01",
+        "summary": "Worked as Senior DevOps Engineer at SystemsScale",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "InfrastructurePro",
+        "position": "DevOps Lead",
+        "startDate": "2015-03-01",
+        "endDate": "2019-12-01",
+        "summary": "Worked as DevOps Lead at InfrastructurePro",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "SystemsScale",
+        "position": "DevOps Lead",
+        "startDate": "2016-05-01",
+        "endDate": "2017-06-01",
+        "summary": "Worked as DevOps Lead at SystemsScale",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Bar Ilan University",
+        "area": "Data Science",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "83"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Jenkins",
+        "level": "Intermediate",
+        "keywords": [
+          "Jenkins"
+        ]
+      },
+      {
+        "name": "Linux",
+        "level": "Beginner",
+        "keywords": [
+          "Linux"
+        ]
+      },
+      {
+        "name": "Terraform",
+        "level": "Expert",
+        "keywords": [
+          "Terraform"
+        ]
+      },
+      {
+        "name": "Docker",
+        "level": "Intermediate",
+        "keywords": [
+          "Docker"
+        ]
+      },
+      {
+        "name": "Monitoring",
+        "level": "Expert",
+        "keywords": [
+          "Monitoring"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Erez Stein",
+      "label": "Sales Development Representative",
+      "email": "erez.stein@email.com",
+      "phone": "+972-52-3650391",
+      "url": "https://linkedin.com/in/erez-stein",
+      "summary": "Experienced Sales Representative with 2 years of experience in development",
+      "location": {
+        "address": "151 Business Road",
+        "postalCode": "93746",
+        "city": "Bat Yam",
+        "countryCode": "IL",
+        "region": "Haifa District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Erez-Stein",
+          "url": "https://linkedin.com/in/erez-stein"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "MarketCapture",
+        "position": "Sales Development Representative",
+        "startDate": "2022-08-01",
+        "endDate": "",
+        "summary": "Worked as Sales Development Representative at MarketCapture",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "MarketCapture",
+        "position": "Sales Executive",
+        "startDate": "2022-04-01",
+        "endDate": "2023-07-01",
+        "summary": "Worked as Sales Executive at MarketCapture",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Information Systems",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "83"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Pipeline Management",
+        "level": "Beginner",
+        "keywords": [
+          "Pipeline Management"
+        ]
+      },
+      {
+        "name": "CRM",
+        "level": "Beginner",
+        "keywords": [
+          "CRM"
+        ]
+      },
+      {
+        "name": "Sales",
+        "level": "Expert",
+        "keywords": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Closing",
+        "level": "Advanced",
+        "keywords": [
+          "Closing"
+        ]
+      },
+      {
+        "name": "Negotiation",
+        "level": "Intermediate",
+        "keywords": [
+          "Negotiation"
+        ]
+      },
+      {
+        "name": "Customer Relations",
+        "level": "Advanced",
+        "keywords": [
+          "Customer Relations"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Sandler Sales",
+        "date": "2025-11-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "David Navon",
+      "label": "QA Engineer",
+      "email": "david.navon@email.com",
+      "phone": "+972-53-1559763",
+      "url": "https://linkedin.com/in/david-navon",
+      "summary": "Experienced Quality Assurance with 5 years of experience in strategy",
+      "location": {
+        "address": "76 Business Road",
+        "postalCode": "64460",
+        "city": "Ramat Gan",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "David-Navon",
+          "url": "https://linkedin.com/in/david-navon"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "TestingLab",
+        "position": "QA Tester",
+        "startDate": "2023-03-01",
+        "endDate": "",
+        "summary": "Worked as QA Tester at TestingLab",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "AssuranceTech",
+        "position": "QA Engineer",
+        "startDate": "2021-05-01",
+        "endDate": "2023-08-01",
+        "summary": "Worked as QA Engineer at AssuranceTech",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "QualityWorks",
+        "position": "Senior QA Engineer",
+        "startDate": "2017-02-01",
+        "endDate": "2021-03-01",
+        "summary": "Worked as Senior QA Engineer at QualityWorks",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Economics",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "75"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Bug Tracking",
+        "level": "Beginner",
+        "keywords": [
+          "Bug Tracking"
+        ]
+      },
+      {
+        "name": "Selenium",
+        "level": "Expert",
+        "keywords": [
+          "Selenium"
+        ]
+      },
+      {
+        "name": "Manual Testing",
+        "level": "Advanced",
+        "keywords": [
+          "Manual Testing"
+        ]
+      },
+      {
+        "name": "Test Automation",
+        "level": "Advanced",
+        "keywords": [
+          "Test Automation"
+        ]
+      },
+      {
+        "name": "QA Methodologies",
+        "level": "Expert",
+        "keywords": [
+          "QA Methodologies"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Advanced",
+        "keywords": [
+          "Python"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "ASTQB Software QA",
+        "date": "2024-11-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Sarah Stein",
+      "label": "Senior Financial Analyst",
+      "email": "sarah.stein@email.com",
+      "phone": "+972-52-7850067",
+      "url": "https://linkedin.com/in/sarah-stein",
+      "summary": "Experienced Financial Analyst with 8 years of experience in development",
+      "location": {
+        "address": "10 Business Road",
+        "postalCode": "74569",
+        "city": "Ramat Gan",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Sarah-Stein",
+          "url": "https://linkedin.com/in/sarah-stein"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "FinancePartners",
+        "position": "Junior Financial Analyst",
+        "startDate": "2024-04-01",
+        "endDate": "",
+        "summary": "Worked as Junior Financial Analyst at FinancePartners",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "CapitalAdvisory",
+        "position": "Financial Analyst",
+        "startDate": "2020-11-01",
+        "endDate": "2023-12-01",
+        "summary": "Worked as Financial Analyst at CapitalAdvisory",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "InvestmentCorp",
+        "position": "Senior Financial Analyst",
+        "startDate": "2017-11-01",
+        "endDate": "2021-02-01",
+        "summary": "Worked as Senior Financial Analyst at InvestmentCorp",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "Wealth Management",
+        "position": "Finance Manager",
+        "startDate": "2018-12-01",
+        "endDate": "2019-06-01",
+        "summary": "Worked as Finance Manager at Wealth Management",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Data Science",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "95"
+      },
+      {
+        "institution": "Tel Aviv University",
+        "area": "Computer Science",
+        "studyType": "MBA",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "85"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Valuation",
+        "level": "Beginner",
+        "keywords": [
+          "Valuation"
+        ]
+      },
+      {
+        "name": "Financial Modeling",
+        "level": "Expert",
+        "keywords": [
+          "Financial Modeling"
+        ]
+      },
+      {
+        "name": "Accounting",
+        "level": "Advanced",
+        "keywords": [
+          "Accounting"
+        ]
+      },
+      {
+        "name": "Forecasting",
+        "level": "Intermediate",
+        "keywords": [
+          "Forecasting"
+        ]
+      },
+      {
+        "name": "Excel",
+        "level": "Beginner",
+        "keywords": [
+          "Excel"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "CFA Level 1",
+        "date": "2025-09-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Daniel Gonen",
+      "label": "Content Director",
+      "email": "daniel.gonen@email.com",
+      "phone": "+972-51-4909069",
+      "url": "https://linkedin.com/in/daniel-gonen",
+      "summary": "Experienced Content Strategist with 11 years of experience in strategy",
+      "location": {
+        "address": "1 Business Road",
+        "postalCode": "28964",
+        "city": "Ramat Gan",
+        "countryCode": "IL",
+        "region": "Northern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Daniel-Gonen",
+          "url": "https://linkedin.com/in/daniel-gonen"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "MediaGroup",
+        "position": "Content Writer",
+        "startDate": "2022-03-01",
+        "endDate": "",
+        "summary": "Worked as Content Writer at MediaGroup",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "MediaGroup",
+        "position": "Content Strategist",
+        "startDate": "2022-06-01",
+        "endDate": "2023-04-01",
+        "summary": "Worked as Content Strategist at MediaGroup",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "MediaGroup",
+        "position": "Senior Content Strategist",
+        "startDate": "2018-01-01",
+        "endDate": "2021-03-01",
+        "summary": "Worked as Senior Content Strategist at MediaGroup",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "ContentCreative",
+        "position": "Content Director",
+        "startDate": "2018-08-01",
+        "endDate": "2019-08-01",
+        "summary": "Worked as Content Director at ContentCreative",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "ContentCreative",
+        "position": "Content Director",
+        "startDate": "2013-09-01",
+        "endDate": "2017-04-01",
+        "summary": "Worked as Content Director at ContentCreative",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Engineering",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "94"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Analytics",
+        "level": "Beginner",
+        "keywords": [
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Content Strategy",
+        "level": "Expert",
+        "keywords": [
+          "Content Strategy"
+        ]
+      },
+      {
+        "name": "Storytelling",
+        "level": "Expert",
+        "keywords": [
+          "Storytelling"
+        ]
+      },
+      {
+        "name": "SEO Writing",
+        "level": "Beginner",
+        "keywords": [
+          "SEO Writing"
+        ]
+      },
+      {
+        "name": "Content Calendar",
+        "level": "Beginner",
+        "keywords": [
+          "Content Calendar"
+        ]
+      },
+      {
+        "name": "Editorial",
+        "level": "Advanced",
+        "keywords": [
+          "Editorial"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "SEO Fundamentals",
+        "date": "2022-10-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Yael Navon",
+      "label": "Junior Software Engineer",
+      "email": "yael.navon@email.com",
+      "phone": "+972-53-9481739",
+      "url": "https://linkedin.com/in/yael-navon",
+      "summary": "Experienced Software Engineer with 2 years of experience in management",
+      "location": {
+        "address": "30 Tech Avenue",
+        "postalCode": "66370",
+        "city": "Jerusalem",
+        "countryCode": "IL",
+        "region": "Southern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Yael-Navon",
+          "url": "https://linkedin.com/in/yael-navon"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "WebInnovate",
+        "position": "Junior Software Engineer",
+        "startDate": "2023-07-01",
+        "endDate": "",
+        "summary": "Worked as Junior Software Engineer at WebInnovate",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "WebInnovate",
+        "position": "Software Engineer",
+        "startDate": "2022-06-01",
+        "endDate": "2023-07-01",
+        "summary": "Worked as Software Engineer at WebInnovate",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Data Science",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "88"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Expert",
+        "keywords": [
+          "React"
+        ]
+      },
+      {
+        "name": "REST API",
+        "level": "Beginner",
+        "keywords": [
+          "REST API"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Advanced",
+        "keywords": [
+          "Python"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Intermediate",
+        "keywords": [
+          "Git"
+        ]
+      },
+      {
+        "name": "Docker",
+        "level": "Beginner",
+        "keywords": [
+          "Docker"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced",
+        "keywords": [
+          "SQL"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Iris Shavit",
+      "label": "Product Manager",
+      "email": "iris.shavit@email.com",
+      "phone": "+972-52-6899644",
+      "url": "https://linkedin.com/in/iris-shavit",
+      "summary": "Experienced Product Manager with 5 years of experience in development",
+      "location": {
+        "address": "55 Tech Avenue",
+        "postalCode": "96079",
+        "city": "Givatayim",
+        "countryCode": "IL",
+        "region": "Northern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Iris-Shavit",
+          "url": "https://linkedin.com/in/iris-shavit"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "MarketLeaders",
+        "position": "Associate Product Manager",
+        "startDate": "2023-02-01",
+        "endDate": "",
+        "summary": "Worked as Associate Product Manager at MarketLeaders",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "ProductCo",
+        "position": "Product Manager",
+        "startDate": "2020-10-01",
+        "endDate": "2023-04-01",
+        "summary": "Worked as Product Manager at ProductCo",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "ProductCo",
+        "position": "Senior Product Manager",
+        "startDate": "2018-01-01",
+        "endDate": "2021-03-01",
+        "summary": "Worked as Senior Product Manager at ProductCo",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Engineering",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "84"
+      },
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Information Systems",
+        "studyType": "MBA",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "94"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Analytics",
+        "level": "Intermediate",
+        "keywords": [
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Product Strategy",
+        "level": "Beginner",
+        "keywords": [
+          "Product Strategy"
+        ]
+      },
+      {
+        "name": "User Research",
+        "level": "Beginner",
+        "keywords": [
+          "User Research"
+        ]
+      },
+      {
+        "name": "Stakeholder Management",
+        "level": "Intermediate",
+        "keywords": [
+          "Stakeholder Management"
+        ]
+      },
+      {
+        "name": "Roadmapping",
+        "level": "Expert",
+        "keywords": [
+          "Roadmapping"
+        ]
+      },
+      {
+        "name": "A/B Testing",
+        "level": "Expert",
+        "keywords": [
+          "A/B Testing"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Pragmatic Marketing",
+        "date": "2024-10-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "David Green",
+      "label": "Senior Data Analyst",
+      "email": "david.green@email.com",
+      "phone": "+972-52-8434202",
+      "url": "https://linkedin.com/in/david-green",
+      "summary": "Experienced Data Analyst with 8 years of experience in management",
+      "location": {
+        "address": "114 Innovation Blvd",
+        "postalCode": "45804",
+        "city": "Bat Yam",
+        "countryCode": "IL",
+        "region": "Northern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "David-Green",
+          "url": "https://linkedin.com/in/david-green"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "AnalyticsPro",
+        "position": "Junior Data Analyst",
+        "startDate": "2024-06-01",
+        "endDate": "",
+        "summary": "Worked as Junior Data Analyst at AnalyticsPro",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "BusinessIntel",
+        "position": "Data Analyst",
+        "startDate": "2020-01-01",
+        "endDate": "2023-04-01",
+        "summary": "Worked as Data Analyst at BusinessIntel",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "DataInsights",
+        "position": "Senior Data Analyst",
+        "startDate": "2019-05-01",
+        "endDate": "2021-04-01",
+        "summary": "Worked as Senior Data Analyst at DataInsights",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "FinanceData",
+        "position": "Analytics Manager",
+        "startDate": "2018-01-01",
+        "endDate": "2019-08-01",
+        "summary": "Worked as Analytics Manager at FinanceData",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Information Systems",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "88"
+      },
+      {
+        "institution": "Bar Ilan University",
+        "area": "Data Science",
+        "studyType": "MBA",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "95"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Excel",
+        "level": "Beginner",
+        "keywords": [
+          "Excel"
+        ]
+      },
+      {
+        "name": "Statistics",
+        "level": "Expert",
+        "keywords": [
+          "Statistics"
+        ]
+      },
+      {
+        "name": "Data Visualization",
+        "level": "Beginner",
+        "keywords": [
+          "Data Visualization"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Expert",
+        "keywords": [
+          "Python"
+        ]
+      },
+      {
+        "name": "Tableau",
+        "level": "Beginner",
+        "keywords": [
+          "Tableau"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Reuben Cohen",
+      "label": "Marketing Director",
+      "email": "reuben.cohen@email.com",
+      "phone": "+972-52-3883553",
+      "url": "https://linkedin.com/in/reuben-cohen",
+      "summary": "Experienced Marketing Manager with 11 years of experience in management",
+      "location": {
+        "address": "112 Main Street",
+        "postalCode": "41891",
+        "city": "Haifa",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Reuben-Cohen",
+          "url": "https://linkedin.com/in/reuben-cohen"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "DigitalDynamics",
+        "position": "Marketing Coordinator",
+        "startDate": "2021-09-01",
+        "endDate": "",
+        "summary": "Worked as Marketing Coordinator at DigitalDynamics",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "GrowthCo",
+        "position": "Marketing Manager",
+        "startDate": "2021-06-01",
+        "endDate": "2023-03-01",
+        "summary": "Worked as Marketing Manager at GrowthCo",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "MarketingHub",
+        "position": "Senior Marketing Manager",
+        "startDate": "2019-06-01",
+        "endDate": "2021-06-01",
+        "summary": "Worked as Senior Marketing Manager at MarketingHub",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "BrandForce",
+        "position": "Marketing Director",
+        "startDate": "2018-03-01",
+        "endDate": "2019-05-01",
+        "summary": "Worked as Marketing Director at BrandForce",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "BrandForce",
+        "position": "Marketing Director",
+        "startDate": "2016-03-01",
+        "endDate": "2017-11-01",
+        "summary": "Worked as Marketing Director at BrandForce",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tel Aviv University",
+        "area": "Engineering",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "89"
+      },
+      {
+        "institution": "Tel Aviv University",
+        "area": "Computer Science",
+        "studyType": "Master",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "86"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Campaign Management",
+        "level": "Expert",
+        "keywords": [
+          "Campaign Management"
+        ]
+      },
+      {
+        "name": "Google Analytics",
+        "level": "Beginner",
+        "keywords": [
+          "Google Analytics"
+        ]
+      },
+      {
+        "name": "Brand Strategy",
+        "level": "Expert",
+        "keywords": [
+          "Brand Strategy"
+        ]
+      },
+      {
+        "name": "Content Strategy",
+        "level": "Expert",
+        "keywords": [
+          "Content Strategy"
+        ]
+      },
+      {
+        "name": "Social Media",
+        "level": "Advanced",
+        "keywords": [
+          "Social Media"
+        ]
+      },
+      {
+        "name": "SEO",
+        "level": "Advanced",
+        "keywords": [
+          "SEO"
+        ]
+      },
+      {
+        "name": "Digital Marketing",
+        "level": "Beginner",
+        "keywords": [
+          "Digital Marketing"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Sarah Shavit",
+      "label": "HR Coordinator",
+      "email": "sarah.shavit@email.com",
+      "phone": "+972-54-9507186",
+      "url": "https://linkedin.com/in/sarah-shavit",
+      "summary": "Experienced HR Specialist with 2 years of experience in management",
+      "location": {
+        "address": "142 Main Street",
+        "postalCode": "68947",
+        "city": "Bat Yam",
+        "countryCode": "IL",
+        "region": "Northern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Sarah-Shavit",
+          "url": "https://linkedin.com/in/sarah-shavit"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "TalentCorp",
+        "position": "HR Coordinator",
+        "startDate": "2022-10-01",
+        "endDate": "",
+        "summary": "Worked as HR Coordinator at TalentCorp",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "HRSolutions",
+        "position": "HR Specialist",
+        "startDate": "2019-02-01",
+        "endDate": "2023-06-01",
+        "summary": "Worked as HR Specialist at HRSolutions",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Haifa University",
+        "area": "Computer Science",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "95"
+      },
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Computer Science",
+        "studyType": "MBA",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "85"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Recruitment",
+        "level": "Advanced",
+        "keywords": [
+          "Recruitment"
+        ]
+      },
+      {
+        "name": "Employee Relations",
+        "level": "Advanced",
+        "keywords": [
+          "Employee Relations"
+        ]
+      },
+      {
+        "name": "Performance Management",
+        "level": "Advanced",
+        "keywords": [
+          "Performance Management"
+        ]
+      },
+      {
+        "name": "HRIS",
+        "level": "Expert",
+        "keywords": [
+          "HRIS"
+        ]
+      },
+      {
+        "name": "Labor Law",
+        "level": "Expert",
+        "keywords": [
+          "Labor Law"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "HR Business Partner",
+        "date": "2023-05-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Noa Rosenberg",
+      "label": "UX Designer",
+      "email": "noa.rosenberg@email.com",
+      "phone": "+972-52-2367376",
+      "url": "https://linkedin.com/in/noa-rosenberg",
+      "summary": "Experienced UX Designer with 5 years of experience in analysis",
+      "location": {
+        "address": "168 Innovation Blvd",
+        "postalCode": "26901",
+        "city": "Haifa",
+        "countryCode": "IL",
+        "region": "Haifa District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Noa-Rosenberg",
+          "url": "https://linkedin.com/in/noa-rosenberg"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "DesignStudio",
+        "position": "Junior UX Designer",
+        "startDate": "2022-09-01",
+        "endDate": "",
+        "summary": "Worked as Junior UX Designer at DesignStudio",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "UserExperience",
+        "position": "UX Designer",
+        "startDate": "2022-11-01",
+        "endDate": "2023-11-01",
+        "summary": "Worked as UX Designer at UserExperience",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "DesignStudio",
+        "position": "Senior UX Designer",
+        "startDate": "2018-05-01",
+        "endDate": "2021-03-01",
+        "summary": "Worked as Senior UX Designer at DesignStudio",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Data Science",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "94"
+      }
+    ],
+    "skills": [
+      {
+        "name": "User Research",
+        "level": "Beginner",
+        "keywords": [
+          "User Research"
+        ]
+      },
+      {
+        "name": "Interaction Design",
+        "level": "Beginner",
+        "keywords": [
+          "Interaction Design"
+        ]
+      },
+      {
+        "name": "UI Design",
+        "level": "Advanced",
+        "keywords": [
+          "UI Design"
+        ]
+      },
+      {
+        "name": "Figma",
+        "level": "Intermediate",
+        "keywords": [
+          "Figma"
+        ]
+      },
+      {
+        "name": "Adobe XD",
+        "level": "Expert",
+        "keywords": [
+          "Adobe XD"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Nielsen Norman UX",
+        "date": "2022-06-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Yael Stein",
+      "label": "Senior Business Analyst",
+      "email": "yael.stein@email.com",
+      "phone": "+972-54-5780297",
+      "url": "https://linkedin.com/in/yael-stein",
+      "summary": "Experienced Business Analyst with 8 years of experience in management",
+      "location": {
+        "address": "62 Business Road",
+        "postalCode": "71474",
+        "city": "Petah Tikva",
+        "countryCode": "IL",
+        "region": "Northern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Yael-Stein",
+          "url": "https://linkedin.com/in/yael-stein"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "ProcessOptimize",
+        "position": "Junior Business Analyst",
+        "startDate": "2022-11-01",
+        "endDate": "",
+        "summary": "Worked as Junior Business Analyst at ProcessOptimize",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "StrategyConsult",
+        "position": "Business Analyst",
+        "startDate": "2019-09-01",
+        "endDate": "2023-09-01",
+        "summary": "Worked as Business Analyst at StrategyConsult",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "ProcessOptimize",
+        "position": "Senior Business Analyst",
+        "startDate": "2018-01-01",
+        "endDate": "2021-11-01",
+        "summary": "Worked as Senior Business Analyst at ProcessOptimize",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "BusinessSolutions",
+        "position": "Business Analysis Manager",
+        "startDate": "2018-05-01",
+        "endDate": "2019-02-01",
+        "summary": "Worked as Business Analysis Manager at BusinessSolutions",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tel Aviv University",
+        "area": "Engineering",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "82"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Business Acumen",
+        "level": "Beginner",
+        "keywords": [
+          "Business Acumen"
+        ]
+      },
+      {
+        "name": "Requirements Analysis",
+        "level": "Expert",
+        "keywords": [
+          "Requirements Analysis"
+        ]
+      },
+      {
+        "name": "Process Improvement",
+        "level": "Beginner",
+        "keywords": [
+          "Process Improvement"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "Expert",
+        "keywords": [
+          "SQL"
+        ]
+      },
+      {
+        "name": "Stakeholder Management",
+        "level": "Advanced",
+        "keywords": [
+          "Stakeholder Management"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Noa Shalit",
+      "label": "DevOps Lead",
+      "email": "noa.shalit@email.com",
+      "phone": "+972-51-3308538",
+      "url": "https://linkedin.com/in/noa-shalit",
+      "summary": "Experienced DevOps Engineer with 11 years of experience in development",
+      "location": {
+        "address": "179 Tech Avenue",
+        "postalCode": "71487",
+        "city": "Rishon LeZion",
+        "countryCode": "IL",
+        "region": "Central District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Noa-Shalit",
+          "url": "https://linkedin.com/in/noa-shalit"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "DeploymentHub",
+        "position": "Junior DevOps Engineer",
+        "startDate": "2024-02-01",
+        "endDate": "",
+        "summary": "Worked as Junior DevOps Engineer at DeploymentHub",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "CloudOps",
+        "position": "DevOps Engineer",
+        "startDate": "2019-02-01",
+        "endDate": "2023-05-01",
+        "summary": "Worked as DevOps Engineer at CloudOps",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "InfrastructurePro",
+        "position": "Senior DevOps Engineer",
+        "startDate": "2019-07-01",
+        "endDate": "2021-11-01",
+        "summary": "Worked as Senior DevOps Engineer at InfrastructurePro",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "InfrastructurePro",
+        "position": "DevOps Lead",
+        "startDate": "2015-10-01",
+        "endDate": "2019-09-01",
+        "summary": "Worked as DevOps Lead at InfrastructurePro",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "CloudOps",
+        "position": "DevOps Lead",
+        "startDate": "2015-05-01",
+        "endDate": "2017-07-01",
+        "summary": "Worked as DevOps Lead at CloudOps",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Data Science",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "75"
+      },
+      {
+        "institution": "Tel Aviv University",
+        "area": "Engineering",
+        "studyType": "Master",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "82"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Jenkins",
+        "level": "Beginner",
+        "keywords": [
+          "Jenkins"
+        ]
+      },
+      {
+        "name": "Docker",
+        "level": "Beginner",
+        "keywords": [
+          "Docker"
+        ]
+      },
+      {
+        "name": "Terraform",
+        "level": "Expert",
+        "keywords": [
+          "Terraform"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Expert",
+        "keywords": [
+          "Kubernetes"
+        ]
+      },
+      {
+        "name": "AWS",
+        "level": "Beginner",
+        "keywords": [
+          "AWS"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "AWS Solutions Architect",
+        "date": "2023-03-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "David Kazan",
+      "label": "Sales Development Representative",
+      "email": "david.kazan@email.com",
+      "phone": "+972-54-6679880",
+      "url": "https://linkedin.com/in/david-kazan",
+      "summary": "Experienced Sales Representative with 2 years of experience in analysis",
+      "location": {
+        "address": "123 Tech Avenue",
+        "postalCode": "27675",
+        "city": "Bat Yam",
+        "countryCode": "IL",
+        "region": "Southern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "David-Kazan",
+          "url": "https://linkedin.com/in/david-kazan"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "SalesCorp",
+        "position": "Sales Development Representative",
+        "startDate": "2021-01-01",
+        "endDate": "",
+        "summary": "Worked as Sales Development Representative at SalesCorp",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "RevenueDrive",
+        "position": "Sales Executive",
+        "startDate": "2022-06-01",
+        "endDate": "2023-05-01",
+        "summary": "Worked as Sales Executive at RevenueDrive",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Business Administration",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "90"
+      },
+      {
+        "institution": "Bar Ilan University",
+        "area": "Engineering",
+        "studyType": "MBA",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "91"
+      }
+    ],
+    "skills": [
+      {
+        "name": "CRM",
+        "level": "Advanced",
+        "keywords": [
+          "CRM"
+        ]
+      },
+      {
+        "name": "Sales",
+        "level": "Advanced",
+        "keywords": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Negotiation",
+        "level": "Beginner",
+        "keywords": [
+          "Negotiation"
+        ]
+      },
+      {
+        "name": "Customer Relations",
+        "level": "Advanced",
+        "keywords": [
+          "Customer Relations"
+        ]
+      },
+      {
+        "name": "Pipeline Management",
+        "level": "Expert",
+        "keywords": [
+          "Pipeline Management"
+        ]
+      },
+      {
+        "name": "Closing",
+        "level": "Expert",
+        "keywords": [
+          "Closing"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "SPIN Selling",
+        "date": "2025-07-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Noa Goldman",
+      "label": "QA Engineer",
+      "email": "noa.goldman@email.com",
+      "phone": "+972-54-5928582",
+      "url": "https://linkedin.com/in/noa-goldman",
+      "summary": "Experienced Quality Assurance with 5 years of experience in strategy",
+      "location": {
+        "address": "84 Business Road",
+        "postalCode": "50173",
+        "city": "Jerusalem",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Noa-Goldman",
+          "url": "https://linkedin.com/in/noa-goldman"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "QAExperts",
+        "position": "QA Tester",
+        "startDate": "2021-03-01",
+        "endDate": "",
+        "summary": "Worked as QA Tester at QAExperts",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "QAExperts",
+        "position": "QA Engineer",
+        "startDate": "2022-12-01",
+        "endDate": "2023-06-01",
+        "summary": "Worked as QA Engineer at QAExperts",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "QualityWorks",
+        "position": "Senior QA Engineer",
+        "startDate": "2020-11-01",
+        "endDate": "2021-11-01",
+        "summary": "Worked as Senior QA Engineer at QualityWorks",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Data Science",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "89"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Manual Testing",
+        "level": "Beginner",
+        "keywords": [
+          "Manual Testing"
+        ]
+      },
+      {
+        "name": "Test Automation",
+        "level": "Intermediate",
+        "keywords": [
+          "Test Automation"
+        ]
+      },
+      {
+        "name": "QA Methodologies",
+        "level": "Advanced",
+        "keywords": [
+          "QA Methodologies"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Advanced",
+        "keywords": [
+          "Python"
+        ]
+      },
+      {
+        "name": "Selenium",
+        "level": "Expert",
+        "keywords": [
+          "Selenium"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Sarah Gonen",
+      "label": "Senior Financial Analyst",
+      "email": "sarah.gonen@email.com",
+      "phone": "+972-51-9882862",
+      "url": "https://linkedin.com/in/sarah-gonen",
+      "summary": "Experienced Financial Analyst with 8 years of experience in strategy",
+      "location": {
+        "address": "167 Business Road",
+        "postalCode": "42717",
+        "city": "Netanya",
+        "countryCode": "IL",
+        "region": "Haifa District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Sarah-Gonen",
+          "url": "https://linkedin.com/in/sarah-gonen"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "FinancePartners",
+        "position": "Junior Financial Analyst",
+        "startDate": "2024-12-01",
+        "endDate": "",
+        "summary": "Worked as Junior Financial Analyst at FinancePartners",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "CapitalAdvisory",
+        "position": "Financial Analyst",
+        "startDate": "2022-05-01",
+        "endDate": "2023-05-01",
+        "summary": "Worked as Financial Analyst at CapitalAdvisory",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "Wealth Management",
+        "position": "Senior Financial Analyst",
+        "startDate": "2017-04-01",
+        "endDate": "2021-02-01",
+        "summary": "Worked as Senior Financial Analyst at Wealth Management",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "InvestmentCorp",
+        "position": "Finance Manager",
+        "startDate": "2015-02-01",
+        "endDate": "2019-11-01",
+        "summary": "Worked as Finance Manager at InvestmentCorp",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Business Administration",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "90"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Bloomberg",
+        "level": "Intermediate",
+        "keywords": [
+          "Bloomberg"
+        ]
+      },
+      {
+        "name": "Accounting",
+        "level": "Intermediate",
+        "keywords": [
+          "Accounting"
+        ]
+      },
+      {
+        "name": "Valuation",
+        "level": "Advanced",
+        "keywords": [
+          "Valuation"
+        ]
+      },
+      {
+        "name": "Excel",
+        "level": "Intermediate",
+        "keywords": [
+          "Excel"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Dani Kazan",
+      "label": "Content Director",
+      "email": "dani.kazan@email.com",
+      "phone": "+972-53-3177199",
+      "url": "https://linkedin.com/in/dani-kazan",
+      "summary": "Experienced Content Strategist with 11 years of experience in development",
+      "location": {
+        "address": "102 Innovation Blvd",
+        "postalCode": "78903",
+        "city": "Jerusalem",
+        "countryCode": "IL",
+        "region": "Haifa District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Dani-Kazan",
+          "url": "https://linkedin.com/in/dani-kazan"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "DigitalPublishing",
+        "position": "Content Writer",
+        "startDate": "2021-10-01",
+        "endDate": "",
+        "summary": "Worked as Content Writer at DigitalPublishing",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "ContentCreative",
+        "position": "Content Strategist",
+        "startDate": "2019-08-01",
+        "endDate": "2023-11-01",
+        "summary": "Worked as Content Strategist at ContentCreative",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "MediaGroup",
+        "position": "Senior Content Strategist",
+        "startDate": "2019-07-01",
+        "endDate": "2021-09-01",
+        "summary": "Worked as Senior Content Strategist at MediaGroup",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "MediaGroup",
+        "position": "Content Director",
+        "startDate": "2016-03-01",
+        "endDate": "2019-03-01",
+        "summary": "Worked as Content Director at MediaGroup",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "PublishingHub",
+        "position": "Content Director",
+        "startDate": "2014-02-01",
+        "endDate": "2017-05-01",
+        "summary": "Worked as Content Director at PublishingHub",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Information Systems",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "88"
+      },
+      {
+        "institution": "Tel Aviv University",
+        "area": "Economics",
+        "studyType": "MBA",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "95"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SEO Writing",
+        "level": "Intermediate",
+        "keywords": [
+          "SEO Writing"
+        ]
+      },
+      {
+        "name": "Content Calendar",
+        "level": "Advanced",
+        "keywords": [
+          "Content Calendar"
+        ]
+      },
+      {
+        "name": "Content Strategy",
+        "level": "Beginner",
+        "keywords": [
+          "Content Strategy"
+        ]
+      },
+      {
+        "name": "Storytelling",
+        "level": "Beginner",
+        "keywords": [
+          "Storytelling"
+        ]
+      },
+      {
+        "name": "Analytics",
+        "level": "Beginner",
+        "keywords": [
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Editorial",
+        "level": "Beginner",
+        "keywords": [
+          "Editorial"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Iris Peretz",
+      "label": "Junior Software Engineer",
+      "email": "iris.peretz@email.com",
+      "phone": "+972-51-7813102",
+      "url": "https://linkedin.com/in/iris-peretz",
+      "summary": "Experienced Software Engineer with 2 years of experience in strategy",
+      "location": {
+        "address": "177 Main Street",
+        "postalCode": "30719",
+        "city": "Bat Yam",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Iris-Peretz",
+          "url": "https://linkedin.com/in/iris-peretz"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "WebInnovate",
+        "position": "Junior Software Engineer",
+        "startDate": "2021-08-01",
+        "endDate": "",
+        "summary": "Worked as Junior Software Engineer at WebInnovate",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "AIGlobal",
+        "position": "Software Engineer",
+        "startDate": "2021-06-01",
+        "endDate": "2023-12-01",
+        "summary": "Worked as Software Engineer at AIGlobal",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Bar Ilan University",
+        "area": "Information Systems",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "88"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Expert",
+        "keywords": [
+          "React"
+        ]
+      },
+      {
+        "name": "Docker",
+        "level": "Beginner",
+        "keywords": [
+          "Docker"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced",
+        "keywords": [
+          "SQL"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Expert",
+        "keywords": [
+          "Git"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Intermediate",
+        "keywords": [
+          "Python"
+        ]
+      },
+      {
+        "name": "Agile",
+        "level": "Intermediate",
+        "keywords": [
+          "Agile"
+        ]
+      },
+      {
+        "name": "REST API",
+        "level": "Beginner",
+        "keywords": [
+          "REST API"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "AWS Solutions Architect",
+        "date": "2023-10-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Yosef Bergman",
+      "label": "Product Manager",
+      "email": "yosef.bergman@email.com",
+      "phone": "+972-51-9359508",
+      "url": "https://linkedin.com/in/yosef-bergman",
+      "summary": "Experienced Product Manager with 5 years of experience in management",
+      "location": {
+        "address": "128 Main Street",
+        "postalCode": "21802",
+        "city": "Bat Yam",
+        "countryCode": "IL",
+        "region": "Haifa District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Yosef-Bergman",
+          "url": "https://linkedin.com/in/yosef-bergman"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "MarketLeaders",
+        "position": "Associate Product Manager",
+        "startDate": "2021-04-01",
+        "endDate": "",
+        "summary": "Worked as Associate Product Manager at MarketLeaders",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "ProductCo",
+        "position": "Product Manager",
+        "startDate": "2022-05-01",
+        "endDate": "2023-08-01",
+        "summary": "Worked as Product Manager at ProductCo",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "MarketLeaders",
+        "position": "Senior Product Manager",
+        "startDate": "2018-09-01",
+        "endDate": "2021-01-01",
+        "summary": "Worked as Senior Product Manager at MarketLeaders",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Information Systems",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "94"
+      },
+      {
+        "institution": "Hebrew University",
+        "area": "Computer Science",
+        "studyType": "Bachelor",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "87"
+      }
+    ],
+    "skills": [
+      {
+        "name": "A/B Testing",
+        "level": "Beginner",
+        "keywords": [
+          "A/B Testing"
+        ]
+      },
+      {
+        "name": "Analytics",
+        "level": "Intermediate",
+        "keywords": [
+          "Analytics"
+        ]
+      },
+      {
+        "name": "Roadmapping",
+        "level": "Advanced",
+        "keywords": [
+          "Roadmapping"
+        ]
+      },
+      {
+        "name": "User Research",
+        "level": "Advanced",
+        "keywords": [
+          "User Research"
+        ]
+      },
+      {
+        "name": "Product Strategy",
+        "level": "Beginner",
+        "keywords": [
+          "Product Strategy"
+        ]
+      },
+      {
+        "name": "Stakeholder Management",
+        "level": "Expert",
+        "keywords": [
+          "Stakeholder Management"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "REFORGE Product Strategy",
+        "date": "2023-03-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Daniel Shavit",
+      "label": "Senior Data Analyst",
+      "email": "daniel.shavit@email.com",
+      "phone": "+972-54-7734157",
+      "url": "https://linkedin.com/in/daniel-shavit",
+      "summary": "Experienced Data Analyst with 8 years of experience in development",
+      "location": {
+        "address": "36 Business Road",
+        "postalCode": "72094",
+        "city": "Tel Aviv",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Daniel-Shavit",
+          "url": "https://linkedin.com/in/daniel-shavit"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "BusinessIntel",
+        "position": "Junior Data Analyst",
+        "startDate": "2023-10-01",
+        "endDate": "",
+        "summary": "Worked as Junior Data Analyst at BusinessIntel",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "FinanceData",
+        "position": "Data Analyst",
+        "startDate": "2021-07-01",
+        "endDate": "2023-10-01",
+        "summary": "Worked as Data Analyst at FinanceData",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "FinanceData",
+        "position": "Senior Data Analyst",
+        "startDate": "2017-12-01",
+        "endDate": "2021-10-01",
+        "summary": "Worked as Senior Data Analyst at FinanceData",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "FinanceData",
+        "position": "Analytics Manager",
+        "startDate": "2016-11-01",
+        "endDate": "2019-02-01",
+        "summary": "Worked as Analytics Manager at FinanceData",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Computer Science",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "93"
+      },
+      {
+        "institution": "Tel Aviv University",
+        "area": "Business Administration",
+        "studyType": "MBA",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "75"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Pandas",
+        "level": "Intermediate",
+        "keywords": [
+          "Pandas"
+        ]
+      },
+      {
+        "name": "Tableau",
+        "level": "Beginner",
+        "keywords": [
+          "Tableau"
+        ]
+      },
+      {
+        "name": "Data Visualization",
+        "level": "Expert",
+        "keywords": [
+          "Data Visualization"
+        ]
+      },
+      {
+        "name": "Statistics",
+        "level": "Intermediate",
+        "keywords": [
+          "Statistics"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Michael Armon",
+      "label": "Marketing Director",
+      "email": "michael.armon@email.com",
+      "phone": "+972-51-7884990",
+      "url": "https://linkedin.com/in/michael-armon",
+      "summary": "Experienced Marketing Manager with 11 years of experience in management",
+      "location": {
+        "address": "36 Tech Avenue",
+        "postalCode": "83516",
+        "city": "Tel Aviv",
+        "countryCode": "IL",
+        "region": "Southern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Michael-Armon",
+          "url": "https://linkedin.com/in/michael-armon"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "GrowthCo",
+        "position": "Marketing Coordinator",
+        "startDate": "2021-09-01",
+        "endDate": "",
+        "summary": "Worked as Marketing Coordinator at GrowthCo",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "DigitalDynamics",
+        "position": "Marketing Manager",
+        "startDate": "2020-09-01",
+        "endDate": "2023-06-01",
+        "summary": "Worked as Marketing Manager at DigitalDynamics",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "GrowthCo",
+        "position": "Senior Marketing Manager",
+        "startDate": "2017-04-01",
+        "endDate": "2021-04-01",
+        "summary": "Worked as Senior Marketing Manager at GrowthCo",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "BrandForce",
+        "position": "Marketing Director",
+        "startDate": "2016-05-01",
+        "endDate": "2019-12-01",
+        "summary": "Worked as Marketing Director at BrandForce",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "DigitalDynamics",
+        "position": "Marketing Director",
+        "startDate": "2014-08-01",
+        "endDate": "2017-06-01",
+        "summary": "Worked as Marketing Director at DigitalDynamics",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Data Science",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "90"
+      },
+      {
+        "institution": "Hebrew University",
+        "area": "Information Systems",
+        "studyType": "Bachelor",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "83"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Digital Marketing",
+        "level": "Intermediate",
+        "keywords": [
+          "Digital Marketing"
+        ]
+      },
+      {
+        "name": "Google Analytics",
+        "level": "Advanced",
+        "keywords": [
+          "Google Analytics"
+        ]
+      },
+      {
+        "name": "Campaign Management",
+        "level": "Beginner",
+        "keywords": [
+          "Campaign Management"
+        ]
+      },
+      {
+        "name": "Social Media",
+        "level": "Advanced",
+        "keywords": [
+          "Social Media"
+        ]
+      },
+      {
+        "name": "SEO",
+        "level": "Beginner",
+        "keywords": [
+          "SEO"
+        ]
+      },
+      {
+        "name": "Content Strategy",
+        "level": "Advanced",
+        "keywords": [
+          "Content Strategy"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Google Analytics IQ",
+        "date": "2025-10-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Dani Sofer",
+      "label": "HR Coordinator",
+      "email": "dani.sofer@email.com",
+      "phone": "+972-51-1851702",
+      "url": "https://linkedin.com/in/dani-sofer",
+      "summary": "Experienced HR Specialist with 2 years of experience in analysis",
+      "location": {
+        "address": "26 Innovation Blvd",
+        "postalCode": "53292",
+        "city": "Petah Tikva",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Dani-Sofer",
+          "url": "https://linkedin.com/in/dani-sofer"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "OrganizationPlus",
+        "position": "HR Coordinator",
+        "startDate": "2024-11-01",
+        "endDate": "",
+        "summary": "Worked as HR Coordinator at OrganizationPlus",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "TalentCorp",
+        "position": "HR Specialist",
+        "startDate": "2019-11-01",
+        "endDate": "2023-08-01",
+        "summary": "Worked as HR Specialist at TalentCorp",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Computer Science",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "75"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Training",
+        "level": "Intermediate",
+        "keywords": [
+          "Training"
+        ]
+      },
+      {
+        "name": "Labor Law",
+        "level": "Expert",
+        "keywords": [
+          "Labor Law"
+        ]
+      },
+      {
+        "name": "Recruitment",
+        "level": "Intermediate",
+        "keywords": [
+          "Recruitment"
+        ]
+      },
+      {
+        "name": "Performance Management",
+        "level": "Beginner",
+        "keywords": [
+          "Performance Management"
+        ]
+      },
+      {
+        "name": "HRIS",
+        "level": "Expert",
+        "keywords": [
+          "HRIS"
+        ]
+      },
+      {
+        "name": "Employee Relations",
+        "level": "Expert",
+        "keywords": [
+          "Employee Relations"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "CIPD Level 3",
+        "date": "2023-05-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Benjamin Amiram",
+      "label": "UX Designer",
+      "email": "benjamin.amiram@email.com",
+      "phone": "+972-54-9286475",
+      "url": "https://linkedin.com/in/benjamin-amiram",
+      "summary": "Experienced UX Designer with 5 years of experience in analysis",
+      "location": {
+        "address": "70 Tech Avenue",
+        "postalCode": "24764",
+        "city": "Holon",
+        "countryCode": "IL",
+        "region": "Central District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Benjamin-Amiram",
+          "url": "https://linkedin.com/in/benjamin-amiram"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "CreativeHub",
+        "position": "Junior UX Designer",
+        "startDate": "2023-12-01",
+        "endDate": "",
+        "summary": "Worked as Junior UX Designer at CreativeHub",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "UserExperience",
+        "position": "UX Designer",
+        "startDate": "2022-12-01",
+        "endDate": "2023-06-01",
+        "summary": "Worked as UX Designer at UserExperience",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "UserExperience",
+        "position": "Senior UX Designer",
+        "startDate": "2019-10-01",
+        "endDate": "2021-11-01",
+        "summary": "Worked as Senior UX Designer at UserExperience",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Engineering",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "93"
+      },
+      {
+        "institution": "Haifa University",
+        "area": "Computer Science",
+        "studyType": "MBA",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "83"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "level": "Advanced",
+        "keywords": [
+          "Figma"
+        ]
+      },
+      {
+        "name": "Prototyping",
+        "level": "Intermediate",
+        "keywords": [
+          "Prototyping"
+        ]
+      },
+      {
+        "name": "Interaction Design",
+        "level": "Beginner",
+        "keywords": [
+          "Interaction Design"
+        ]
+      },
+      {
+        "name": "User Research",
+        "level": "Advanced",
+        "keywords": [
+          "User Research"
+        ]
+      },
+      {
+        "name": "Adobe XD",
+        "level": "Expert",
+        "keywords": [
+          "Adobe XD"
+        ]
+      },
+      {
+        "name": "UI Design",
+        "level": "Intermediate",
+        "keywords": [
+          "UI Design"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Yael Levi",
+      "label": "Senior Business Analyst",
+      "email": "yael.levi@email.com",
+      "phone": "+972-50-8808032",
+      "url": "https://linkedin.com/in/yael-levi",
+      "summary": "Experienced Business Analyst with 8 years of experience in strategy",
+      "location": {
+        "address": "176 Business Road",
+        "postalCode": "25389",
+        "city": "Ramat Gan",
+        "countryCode": "IL",
+        "region": "Central District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Yael-Levi",
+          "url": "https://linkedin.com/in/yael-levi"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "StrategyConsult",
+        "position": "Junior Business Analyst",
+        "startDate": "2022-10-01",
+        "endDate": "",
+        "summary": "Worked as Junior Business Analyst at StrategyConsult",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "EnterpriseAnalytics",
+        "position": "Business Analyst",
+        "startDate": "2021-08-01",
+        "endDate": "2023-12-01",
+        "summary": "Worked as Business Analyst at EnterpriseAnalytics",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "EnterpriseAnalytics",
+        "position": "Senior Business Analyst",
+        "startDate": "2019-04-01",
+        "endDate": "2021-11-01",
+        "summary": "Worked as Senior Business Analyst at EnterpriseAnalytics",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "EnterpriseAnalytics",
+        "position": "Business Analysis Manager",
+        "startDate": "2016-02-01",
+        "endDate": "2019-10-01",
+        "summary": "Worked as Business Analysis Manager at EnterpriseAnalytics",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Bar Ilan University",
+        "area": "Business Administration",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "91"
+      },
+      {
+        "institution": "Bar Ilan University",
+        "area": "Information Systems",
+        "studyType": "Master",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "76"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Documentation",
+        "level": "Expert",
+        "keywords": [
+          "Documentation"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "Beginner",
+        "keywords": [
+          "SQL"
+        ]
+      },
+      {
+        "name": "Process Improvement",
+        "level": "Intermediate",
+        "keywords": [
+          "Process Improvement"
+        ]
+      },
+      {
+        "name": "Requirements Analysis",
+        "level": "Expert",
+        "keywords": [
+          "Requirements Analysis"
+        ]
+      },
+      {
+        "name": "Business Acumen",
+        "level": "Beginner",
+        "keywords": [
+          "Business Acumen"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Iris Cohen",
+      "label": "DevOps Lead",
+      "email": "iris.cohen@email.com",
+      "phone": "+972-53-5269083",
+      "url": "https://linkedin.com/in/iris-cohen",
+      "summary": "Experienced DevOps Engineer with 11 years of experience in development",
+      "location": {
+        "address": "19 Main Street",
+        "postalCode": "65534",
+        "city": "Petah Tikva",
+        "countryCode": "IL",
+        "region": "Northern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Iris-Cohen",
+          "url": "https://linkedin.com/in/iris-cohen"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "SystemsScale",
+        "position": "Junior DevOps Engineer",
+        "startDate": "2024-09-01",
+        "endDate": "",
+        "summary": "Worked as Junior DevOps Engineer at SystemsScale",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "InfrastructurePro",
+        "position": "DevOps Engineer",
+        "startDate": "2020-07-01",
+        "endDate": "2023-03-01",
+        "summary": "Worked as DevOps Engineer at InfrastructurePro",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "DeploymentHub",
+        "position": "Senior DevOps Engineer",
+        "startDate": "2018-07-01",
+        "endDate": "2021-08-01",
+        "summary": "Worked as Senior DevOps Engineer at DeploymentHub",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "CloudOps",
+        "position": "DevOps Lead",
+        "startDate": "2016-02-01",
+        "endDate": "2019-03-01",
+        "summary": "Worked as DevOps Lead at CloudOps",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "CloudOps",
+        "position": "DevOps Lead",
+        "startDate": "2015-01-01",
+        "endDate": "2017-01-01",
+        "summary": "Worked as DevOps Lead at CloudOps",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tel Aviv University",
+        "area": "Information Systems",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "76"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Jenkins",
+        "level": "Advanced",
+        "keywords": [
+          "Jenkins"
+        ]
+      },
+      {
+        "name": "Monitoring",
+        "level": "Intermediate",
+        "keywords": [
+          "Monitoring"
+        ]
+      },
+      {
+        "name": "Docker",
+        "level": "Beginner",
+        "keywords": [
+          "Docker"
+        ]
+      },
+      {
+        "name": "Terraform",
+        "level": "Beginner",
+        "keywords": [
+          "Terraform"
+        ]
+      },
+      {
+        "name": "CI/CD",
+        "level": "Expert",
+        "keywords": [
+          "CI/CD"
+        ]
+      },
+      {
+        "name": "Linux",
+        "level": "Beginner",
+        "keywords": [
+          "Linux"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Intermediate",
+        "keywords": [
+          "Kubernetes"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "AWS Solutions Architect",
+        "date": "2024-12-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "David Gur",
+      "label": "Sales Development Representative",
+      "email": "david.gur@email.com",
+      "phone": "+972-53-4931560",
+      "url": "https://linkedin.com/in/david-gur",
+      "summary": "Experienced Sales Representative with 2 years of experience in analysis",
+      "location": {
+        "address": "129 Business Road",
+        "postalCode": "40692",
+        "city": "Tel Aviv",
+        "countryCode": "IL",
+        "region": "Jerusalem District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "David-Gur",
+          "url": "https://linkedin.com/in/david-gur"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "ClientSuccess",
+        "position": "Sales Development Representative",
+        "startDate": "2022-04-01",
+        "endDate": "",
+        "summary": "Worked as Sales Development Representative at ClientSuccess",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "RevenueDrive",
+        "position": "Sales Executive",
+        "startDate": "2019-05-01",
+        "endDate": "2023-05-01",
+        "summary": "Worked as Sales Executive at RevenueDrive",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Information Systems",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "90"
+      },
+      {
+        "institution": "Hebrew University",
+        "area": "Engineering",
+        "studyType": "Bachelor",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "79"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Pipeline Management",
+        "level": "Expert",
+        "keywords": [
+          "Pipeline Management"
+        ]
+      },
+      {
+        "name": "Customer Relations",
+        "level": "Advanced",
+        "keywords": [
+          "Customer Relations"
+        ]
+      },
+      {
+        "name": "Closing",
+        "level": "Expert",
+        "keywords": [
+          "Closing"
+        ]
+      },
+      {
+        "name": "Sales",
+        "level": "Expert",
+        "keywords": [
+          "Sales"
+        ]
+      },
+      {
+        "name": "Negotiation",
+        "level": "Intermediate",
+        "keywords": [
+          "Negotiation"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "SPIN Selling",
+        "date": "2022-09-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Yael Rosenberg",
+      "label": "QA Engineer",
+      "email": "yael.rosenberg@email.com",
+      "phone": "+972-53-5074489",
+      "url": "https://linkedin.com/in/yael-rosenberg",
+      "summary": "Experienced Quality Assurance with 5 years of experience in strategy",
+      "location": {
+        "address": "166 Main Street",
+        "postalCode": "68954",
+        "city": "Petah Tikva",
+        "countryCode": "IL",
+        "region": "Haifa District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Yael-Rosenberg",
+          "url": "https://linkedin.com/in/yael-rosenberg"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "AssuranceTech",
+        "position": "QA Tester",
+        "startDate": "2024-09-01",
+        "endDate": "",
+        "summary": "Worked as QA Tester at AssuranceTech",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "AssuranceTech",
+        "position": "QA Engineer",
+        "startDate": "2019-11-01",
+        "endDate": "2023-10-01",
+        "summary": "Worked as QA Engineer at AssuranceTech",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "TestingLab",
+        "position": "Senior QA Engineer",
+        "startDate": "2019-08-01",
+        "endDate": "2021-04-01",
+        "summary": "Worked as Senior QA Engineer at TestingLab",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technion - Israel Tech",
+        "area": "Engineering",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "83"
+      },
+      {
+        "institution": "Haifa University",
+        "area": "Economics",
+        "studyType": "Master",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "89"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Test Automation",
+        "level": "Expert",
+        "keywords": [
+          "Test Automation"
+        ]
+      },
+      {
+        "name": "Manual Testing",
+        "level": "Intermediate",
+        "keywords": [
+          "Manual Testing"
+        ]
+      },
+      {
+        "name": "QA Methodologies",
+        "level": "Advanced",
+        "keywords": [
+          "QA Methodologies"
+        ]
+      },
+      {
+        "name": "Bug Tracking",
+        "level": "Advanced",
+        "keywords": [
+          "Bug Tracking"
+        ]
+      },
+      {
+        "name": "Selenium",
+        "level": "Expert",
+        "keywords": [
+          "Selenium"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "ASTQB Software QA",
+        "date": "2023-04-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Hana Shalit",
+      "label": "Senior Financial Analyst",
+      "email": "hana.shalit@email.com",
+      "phone": "+972-53-1766977",
+      "url": "https://linkedin.com/in/hana-shalit",
+      "summary": "Experienced Financial Analyst with 8 years of experience in analysis",
+      "location": {
+        "address": "67 Innovation Blvd",
+        "postalCode": "48691",
+        "city": "Ramat Gan",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Hana-Shalit",
+          "url": "https://linkedin.com/in/hana-shalit"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "InvestmentCorp",
+        "position": "Junior Financial Analyst",
+        "startDate": "2023-06-01",
+        "endDate": "",
+        "summary": "Worked as Junior Financial Analyst at InvestmentCorp",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "InvestmentCorp",
+        "position": "Financial Analyst",
+        "startDate": "2019-09-01",
+        "endDate": "2023-11-01",
+        "summary": "Worked as Financial Analyst at InvestmentCorp",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "CapitalAdvisory",
+        "position": "Senior Financial Analyst",
+        "startDate": "2017-08-01",
+        "endDate": "2021-03-01",
+        "summary": "Worked as Senior Financial Analyst at CapitalAdvisory",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led project successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "InvestmentCorp",
+        "position": "Finance Manager",
+        "startDate": "2015-03-01",
+        "endDate": "2019-09-01",
+        "summary": "Worked as Finance Manager at InvestmentCorp",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Haifa University",
+        "area": "Economics",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "86"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Financial Modeling",
+        "level": "Intermediate",
+        "keywords": [
+          "Financial Modeling"
+        ]
+      },
+      {
+        "name": "Accounting",
+        "level": "Intermediate",
+        "keywords": [
+          "Accounting"
+        ]
+      },
+      {
+        "name": "Bloomberg",
+        "level": "Beginner",
+        "keywords": [
+          "Bloomberg"
+        ]
+      },
+      {
+        "name": "Excel",
+        "level": "Intermediate",
+        "keywords": [
+          "Excel"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Financial Modeling",
+        "date": "2022-01-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Erez Amiram",
+      "label": "Content Director",
+      "email": "erez.amiram@email.com",
+      "phone": "+972-54-7901115",
+      "url": "https://linkedin.com/in/erez-amiram",
+      "summary": "Experienced Content Strategist with 11 years of experience in development",
+      "location": {
+        "address": "185 Business Road",
+        "postalCode": "80220",
+        "city": "Tel Aviv",
+        "countryCode": "IL",
+        "region": "Northern District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Erez-Amiram",
+          "url": "https://linkedin.com/in/erez-amiram"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "PublishingHub",
+        "position": "Content Writer",
+        "startDate": "2024-09-01",
+        "endDate": "",
+        "summary": "Worked as Content Writer at PublishingHub",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "MediaGroup",
+        "position": "Content Strategist",
+        "startDate": "2022-02-01",
+        "endDate": "2023-09-01",
+        "summary": "Worked as Content Strategist at MediaGroup",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "PublishingHub",
+        "position": "Senior Content Strategist",
+        "startDate": "2018-05-01",
+        "endDate": "2021-07-01",
+        "summary": "Worked as Senior Content Strategist at PublishingHub",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led project successfully",
+          "Achieved revenue growth goals"
+        ]
+      },
+      {
+        "name": "DigitalPublishing",
+        "position": "Content Director",
+        "startDate": "2017-12-01",
+        "endDate": "2019-04-01",
+        "summary": "Worked as Content Director at DigitalPublishing",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "ContentCreative",
+        "position": "Content Director",
+        "startDate": "2016-07-01",
+        "endDate": "2017-07-01",
+        "summary": "Worked as Content Director at ContentCreative",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led initiative successfully",
+          "Achieved revenue growth goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Hebrew University",
+        "area": "Data Science",
+        "studyType": "Bachelor",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "93"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Editorial",
+        "level": "Expert",
+        "keywords": [
+          "Editorial"
+        ]
+      },
+      {
+        "name": "Content Strategy",
+        "level": "Expert",
+        "keywords": [
+          "Content Strategy"
+        ]
+      },
+      {
+        "name": "SEO Writing",
+        "level": "Advanced",
+        "keywords": [
+          "SEO Writing"
+        ]
+      },
+      {
+        "name": "Storytelling",
+        "level": "Beginner",
+        "keywords": [
+          "Storytelling"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Professional working proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Sarah Shir",
+      "label": "Junior Software Engineer",
+      "email": "sarah.shir@email.com",
+      "phone": "+972-54-1552000",
+      "url": "https://linkedin.com/in/sarah-shir",
+      "summary": "Experienced Software Engineer with 2 years of experience in analysis",
+      "location": {
+        "address": "54 Tech Avenue",
+        "postalCode": "62205",
+        "city": "Haifa",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Sarah-Shir",
+          "url": "https://linkedin.com/in/sarah-shir"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "TechCorp",
+        "position": "Junior Software Engineer",
+        "startDate": "2022-03-01",
+        "endDate": "",
+        "summary": "Worked as Junior Software Engineer at TechCorp",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led team of 3 successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      },
+      {
+        "name": "WebInnovate",
+        "position": "Software Engineer",
+        "startDate": "2020-07-01",
+        "endDate": "2023-12-01",
+        "summary": "Worked as Software Engineer at WebInnovate",
+        "highlights": [
+          "Improved performance by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tel Aviv University",
+        "area": "Data Science",
+        "studyType": "Master",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "83"
+      },
+      {
+        "institution": "Bar Ilan University",
+        "area": "Business Administration",
+        "studyType": "Master",
+        "startDate": "2014-09-01",
+        "endDate": "2018-06-01",
+        "score": "86"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agile",
+        "level": "Expert",
+        "keywords": [
+          "Agile"
+        ]
+      },
+      {
+        "name": "Docker",
+        "level": "Intermediate",
+        "keywords": [
+          "Docker"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Beginner",
+        "keywords": [
+          "Python"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Advanced",
+        "keywords": [
+          "Git"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Kubernetes Certification",
+        "date": "2024-11-01",
+        "issuer": "Professional Organization"
+      }
+    ],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  },
+  {
+    "basics": {
+      "name": "Dani Gur",
+      "label": "Product Manager",
+      "email": "dani.gur@email.com",
+      "phone": "+972-50-5955645",
+      "url": "https://linkedin.com/in/dani-gur",
+      "summary": "Experienced Product Manager with 5 years of experience in analysis",
+      "location": {
+        "address": "69 Tech Avenue",
+        "postalCode": "59807",
+        "city": "Jerusalem",
+        "countryCode": "IL",
+        "region": "Tel Aviv District"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Dani-Gur",
+          "url": "https://linkedin.com/in/dani-gur"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "InnovateLabs",
+        "position": "Associate Product Manager",
+        "startDate": "2021-06-01",
+        "endDate": "",
+        "summary": "Worked as Associate Product Manager at InnovateLabs",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "ProductCo",
+        "position": "Product Manager",
+        "startDate": "2020-08-01",
+        "endDate": "2023-06-01",
+        "summary": "Worked as Product Manager at ProductCo",
+        "highlights": [
+          "Improved efficiency by 20%",
+          "Led team of 3 successfully",
+          "Achieved cost savings goals"
+        ]
+      },
+      {
+        "name": "ProductCo",
+        "position": "Senior Product Manager",
+        "startDate": "2019-07-01",
+        "endDate": "2021-08-01",
+        "summary": "Worked as Senior Product Manager at ProductCo",
+        "highlights": [
+          "Improved quality by 20%",
+          "Led initiative successfully",
+          "Achieved customer satisfaction goals"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Haifa University",
+        "area": "Business Administration",
+        "studyType": "MBA",
+        "startDate": "2010-09-01",
+        "endDate": "2014-06-01",
+        "score": "87"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Product Strategy",
+        "level": "Expert",
+        "keywords": [
+          "Product Strategy"
+        ]
+      },
+      {
+        "name": "A/B Testing",
+        "level": "Beginner",
+        "keywords": [
+          "A/B Testing"
+        ]
+      },
+      {
+        "name": "Stakeholder Management",
+        "level": "Advanced",
+        "keywords": [
+          "Stakeholder Management"
+        ]
+      },
+      {
+        "name": "User Research",
+        "level": "Expert",
+        "keywords": [
+          "User Research"
+        ]
+      },
+      {
+        "name": "Roadmapping",
+        "level": "Expert",
+        "keywords": [
+          "Roadmapping"
+        ]
+      },
+      {
+        "name": "Analytics",
+        "level": "Beginner",
+        "keywords": [
+          "Analytics"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Hebrew",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      }
+    ],
+    "certificates": [],
+    "projects": [],
+    "volunteer": [],
+    "awards": []
+  }
+]
