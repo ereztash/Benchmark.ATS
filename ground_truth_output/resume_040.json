@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Dani Sofer",
+    "label": "HR Coordinator",
+    "email": "dani.sofer@email.com",
+    "phone": "+972-51-1851702",
+    "url": "https://linkedin.com/in/dani-sofer",
+    "summary": "Experienced HR Specialist with 2 years of experience in analysis",
+    "location": {
+      "address": "26 Innovation Blvd",
+      "postalCode": "53292",
+      "city": "Petah Tikva",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Dani-Sofer",
+        "url": "https://linkedin.com/in/dani-sofer"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "OrganizationPlus",
+      "position": "HR Coordinator",
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "summary": "Worked as HR Coordinator at OrganizationPlus",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "TalentCorp",
+      "position": "HR Specialist",
+      "startDate": "2019-11-01",
+      "endDate": "2023-08-01",
+      "summary": "Worked as HR Specialist at TalentCorp",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Computer Science",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "75"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Training",
+      "level": "Intermediate",
+      "keywords": [
+        "Training"
+      ]
+    },
+    {
+      "name": "Labor Law",
+      "level": "Expert",
+      "keywords": [
+        "Labor Law"
+      ]
+    },
+    {
+      "name": "Recruitment",
+      "level": "Intermediate",
+      "keywords": [
+        "Recruitment"
+      ]
+    },
+    {
+      "name": "Performance Management",
+      "level": "Beginner",
+      "keywords": [
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "HRIS",
+      "level": "Expert",
+      "keywords": [
+        "HRIS"
+      ]
+    },
+    {
+      "name": "Employee Relations",
+      "level": "Expert",
+      "keywords": [
+        "Employee Relations"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CIPD Level 3",
+      "date": "2023-05-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

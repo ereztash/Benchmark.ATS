@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Benjamin Cohen",
+    "label": "DevOps Lead",
+    "email": "benjamin.cohen@email.com",
+    "phone": "+972-51-7878299",
+    "url": "https://linkedin.com/in/benjamin-cohen",
+    "summary": "Experienced DevOps Engineer with 11 years of experience in analysis",
+    "location": {
+      "address": "68 Business Road",
+      "postalCode": "91691",
+      "city": "Jerusalem",
+      "countryCode": "IL",
+      "region": "Central District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Benjamin-Cohen",
+        "url": "https://linkedin.com/in/benjamin-cohen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DeploymentHub",
+      "position": "Junior DevOps Engineer",
+      "startDate": "2024-06-01",
+      "endDate": "",
+      "summary": "Worked as Junior DevOps Engineer at DeploymentHub",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "SystemsScale",
+      "position": "DevOps Engineer",
+      "startDate": "2019-09-01",
+      "endDate": "2023-01-01",
+      "summary": "Worked as DevOps Engineer at SystemsScale",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "SystemsScale",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2019-12-01",
+      "endDate": "2021-02-01",
+      "summary": "Worked as Senior DevOps Engineer at SystemsScale",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "InfrastructurePro",
+      "position": "DevOps Lead",
+      "startDate": "2015-03-01",
+      "endDate": "2019-12-01",
+      "summary": "Worked as DevOps Lead at InfrastructurePro",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "SystemsScale",
+      "position": "DevOps Lead",
+      "startDate": "2016-05-01",
+      "endDate": "2017-06-01",
+      "summary": "Worked as DevOps Lead at SystemsScale",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bar Ilan University",
+      "area": "Data Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "83"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Jenkins",
+      "level": "Intermediate",
+      "keywords": [
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Beginner",
+      "keywords": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "level": "Expert",
+      "keywords": [
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "level": "Expert",
+      "keywords": [
+        "Monitoring"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

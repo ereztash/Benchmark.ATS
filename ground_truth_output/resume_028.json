@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Sarah Shavit",
+    "label": "HR Coordinator",
+    "email": "sarah.shavit@email.com",
+    "phone": "+972-54-9507186",
+    "url": "https://linkedin.com/in/sarah-shavit",
+    "summary": "Experienced HR Specialist with 2 years of experience in management",
+    "location": {
+      "address": "142 Main Street",
+      "postalCode": "68947",
+      "city": "Bat Yam",
+      "countryCode": "IL",
+      "region": "Northern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Sarah-Shavit",
+        "url": "https://linkedin.com/in/sarah-shavit"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TalentCorp",
+      "position": "HR Coordinator",
+      "startDate": "2022-10-01",
+      "endDate": "",
+      "summary": "Worked as HR Coordinator at TalentCorp",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "HRSolutions",
+      "position": "HR Specialist",
+      "startDate": "2019-02-01",
+      "endDate": "2023-06-01",
+      "summary": "Worked as HR Specialist at HRSolutions",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Haifa University",
+      "area": "Computer Science",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "95"
+    },
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Computer Science",
+      "studyType": "MBA",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "85"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Recruitment",
+      "level": "Advanced",
+      "keywords": [
+        "Recruitment"
+      ]
+    },
+    {
+      "name": "Employee Relations",
+      "level": "Advanced",
+      "keywords": [
+        "Employee Relations"
+      ]
+    },
+    {
+      "name": "Performance Management",
+      "level": "Advanced",
+      "keywords": [
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "HRIS",
+      "level": "Expert",
+      "keywords": [
+        "HRIS"
+      ]
+    },
+    {
+      "name": "Labor Law",
+      "level": "Expert",
+      "keywords": [
+        "Labor Law"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "HR Business Partner",
+      "date": "2023-05-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

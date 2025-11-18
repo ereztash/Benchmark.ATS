@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Sarah Stein",
+    "label": "Senior Financial Analyst",
+    "email": "sarah.stein@email.com",
+    "phone": "+972-52-7850067",
+    "url": "https://linkedin.com/in/sarah-stein",
+    "summary": "Experienced Financial Analyst with 8 years of experience in development",
+    "location": {
+      "address": "10 Business Road",
+      "postalCode": "74569",
+      "city": "Ramat Gan",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Sarah-Stein",
+        "url": "https://linkedin.com/in/sarah-stein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "FinancePartners",
+      "position": "Junior Financial Analyst",
+      "startDate": "2024-04-01",
+      "endDate": "",
+      "summary": "Worked as Junior Financial Analyst at FinancePartners",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "CapitalAdvisory",
+      "position": "Financial Analyst",
+      "startDate": "2020-11-01",
+      "endDate": "2023-12-01",
+      "summary": "Worked as Financial Analyst at CapitalAdvisory",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "InvestmentCorp",
+      "position": "Senior Financial Analyst",
+      "startDate": "2017-11-01",
+      "endDate": "2021-02-01",
+      "summary": "Worked as Senior Financial Analyst at InvestmentCorp",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "Wealth Management",
+      "position": "Finance Manager",
+      "startDate": "2018-12-01",
+      "endDate": "2019-06-01",
+      "summary": "Worked as Finance Manager at Wealth Management",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Data Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "95"
+    },
+    {
+      "institution": "Tel Aviv University",
+      "area": "Computer Science",
+      "studyType": "MBA",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "85"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Valuation",
+      "level": "Beginner",
+      "keywords": [
+        "Valuation"
+      ]
+    },
+    {
+      "name": "Financial Modeling",
+      "level": "Expert",
+      "keywords": [
+        "Financial Modeling"
+      ]
+    },
+    {
+      "name": "Accounting",
+      "level": "Advanced",
+      "keywords": [
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Forecasting",
+      "level": "Intermediate",
+      "keywords": [
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "Excel",
+      "level": "Beginner",
+      "keywords": [
+        "Excel"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CFA Level 1",
+      "date": "2025-09-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

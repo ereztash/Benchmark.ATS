@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Alon Peretz",
+    "label": "UX Designer",
+    "email": "alon.peretz@email.com",
+    "phone": "+972-51-4185957",
+    "url": "https://linkedin.com/in/alon-peretz",
+    "summary": "Experienced UX Designer with 5 years of experience in strategy",
+    "location": {
+      "address": "149 Main Street",
+      "postalCode": "51104",
+      "city": "Petah Tikva",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Alon-Peretz",
+        "url": "https://linkedin.com/in/alon-peretz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DesignStudio",
+      "position": "Junior UX Designer",
+      "startDate": "2024-10-01",
+      "endDate": "",
+      "summary": "Worked as Junior UX Designer at DesignStudio",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "UserExperience",
+      "position": "UX Designer",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-01",
+      "summary": "Worked as UX Designer at UserExperience",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "DesignStudio",
+      "position": "Senior UX Designer",
+      "startDate": "2019-07-01",
+      "endDate": "2021-02-01",
+      "summary": "Worked as Senior UX Designer at DesignStudio",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Data Science",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "95"
+    },
+    {
+      "institution": "Bar Ilan University",
+      "area": "Engineering",
+      "studyType": "Master",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "77"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Adobe XD",
+      "level": "Advanced",
+      "keywords": [
+        "Adobe XD"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Intermediate",
+      "keywords": [
+        "Figma"
+      ]
+    },
+    {
+      "name": "Prototyping",
+      "level": "Advanced",
+      "keywords": [
+        "Prototyping"
+      ]
+    },
+    {
+      "name": "Wireframing",
+      "level": "Intermediate",
+      "keywords": [
+        "Wireframing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

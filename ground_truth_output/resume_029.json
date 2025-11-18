@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Noa Rosenberg",
+    "label": "UX Designer",
+    "email": "noa.rosenberg@email.com",
+    "phone": "+972-52-2367376",
+    "url": "https://linkedin.com/in/noa-rosenberg",
+    "summary": "Experienced UX Designer with 5 years of experience in analysis",
+    "location": {
+      "address": "168 Innovation Blvd",
+      "postalCode": "26901",
+      "city": "Haifa",
+      "countryCode": "IL",
+      "region": "Haifa District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Noa-Rosenberg",
+        "url": "https://linkedin.com/in/noa-rosenberg"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DesignStudio",
+      "position": "Junior UX Designer",
+      "startDate": "2022-09-01",
+      "endDate": "",
+      "summary": "Worked as Junior UX Designer at DesignStudio",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "UserExperience",
+      "position": "UX Designer",
+      "startDate": "2022-11-01",
+      "endDate": "2023-11-01",
+      "summary": "Worked as UX Designer at UserExperience",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "DesignStudio",
+      "position": "Senior UX Designer",
+      "startDate": "2018-05-01",
+      "endDate": "2021-03-01",
+      "summary": "Worked as Senior UX Designer at DesignStudio",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Data Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "94"
+    }
+  ],
+  "skills": [
+    {
+      "name": "User Research",
+      "level": "Beginner",
+      "keywords": [
+        "User Research"
+      ]
+    },
+    {
+      "name": "Interaction Design",
+      "level": "Beginner",
+      "keywords": [
+        "Interaction Design"
+      ]
+    },
+    {
+      "name": "UI Design",
+      "level": "Advanced",
+      "keywords": [
+        "UI Design"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Intermediate",
+      "keywords": [
+        "Figma"
+      ]
+    },
+    {
+      "name": "Adobe XD",
+      "level": "Expert",
+      "keywords": [
+        "Adobe XD"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Nielsen Norman UX",
+      "date": "2022-06-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

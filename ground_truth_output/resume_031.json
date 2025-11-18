@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "Noa Shalit",
+    "label": "DevOps Lead",
+    "email": "noa.shalit@email.com",
+    "phone": "+972-51-3308538",
+    "url": "https://linkedin.com/in/noa-shalit",
+    "summary": "Experienced DevOps Engineer with 11 years of experience in development",
+    "location": {
+      "address": "179 Tech Avenue",
+      "postalCode": "71487",
+      "city": "Rishon LeZion",
+      "countryCode": "IL",
+      "region": "Central District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Noa-Shalit",
+        "url": "https://linkedin.com/in/noa-shalit"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DeploymentHub",
+      "position": "Junior DevOps Engineer",
+      "startDate": "2024-02-01",
+      "endDate": "",
+      "summary": "Worked as Junior DevOps Engineer at DeploymentHub",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "CloudOps",
+      "position": "DevOps Engineer",
+      "startDate": "2019-02-01",
+      "endDate": "2023-05-01",
+      "summary": "Worked as DevOps Engineer at CloudOps",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "InfrastructurePro",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2019-07-01",
+      "endDate": "2021-11-01",
+      "summary": "Worked as Senior DevOps Engineer at InfrastructurePro",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "InfrastructurePro",
+      "position": "DevOps Lead",
+      "startDate": "2015-10-01",
+      "endDate": "2019-09-01",
+      "summary": "Worked as DevOps Lead at InfrastructurePro",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "CloudOps",
+      "position": "DevOps Lead",
+      "startDate": "2015-05-01",
+      "endDate": "2017-07-01",
+      "summary": "Worked as DevOps Lead at CloudOps",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Data Science",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "75"
+    },
+    {
+      "institution": "Tel Aviv University",
+      "area": "Engineering",
+      "studyType": "Master",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "82"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Jenkins",
+      "level": "Beginner",
+      "keywords": [
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Beginner",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "level": "Expert",
+      "keywords": [
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Expert",
+      "keywords": [
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Beginner",
+      "keywords": [
+        "AWS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Solutions Architect",
+      "date": "2023-03-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Yosef Bergman",
+    "label": "Product Manager",
+    "email": "yosef.bergman@email.com",
+    "phone": "+972-51-9359508",
+    "url": "https://linkedin.com/in/yosef-bergman",
+    "summary": "Experienced Product Manager with 5 years of experience in management",
+    "location": {
+      "address": "128 Main Street",
+      "postalCode": "21802",
+      "city": "Bat Yam",
+      "countryCode": "IL",
+      "region": "Haifa District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Yosef-Bergman",
+        "url": "https://linkedin.com/in/yosef-bergman"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MarketLeaders",
+      "position": "Associate Product Manager",
+      "startDate": "2021-04-01",
+      "endDate": "",
+      "summary": "Worked as Associate Product Manager at MarketLeaders",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "ProductCo",
+      "position": "Product Manager",
+      "startDate": "2022-05-01",
+      "endDate": "2023-08-01",
+      "summary": "Worked as Product Manager at ProductCo",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "MarketLeaders",
+      "position": "Senior Product Manager",
+      "startDate": "2018-09-01",
+      "endDate": "2021-01-01",
+      "summary": "Worked as Senior Product Manager at MarketLeaders",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Information Systems",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "94"
+    },
+    {
+      "institution": "Hebrew University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "87"
+    }
+  ],
+  "skills": [
+    {
+      "name": "A/B Testing",
+      "level": "Beginner",
+      "keywords": [
+        "A/B Testing"
+      ]
+    },
+    {
+      "name": "Analytics",
+      "level": "Intermediate",
+      "keywords": [
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Roadmapping",
+      "level": "Advanced",
+      "keywords": [
+        "Roadmapping"
+      ]
+    },
+    {
+      "name": "User Research",
+      "level": "Advanced",
+      "keywords": [
+        "User Research"
+      ]
+    },
+    {
+      "name": "Product Strategy",
+      "level": "Beginner",
+      "keywords": [
+        "Product Strategy"
+      ]
+    },
+    {
+      "name": "Stakeholder Management",
+      "level": "Expert",
+      "keywords": [
+        "Stakeholder Management"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "REFORGE Product Strategy",
+      "date": "2023-03-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

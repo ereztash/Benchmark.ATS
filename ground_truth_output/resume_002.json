@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "Rachel Gur",
+    "label": "Senior Data Analyst",
+    "email": "rachel.gur@email.com",
+    "phone": "+972-53-3396987",
+    "url": "https://linkedin.com/in/rachel-gur",
+    "summary": "Experienced Data Analyst with 8 years of experience in strategy",
+    "location": {
+      "address": "191 Business Road",
+      "postalCode": "86622",
+      "city": "Ramat Gan",
+      "countryCode": "IL",
+      "region": "Jerusalem District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Rachel-Gur",
+        "url": "https://linkedin.com/in/rachel-gur"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BusinessIntel",
+      "position": "Junior Data Analyst",
+      "startDate": "2021-06-01",
+      "endDate": "",
+      "summary": "Worked as Junior Data Analyst at BusinessIntel",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "BusinessIntel",
+      "position": "Data Analyst",
+      "startDate": "2022-01-01",
+      "endDate": "2023-02-01",
+      "summary": "Worked as Data Analyst at BusinessIntel",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "BusinessIntel",
+      "position": "Senior Data Analyst",
+      "startDate": "2020-07-01",
+      "endDate": "2021-07-01",
+      "summary": "Worked as Senior Data Analyst at BusinessIntel",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "FinanceData",
+      "position": "Analytics Manager",
+      "startDate": "2018-11-01",
+      "endDate": "2019-12-01",
+      "summary": "Worked as Analytics Manager at FinanceData",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Information Systems",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "91"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Visualization",
+      "level": "Beginner",
+      "keywords": [
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Advanced",
+      "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Tableau",
+      "level": "Intermediate",
+      "keywords": [
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Power BI",
+      "level": "Beginner",
+      "keywords": [
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "level": "Intermediate",
+      "keywords": [
+        "Statistics"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Tableau Desktop Specialist",
+      "date": "2025-02-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

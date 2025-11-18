@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "Hana Gonen",
+    "label": "DevOps Lead",
+    "email": "hana.gonen@email.com",
+    "phone": "+972-54-3484601",
+    "url": "https://linkedin.com/in/hana-gonen",
+    "summary": "Experienced DevOps Engineer with 11 years of experience in management",
+    "location": {
+      "address": "79 Business Road",
+      "postalCode": "15229",
+      "city": "Ramat Gan",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Hana-Gonen",
+        "url": "https://linkedin.com/in/hana-gonen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SystemsScale",
+      "position": "Junior DevOps Engineer",
+      "startDate": "2023-11-01",
+      "endDate": "",
+      "summary": "Worked as Junior DevOps Engineer at SystemsScale",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "SystemsScale",
+      "position": "DevOps Engineer",
+      "startDate": "2019-10-01",
+      "endDate": "2023-12-01",
+      "summary": "Worked as DevOps Engineer at SystemsScale",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "CloudOps",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2017-01-01",
+      "endDate": "2021-03-01",
+      "summary": "Worked as Senior DevOps Engineer at CloudOps",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "CloudOps",
+      "position": "DevOps Lead",
+      "startDate": "2016-03-01",
+      "endDate": "2019-12-01",
+      "summary": "Worked as DevOps Lead at CloudOps",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "DeploymentHub",
+      "position": "DevOps Lead",
+      "startDate": "2015-04-01",
+      "endDate": "2017-08-01",
+      "summary": "Worked as DevOps Lead at DeploymentHub",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tel Aviv University",
+      "area": "Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "80"
+    },
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Computer Science",
+      "studyType": "MBA",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "78"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Kubernetes",
+      "level": "Advanced",
+      "keywords": [
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "level": "Beginner",
+      "keywords": [
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Advanced",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Advanced",
+      "keywords": [
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Expert",
+      "keywords": [
+        "AWS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

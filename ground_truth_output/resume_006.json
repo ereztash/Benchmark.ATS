@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Dani Brown",
+    "label": "Senior Business Analyst",
+    "email": "dani.brown@email.com",
+    "phone": "+972-50-4576135",
+    "url": "https://linkedin.com/in/dani-brown",
+    "summary": "Experienced Business Analyst with 8 years of experience in strategy",
+    "location": {
+      "address": "18 Tech Avenue",
+      "postalCode": "58434",
+      "city": "Ramat Gan",
+      "countryCode": "IL",
+      "region": "Haifa District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Dani-Brown",
+        "url": "https://linkedin.com/in/dani-brown"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "StrategyConsult",
+      "position": "Junior Business Analyst",
+      "startDate": "2023-08-01",
+      "endDate": "",
+      "summary": "Worked as Junior Business Analyst at StrategyConsult",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "BusinessSolutions",
+      "position": "Business Analyst",
+      "startDate": "2020-11-01",
+      "endDate": "2023-02-01",
+      "summary": "Worked as Business Analyst at BusinessSolutions",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "BusinessSolutions",
+      "position": "Senior Business Analyst",
+      "startDate": "2019-05-01",
+      "endDate": "2021-05-01",
+      "summary": "Worked as Senior Business Analyst at BusinessSolutions",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "StrategyConsult",
+      "position": "Business Analysis Manager",
+      "startDate": "2017-11-01",
+      "endDate": "2019-11-01",
+      "summary": "Worked as Business Analysis Manager at StrategyConsult",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tel Aviv University",
+      "area": "Data Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "79"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Requirements Analysis",
+      "level": "Advanced",
+      "keywords": [
+        "Requirements Analysis"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Business Acumen",
+      "level": "Advanced",
+      "keywords": [
+        "Business Acumen"
+      ]
+    },
+    {
+      "name": "Process Improvement",
+      "level": "Intermediate",
+      "keywords": [
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Documentation",
+      "level": "Expert",
+      "keywords": [
+        "Documentation"
+      ]
+    },
+    {
+      "name": "Stakeholder Management",
+      "level": "Expert",
+      "keywords": [
+        "Stakeholder Management"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

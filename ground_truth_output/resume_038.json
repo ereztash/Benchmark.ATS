@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Daniel Shavit",
+    "label": "Senior Data Analyst",
+    "email": "daniel.shavit@email.com",
+    "phone": "+972-54-7734157",
+    "url": "https://linkedin.com/in/daniel-shavit",
+    "summary": "Experienced Data Analyst with 8 years of experience in development",
+    "location": {
+      "address": "36 Business Road",
+      "postalCode": "72094",
+      "city": "Tel Aviv",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Daniel-Shavit",
+        "url": "https://linkedin.com/in/daniel-shavit"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BusinessIntel",
+      "position": "Junior Data Analyst",
+      "startDate": "2023-10-01",
+      "endDate": "",
+      "summary": "Worked as Junior Data Analyst at BusinessIntel",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "FinanceData",
+      "position": "Data Analyst",
+      "startDate": "2021-07-01",
+      "endDate": "2023-10-01",
+      "summary": "Worked as Data Analyst at FinanceData",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "FinanceData",
+      "position": "Senior Data Analyst",
+      "startDate": "2017-12-01",
+      "endDate": "2021-10-01",
+      "summary": "Worked as Senior Data Analyst at FinanceData",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "FinanceData",
+      "position": "Analytics Manager",
+      "startDate": "2016-11-01",
+      "endDate": "2019-02-01",
+      "summary": "Worked as Analytics Manager at FinanceData",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "93"
+    },
+    {
+      "institution": "Tel Aviv University",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "75"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Pandas",
+      "level": "Intermediate",
+      "keywords": [
+        "Pandas"
+      ]
+    },
+    {
+      "name": "Tableau",
+      "level": "Beginner",
+      "keywords": [
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "level": "Expert",
+      "keywords": [
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "level": "Intermediate",
+      "keywords": [
+        "Statistics"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

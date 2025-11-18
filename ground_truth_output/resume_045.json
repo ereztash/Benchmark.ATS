@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "Yael Rosenberg",
+    "label": "QA Engineer",
+    "email": "yael.rosenberg@email.com",
+    "phone": "+972-53-5074489",
+    "url": "https://linkedin.com/in/yael-rosenberg",
+    "summary": "Experienced Quality Assurance with 5 years of experience in strategy",
+    "location": {
+      "address": "166 Main Street",
+      "postalCode": "68954",
+      "city": "Petah Tikva",
+      "countryCode": "IL",
+      "region": "Haifa District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Yael-Rosenberg",
+        "url": "https://linkedin.com/in/yael-rosenberg"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "AssuranceTech",
+      "position": "QA Tester",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Worked as QA Tester at AssuranceTech",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "AssuranceTech",
+      "position": "QA Engineer",
+      "startDate": "2019-11-01",
+      "endDate": "2023-10-01",
+      "summary": "Worked as QA Engineer at AssuranceTech",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "TestingLab",
+      "position": "Senior QA Engineer",
+      "startDate": "2019-08-01",
+      "endDate": "2021-04-01",
+      "summary": "Worked as Senior QA Engineer at TestingLab",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Engineering",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "83"
+    },
+    {
+      "institution": "Haifa University",
+      "area": "Economics",
+      "studyType": "Master",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "89"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Test Automation",
+      "level": "Expert",
+      "keywords": [
+        "Test Automation"
+      ]
+    },
+    {
+      "name": "Manual Testing",
+      "level": "Intermediate",
+      "keywords": [
+        "Manual Testing"
+      ]
+    },
+    {
+      "name": "QA Methodologies",
+      "level": "Advanced",
+      "keywords": [
+        "QA Methodologies"
+      ]
+    },
+    {
+      "name": "Bug Tracking",
+      "level": "Advanced",
+      "keywords": [
+        "Bug Tracking"
+      ]
+    },
+    {
+      "name": "Selenium",
+      "level": "Expert",
+      "keywords": [
+        "Selenium"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "ASTQB Software QA",
+      "date": "2023-04-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

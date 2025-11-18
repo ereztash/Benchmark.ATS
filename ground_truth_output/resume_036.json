@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Iris Peretz",
+    "label": "Junior Software Engineer",
+    "email": "iris.peretz@email.com",
+    "phone": "+972-51-7813102",
+    "url": "https://linkedin.com/in/iris-peretz",
+    "summary": "Experienced Software Engineer with 2 years of experience in strategy",
+    "location": {
+      "address": "177 Main Street",
+      "postalCode": "30719",
+      "city": "Bat Yam",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Iris-Peretz",
+        "url": "https://linkedin.com/in/iris-peretz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "WebInnovate",
+      "position": "Junior Software Engineer",
+      "startDate": "2021-08-01",
+      "endDate": "",
+      "summary": "Worked as Junior Software Engineer at WebInnovate",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "AIGlobal",
+      "position": "Software Engineer",
+      "startDate": "2021-06-01",
+      "endDate": "2023-12-01",
+      "summary": "Worked as Software Engineer at AIGlobal",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bar Ilan University",
+      "area": "Information Systems",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "88"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "level": "Expert",
+      "keywords": [
+        "React"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Beginner",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Advanced",
+      "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Expert",
+      "keywords": [
+        "Git"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "name": "Agile",
+      "level": "Intermediate",
+      "keywords": [
+        "Agile"
+      ]
+    },
+    {
+      "name": "REST API",
+      "level": "Beginner",
+      "keywords": [
+        "REST API"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Solutions Architect",
+      "date": "2023-10-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

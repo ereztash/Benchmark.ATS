@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "David Stein",
+    "label": "Product Manager",
+    "email": "david.stein@email.com",
+    "phone": "+972-54-3094235",
+    "url": "https://linkedin.com/in/david-stein",
+    "summary": "Experienced Product Manager with 5 years of experience in management",
+    "location": {
+      "address": "76 Business Road",
+      "postalCode": "85674",
+      "city": "Jerusalem",
+      "countryCode": "IL",
+      "region": "Northern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "David-Stein",
+        "url": "https://linkedin.com/in/david-stein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "InnovateLabs",
+      "position": "Associate Product Manager",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "summary": "Worked as Associate Product Manager at InnovateLabs",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "ProductCo",
+      "position": "Product Manager",
+      "startDate": "2021-02-01",
+      "endDate": "2023-07-01",
+      "summary": "Worked as Product Manager at ProductCo",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "StrategicTech",
+      "position": "Senior Product Manager",
+      "startDate": "2019-06-01",
+      "endDate": "2021-06-01",
+      "summary": "Worked as Senior Product Manager at StrategicTech",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "85"
+    },
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "81"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Stakeholder Management",
+      "level": "Expert",
+      "keywords": [
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "User Research",
+      "level": "Expert",
+      "keywords": [
+        "User Research"
+      ]
+    },
+    {
+      "name": "A/B Testing",
+      "level": "Advanced",
+      "keywords": [
+        "A/B Testing"
+      ]
+    },
+    {
+      "name": "Product Strategy",
+      "level": "Intermediate",
+      "keywords": [
+        "Product Strategy"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "REFORGE Product Strategy",
+      "date": "2024-11-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

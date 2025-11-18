@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Rachel Peretz",
+    "label": "Senior Business Analyst",
+    "email": "rachel.peretz@email.com",
+    "phone": "+972-51-8663605",
+    "url": "https://linkedin.com/in/rachel-peretz",
+    "summary": "Experienced Business Analyst with 8 years of experience in analysis",
+    "location": {
+      "address": "154 Tech Avenue",
+      "postalCode": "19150",
+      "city": "Netanya",
+      "countryCode": "IL",
+      "region": "Jerusalem District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Rachel-Peretz",
+        "url": "https://linkedin.com/in/rachel-peretz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "StrategyConsult",
+      "position": "Junior Business Analyst",
+      "startDate": "2021-06-01",
+      "endDate": "",
+      "summary": "Worked as Junior Business Analyst at StrategyConsult",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "StrategyConsult",
+      "position": "Business Analyst",
+      "startDate": "2020-10-01",
+      "endDate": "2023-10-01",
+      "summary": "Worked as Business Analyst at StrategyConsult",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "EnterpriseAnalytics",
+      "position": "Senior Business Analyst",
+      "startDate": "2017-06-01",
+      "endDate": "2021-06-01",
+      "summary": "Worked as Senior Business Analyst at EnterpriseAnalytics",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "EnterpriseAnalytics",
+      "position": "Business Analysis Manager",
+      "startDate": "2016-04-01",
+      "endDate": "2019-12-01",
+      "summary": "Worked as Business Analysis Manager at EnterpriseAnalytics",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Haifa University",
+      "area": "Engineering",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "78"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Acumen",
+      "level": "Expert",
+      "keywords": [
+        "Business Acumen"
+      ]
+    },
+    {
+      "name": "Requirements Analysis",
+      "level": "Expert",
+      "keywords": [
+        "Requirements Analysis"
+      ]
+    },
+    {
+      "name": "Stakeholder Management",
+      "level": "Intermediate",
+      "keywords": [
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Expert",
+      "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Process Improvement",
+      "level": "Beginner",
+      "keywords": [
+        "Process Improvement"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

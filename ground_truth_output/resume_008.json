@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Yosef Armon",
+    "label": "Sales Development Representative",
+    "email": "yosef.armon@email.com",
+    "phone": "+972-54-9580255",
+    "url": "https://linkedin.com/in/yosef-armon",
+    "summary": "Experienced Sales Representative with 2 years of experience in development",
+    "location": {
+      "address": "49 Business Road",
+      "postalCode": "15817",
+      "city": "Netanya",
+      "countryCode": "IL",
+      "region": "Northern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Yosef-Armon",
+        "url": "https://linkedin.com/in/yosef-armon"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MarketCapture",
+      "position": "Sales Development Representative",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Worked as Sales Development Representative at MarketCapture",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "RevenueDrive",
+      "position": "Sales Executive",
+      "startDate": "2020-07-01",
+      "endDate": "2023-02-01",
+      "summary": "Worked as Sales Executive at RevenueDrive",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Information Systems",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "93"
+    },
+    {
+      "institution": "Bar Ilan University",
+      "area": "Information Systems",
+      "studyType": "Master",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "75"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Pipeline Management",
+      "level": "Advanced",
+      "keywords": [
+        "Pipeline Management"
+      ]
+    },
+    {
+      "name": "Sales",
+      "level": "Expert",
+      "keywords": [
+        "Sales"
+      ]
+    },
+    {
+      "name": "CRM",
+      "level": "Advanced",
+      "keywords": [
+        "CRM"
+      ]
+    },
+    {
+      "name": "Customer Relations",
+      "level": "Intermediate",
+      "keywords": [
+        "Customer Relations"
+      ]
+    },
+    {
+      "name": "Negotiation",
+      "level": "Intermediate",
+      "keywords": [
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Closing",
+      "level": "Expert",
+      "keywords": [
+        "Closing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

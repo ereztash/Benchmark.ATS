@@ -6,6 +6,8 @@
 - `benchmark_resumes_50.json` — קובץ המקור (בעיקרון נמצא בשורש הפרוייקט)
 - `edge_case_resumes.json` — מקרים קיצוניים
 - `ats_validation_script.py` — סקריפט תיקוף (Python 3.7+)
+- `generate_ground_truth.py` — סקריפט ליצירת תוצאות אמת מושלמות
+- `ground_truth_output/` — 50 דוגמאות חילוץ מושלמות (תוצאות אמת)
 - `dist/benchmark_package/` — חבילת ההפצה (כוללת `README_he.md`, `bulk_validate.py`, `run_benchmark.sh`)
 
 דרישות מקדימות:
@@ -43,6 +45,30 @@ python3 bulk_validate.py ../../benchmark_resumes_50.json ats_output/ validation_
 6. בדיקת מקרים קיצוניים (אופציונלי):
    - ייבאו את `edge_case_resumes.json` ל-ATS והריצו את אותו תהליך כדי לבדוק טיפול במצבים בעיתיים.
 
+## קבצי תוצאות אמת (Ground Truth)
+
+הריפו כולל **קבצי תוצאות אמת** — פלטי חילוץ מושלמים של ATS שתוכלו להשתמש בהם כהשוואה:
+
+```bash
+# צפייה בקבצי תוצאות האמת (50 דוגמאות מושלמות)
+ls ground_truth_output/
+
+# אימות שתוצאות האמת מושלמות (צריך להראות 100% דיוק)
+python3 dist/benchmark_package/bulk_validate.py \
+  benchmark_resumes_50.json ground_truth_output/ ground_truth_validation.json
+
+# השוואה ידנית של פלט ה-ATS שלכם לתוצאות האמת
+diff ground_truth_output/resume_000.json your_ats_output/resume_000.json
+```
+
+ליצירה מחדש של קבצי תוצאות האמת:
+
+```bash
+python3 generate_ground_truth.py
+```
+
+ראו `ground_truth_output/README.md` לתיעוד מפורט.
+
 אריזת החבילה להורדה:
 
 ```bash
@@ -53,5 +79,3 @@ zip -r ../../benchmark_package.zip . -x "*/__pycache__/*"
 הערות למפתחים:
 - `ats_validation_script.py` מכיל את המחלקות `ResumeValidator` ו-`BenchmarkRunner` שניתן להשתמש בהן בתרחישי בדיקה מותאמים.
 - תיעוד סכמות ופורמט נמצא ב-`benchmark_documentation.json`.
-
-רוצה שאארז עבורך את ה-zip עכשיו ואצרף כאן קישור להורדה מה-workspace? או להכין גם גרסה באנגלית של ה-README?

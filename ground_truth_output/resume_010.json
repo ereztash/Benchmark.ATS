@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Noa Stein",
+    "label": "Senior Financial Analyst",
+    "email": "noa.stein@email.com",
+    "phone": "+972-51-8795419",
+    "url": "https://linkedin.com/in/noa-stein",
+    "summary": "Experienced Financial Analyst with 8 years of experience in strategy",
+    "location": {
+      "address": "185 Innovation Blvd",
+      "postalCode": "81810",
+      "city": "Bat Yam",
+      "countryCode": "IL",
+      "region": "Northern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Noa-Stein",
+        "url": "https://linkedin.com/in/noa-stein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CapitalAdvisory",
+      "position": "Junior Financial Analyst",
+      "startDate": "2023-12-01",
+      "endDate": "",
+      "summary": "Worked as Junior Financial Analyst at CapitalAdvisory",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "InvestmentCorp",
+      "position": "Financial Analyst",
+      "startDate": "2020-09-01",
+      "endDate": "2023-08-01",
+      "summary": "Worked as Financial Analyst at InvestmentCorp",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "CapitalAdvisory",
+      "position": "Senior Financial Analyst",
+      "startDate": "2020-12-01",
+      "endDate": "2021-05-01",
+      "summary": "Worked as Senior Financial Analyst at CapitalAdvisory",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "Wealth Management",
+      "position": "Finance Manager",
+      "startDate": "2018-03-01",
+      "endDate": "2019-03-01",
+      "summary": "Worked as Finance Manager at Wealth Management",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Haifa University",
+      "area": "Data Science",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "75"
+    },
+    {
+      "institution": "Bar Ilan University",
+      "area": "Economics",
+      "studyType": "MBA",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "75"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Accounting",
+      "level": "Advanced",
+      "keywords": [
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Excel",
+      "level": "Expert",
+      "keywords": [
+        "Excel"
+      ]
+    },
+    {
+      "name": "Financial Modeling",
+      "level": "Expert",
+      "keywords": [
+        "Financial Modeling"
+      ]
+    },
+    {
+      "name": "Bloomberg",
+      "level": "Beginner",
+      "keywords": [
+        "Bloomberg"
+      ]
+    },
+    {
+      "name": "Valuation",
+      "level": "Intermediate",
+      "keywords": [
+        "Valuation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

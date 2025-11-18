@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "Hana Navon",
+    "label": "Marketing Director",
+    "email": "hana.navon@email.com",
+    "phone": "+972-51-1971823",
+    "url": "https://linkedin.com/in/hana-navon",
+    "summary": "Experienced Marketing Manager with 11 years of experience in analysis",
+    "location": {
+      "address": "22 Innovation Blvd",
+      "postalCode": "19071",
+      "city": "Givatayim",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Hana-Navon",
+        "url": "https://linkedin.com/in/hana-navon"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BrandForce",
+      "position": "Marketing Coordinator",
+      "startDate": "2023-11-01",
+      "endDate": "",
+      "summary": "Worked as Marketing Coordinator at BrandForce",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "GrowthCo",
+      "position": "Marketing Manager",
+      "startDate": "2019-04-01",
+      "endDate": "2023-09-01",
+      "summary": "Worked as Marketing Manager at GrowthCo",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "GrowthCo",
+      "position": "Senior Marketing Manager",
+      "startDate": "2017-11-01",
+      "endDate": "2021-11-01",
+      "summary": "Worked as Senior Marketing Manager at GrowthCo",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "DigitalDynamics",
+      "position": "Marketing Director",
+      "startDate": "2018-04-01",
+      "endDate": "2019-04-01",
+      "summary": "Worked as Marketing Director at DigitalDynamics",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "BrandForce",
+      "position": "Marketing Director",
+      "startDate": "2015-01-01",
+      "endDate": "2017-02-01",
+      "summary": "Worked as Marketing Director at BrandForce",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bar Ilan University",
+      "area": "Economics",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "81"
+    },
+    {
+      "institution": "Tel Aviv University",
+      "area": "Data Science",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "88"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Digital Marketing",
+      "level": "Intermediate",
+      "keywords": [
+        "Digital Marketing"
+      ]
+    },
+    {
+      "name": "Brand Strategy",
+      "level": "Advanced",
+      "keywords": [
+        "Brand Strategy"
+      ]
+    },
+    {
+      "name": "Content Strategy",
+      "level": "Expert",
+      "keywords": [
+        "Content Strategy"
+      ]
+    },
+    {
+      "name": "Campaign Management",
+      "level": "Intermediate",
+      "keywords": [
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "level": "Intermediate",
+      "keywords": [
+        "Google Analytics"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}
