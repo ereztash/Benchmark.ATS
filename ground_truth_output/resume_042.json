@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "Yael Levi",
+    "label": "Senior Business Analyst",
+    "email": "yael.levi@email.com",
+    "phone": "+972-50-8808032",
+    "url": "https://linkedin.com/in/yael-levi",
+    "summary": "Experienced Business Analyst with 8 years of experience in strategy",
+    "location": {
+      "address": "176 Business Road",
+      "postalCode": "25389",
+      "city": "Ramat Gan",
+      "countryCode": "IL",
+      "region": "Central District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Yael-Levi",
+        "url": "https://linkedin.com/in/yael-levi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "StrategyConsult",
+      "position": "Junior Business Analyst",
+      "startDate": "2022-10-01",
+      "endDate": "",
+      "summary": "Worked as Junior Business Analyst at StrategyConsult",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "EnterpriseAnalytics",
+      "position": "Business Analyst",
+      "startDate": "2021-08-01",
+      "endDate": "2023-12-01",
+      "summary": "Worked as Business Analyst at EnterpriseAnalytics",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "EnterpriseAnalytics",
+      "position": "Senior Business Analyst",
+      "startDate": "2019-04-01",
+      "endDate": "2021-11-01",
+      "summary": "Worked as Senior Business Analyst at EnterpriseAnalytics",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "EnterpriseAnalytics",
+      "position": "Business Analysis Manager",
+      "startDate": "2016-02-01",
+      "endDate": "2019-10-01",
+      "summary": "Worked as Business Analysis Manager at EnterpriseAnalytics",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bar Ilan University",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "91"
+    },
+    {
+      "institution": "Bar Ilan University",
+      "area": "Information Systems",
+      "studyType": "Master",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "76"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Documentation",
+      "level": "Expert",
+      "keywords": [
+        "Documentation"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Beginner",
+      "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Process Improvement",
+      "level": "Intermediate",
+      "keywords": [
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Requirements Analysis",
+      "level": "Expert",
+      "keywords": [
+        "Requirements Analysis"
+      ]
+    },
+    {
+      "name": "Business Acumen",
+      "level": "Beginner",
+      "keywords": [
+        "Business Acumen"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

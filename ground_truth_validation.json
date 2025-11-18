@@ -1,0 +1,1913 @@
+{
+  "test_date": "2025-11-18T14:39:53.988845",
+  "total_resumes_tested": 50,
+  "summary_metrics": {
+    "average_accuracy": 100.0,
+    "resumes_above_95": 50,
+    "resumes_above_90": 50,
+    "resumes_below_80": 0
+  },
+  "detailed_results": [
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 7,
+          "correctly_found": 7
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 4,
+          "correctly_found": 4
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 4,
+          "correctly_found": 4
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 4,
+          "correctly_found": 4
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 4,
+          "correctly_found": 4
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 4,
+          "correctly_found": 4
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 7,
+          "correctly_found": 7
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 4,
+          "correctly_found": 4
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 7,
+          "correctly_found": 7
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 4,
+          "correctly_found": 4
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 7,
+          "correctly_found": 7
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 5,
+          "correctly_found": 5
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 4,
+          "correctly_parsed": 4
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 4,
+          "correctly_found": 4
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 5,
+          "correctly_parsed": 5
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 4,
+          "correctly_found": 4
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 2,
+          "correctly_parsed": 2
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 2
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 4,
+          "correctly_found": 4
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    },
+    {
+      "overall_accuracy": 100.0,
+      "field_results": {
+        "basics": {
+          "accuracy": 100.0,
+          "fields": {
+            "name": 100,
+            "email": 100,
+            "phone": 100,
+            "label": 100,
+            "summary": 100
+          }
+        },
+        "work": {
+          "accuracy": 100.0,
+          "total_positions": 3,
+          "correctly_parsed": 3
+        },
+        "education": {
+          "accuracy": 100.0,
+          "total_degrees": 1
+        },
+        "skills": {
+          "accuracy": 100.0,
+          "precision": 100.0,
+          "recall": 100.0,
+          "total_source": 6,
+          "correctly_found": 6
+        },
+        "languages": {
+          "accuracy": 100,
+          "total_languages": 2
+        }
+      },
+      "missing_fields": [],
+      "extra_fields": [],
+      "issues": []
+    }
+  ],
+  "recommendations": []
+}

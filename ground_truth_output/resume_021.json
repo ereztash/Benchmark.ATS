@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "David Navon",
+    "label": "QA Engineer",
+    "email": "david.navon@email.com",
+    "phone": "+972-53-1559763",
+    "url": "https://linkedin.com/in/david-navon",
+    "summary": "Experienced Quality Assurance with 5 years of experience in strategy",
+    "location": {
+      "address": "76 Business Road",
+      "postalCode": "64460",
+      "city": "Ramat Gan",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "David-Navon",
+        "url": "https://linkedin.com/in/david-navon"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TestingLab",
+      "position": "QA Tester",
+      "startDate": "2023-03-01",
+      "endDate": "",
+      "summary": "Worked as QA Tester at TestingLab",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "AssuranceTech",
+      "position": "QA Engineer",
+      "startDate": "2021-05-01",
+      "endDate": "2023-08-01",
+      "summary": "Worked as QA Engineer at AssuranceTech",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "QualityWorks",
+      "position": "Senior QA Engineer",
+      "startDate": "2017-02-01",
+      "endDate": "2021-03-01",
+      "summary": "Worked as Senior QA Engineer at QualityWorks",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Economics",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "75"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Bug Tracking",
+      "level": "Beginner",
+      "keywords": [
+        "Bug Tracking"
+      ]
+    },
+    {
+      "name": "Selenium",
+      "level": "Expert",
+      "keywords": [
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Manual Testing",
+      "level": "Advanced",
+      "keywords": [
+        "Manual Testing"
+      ]
+    },
+    {
+      "name": "Test Automation",
+      "level": "Advanced",
+      "keywords": [
+        "Test Automation"
+      ]
+    },
+    {
+      "name": "QA Methodologies",
+      "level": "Expert",
+      "keywords": [
+        "QA Methodologies"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": [
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "ASTQB Software QA",
+      "date": "2024-11-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

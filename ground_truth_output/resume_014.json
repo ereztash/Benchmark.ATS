@@ -1,0 +1,156 @@
+{
+  "basics": {
+    "name": "Dani Kazan",
+    "label": "Senior Data Analyst",
+    "email": "dani.kazan@email.com",
+    "phone": "+972-53-9907391",
+    "url": "https://linkedin.com/in/dani-kazan",
+    "summary": "Experienced Data Analyst with 8 years of experience in strategy",
+    "location": {
+      "address": "141 Business Road",
+      "postalCode": "56112",
+      "city": "Netanya",
+      "countryCode": "IL",
+      "region": "Southern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Dani-Kazan",
+        "url": "https://linkedin.com/in/dani-kazan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BusinessIntel",
+      "position": "Junior Data Analyst",
+      "startDate": "2022-05-01",
+      "endDate": "",
+      "summary": "Worked as Junior Data Analyst at BusinessIntel",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "AnalyticsPro",
+      "position": "Data Analyst",
+      "startDate": "2020-02-01",
+      "endDate": "2023-12-01",
+      "summary": "Worked as Data Analyst at AnalyticsPro",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "AnalyticsPro",
+      "position": "Senior Data Analyst",
+      "startDate": "2019-12-01",
+      "endDate": "2021-08-01",
+      "summary": "Worked as Senior Data Analyst at AnalyticsPro",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "FinanceData",
+      "position": "Analytics Manager",
+      "startDate": "2018-04-01",
+      "endDate": "2019-05-01",
+      "summary": "Worked as Analytics Manager at FinanceData",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bar Ilan University",
+      "area": "Economics",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "85"
+    },
+    {
+      "institution": "Tel Aviv University",
+      "area": "Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "90"
+    }
+  ],
+  "skills": [
+    {
+      "name": "SQL",
+      "level": "Beginner",
+      "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "level": "Advanced",
+      "keywords": [
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "level": "Intermediate",
+      "keywords": [
+        "Statistics"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Expert",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "name": "Tableau",
+      "level": "Beginner",
+      "keywords": [
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Pandas",
+      "level": "Beginner",
+      "keywords": [
+        "Pandas"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Tableau Desktop Specialist",
+      "date": "2022-02-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

@@ -1,0 +1,167 @@
+{
+  "basics": {
+    "name": "Iris Cohen",
+    "label": "DevOps Lead",
+    "email": "iris.cohen@email.com",
+    "phone": "+972-53-5269083",
+    "url": "https://linkedin.com/in/iris-cohen",
+    "summary": "Experienced DevOps Engineer with 11 years of experience in development",
+    "location": {
+      "address": "19 Main Street",
+      "postalCode": "65534",
+      "city": "Petah Tikva",
+      "countryCode": "IL",
+      "region": "Northern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Iris-Cohen",
+        "url": "https://linkedin.com/in/iris-cohen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SystemsScale",
+      "position": "Junior DevOps Engineer",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Worked as Junior DevOps Engineer at SystemsScale",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "InfrastructurePro",
+      "position": "DevOps Engineer",
+      "startDate": "2020-07-01",
+      "endDate": "2023-03-01",
+      "summary": "Worked as DevOps Engineer at InfrastructurePro",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "DeploymentHub",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2018-07-01",
+      "endDate": "2021-08-01",
+      "summary": "Worked as Senior DevOps Engineer at DeploymentHub",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "CloudOps",
+      "position": "DevOps Lead",
+      "startDate": "2016-02-01",
+      "endDate": "2019-03-01",
+      "summary": "Worked as DevOps Lead at CloudOps",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "CloudOps",
+      "position": "DevOps Lead",
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Worked as DevOps Lead at CloudOps",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tel Aviv University",
+      "area": "Information Systems",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "76"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Jenkins",
+      "level": "Advanced",
+      "keywords": [
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "level": "Intermediate",
+      "keywords": [
+        "Monitoring"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Beginner",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "level": "Beginner",
+      "keywords": [
+        "Terraform"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Expert",
+      "keywords": [
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Beginner",
+      "keywords": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Intermediate",
+      "keywords": [
+        "Kubernetes"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Solutions Architect",
+      "date": "2024-12-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

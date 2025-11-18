@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "David Kazan",
+    "label": "Sales Development Representative",
+    "email": "david.kazan@email.com",
+    "phone": "+972-54-6679880",
+    "url": "https://linkedin.com/in/david-kazan",
+    "summary": "Experienced Sales Representative with 2 years of experience in analysis",
+    "location": {
+      "address": "123 Tech Avenue",
+      "postalCode": "27675",
+      "city": "Bat Yam",
+      "countryCode": "IL",
+      "region": "Southern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "David-Kazan",
+        "url": "https://linkedin.com/in/david-kazan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SalesCorp",
+      "position": "Sales Development Representative",
+      "startDate": "2021-01-01",
+      "endDate": "",
+      "summary": "Worked as Sales Development Representative at SalesCorp",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "RevenueDrive",
+      "position": "Sales Executive",
+      "startDate": "2022-06-01",
+      "endDate": "2023-05-01",
+      "summary": "Worked as Sales Executive at RevenueDrive",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "90"
+    },
+    {
+      "institution": "Bar Ilan University",
+      "area": "Engineering",
+      "studyType": "MBA",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "91"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CRM",
+      "level": "Advanced",
+      "keywords": [
+        "CRM"
+      ]
+    },
+    {
+      "name": "Sales",
+      "level": "Advanced",
+      "keywords": [
+        "Sales"
+      ]
+    },
+    {
+      "name": "Negotiation",
+      "level": "Beginner",
+      "keywords": [
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Customer Relations",
+      "level": "Advanced",
+      "keywords": [
+        "Customer Relations"
+      ]
+    },
+    {
+      "name": "Pipeline Management",
+      "level": "Expert",
+      "keywords": [
+        "Pipeline Management"
+      ]
+    },
+    {
+      "name": "Closing",
+      "level": "Expert",
+      "keywords": [
+        "Closing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "SPIN Selling",
+      "date": "2025-07-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

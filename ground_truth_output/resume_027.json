@@ -1,0 +1,169 @@
+{
+  "basics": {
+    "name": "Reuben Cohen",
+    "label": "Marketing Director",
+    "email": "reuben.cohen@email.com",
+    "phone": "+972-52-3883553",
+    "url": "https://linkedin.com/in/reuben-cohen",
+    "summary": "Experienced Marketing Manager with 11 years of experience in management",
+    "location": {
+      "address": "112 Main Street",
+      "postalCode": "41891",
+      "city": "Haifa",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Reuben-Cohen",
+        "url": "https://linkedin.com/in/reuben-cohen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DigitalDynamics",
+      "position": "Marketing Coordinator",
+      "startDate": "2021-09-01",
+      "endDate": "",
+      "summary": "Worked as Marketing Coordinator at DigitalDynamics",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "GrowthCo",
+      "position": "Marketing Manager",
+      "startDate": "2021-06-01",
+      "endDate": "2023-03-01",
+      "summary": "Worked as Marketing Manager at GrowthCo",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "MarketingHub",
+      "position": "Senior Marketing Manager",
+      "startDate": "2019-06-01",
+      "endDate": "2021-06-01",
+      "summary": "Worked as Senior Marketing Manager at MarketingHub",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "BrandForce",
+      "position": "Marketing Director",
+      "startDate": "2018-03-01",
+      "endDate": "2019-05-01",
+      "summary": "Worked as Marketing Director at BrandForce",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "BrandForce",
+      "position": "Marketing Director",
+      "startDate": "2016-03-01",
+      "endDate": "2017-11-01",
+      "summary": "Worked as Marketing Director at BrandForce",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tel Aviv University",
+      "area": "Engineering",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "89"
+    },
+    {
+      "institution": "Tel Aviv University",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "86"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Campaign Management",
+      "level": "Expert",
+      "keywords": [
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "level": "Beginner",
+      "keywords": [
+        "Google Analytics"
+      ]
+    },
+    {
+      "name": "Brand Strategy",
+      "level": "Expert",
+      "keywords": [
+        "Brand Strategy"
+      ]
+    },
+    {
+      "name": "Content Strategy",
+      "level": "Expert",
+      "keywords": [
+        "Content Strategy"
+      ]
+    },
+    {
+      "name": "Social Media",
+      "level": "Advanced",
+      "keywords": [
+        "Social Media"
+      ]
+    },
+    {
+      "name": "SEO",
+      "level": "Advanced",
+      "keywords": [
+        "SEO"
+      ]
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "Beginner",
+      "keywords": [
+        "Digital Marketing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "Dani Kazan",
+    "label": "Content Director",
+    "email": "dani.kazan@email.com",
+    "phone": "+972-53-3177199",
+    "url": "https://linkedin.com/in/dani-kazan",
+    "summary": "Experienced Content Strategist with 11 years of experience in development",
+    "location": {
+      "address": "102 Innovation Blvd",
+      "postalCode": "78903",
+      "city": "Jerusalem",
+      "countryCode": "IL",
+      "region": "Haifa District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Dani-Kazan",
+        "url": "https://linkedin.com/in/dani-kazan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DigitalPublishing",
+      "position": "Content Writer",
+      "startDate": "2021-10-01",
+      "endDate": "",
+      "summary": "Worked as Content Writer at DigitalPublishing",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "ContentCreative",
+      "position": "Content Strategist",
+      "startDate": "2019-08-01",
+      "endDate": "2023-11-01",
+      "summary": "Worked as Content Strategist at ContentCreative",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "MediaGroup",
+      "position": "Senior Content Strategist",
+      "startDate": "2019-07-01",
+      "endDate": "2021-09-01",
+      "summary": "Worked as Senior Content Strategist at MediaGroup",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "MediaGroup",
+      "position": "Content Director",
+      "startDate": "2016-03-01",
+      "endDate": "2019-03-01",
+      "summary": "Worked as Content Director at MediaGroup",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "PublishingHub",
+      "position": "Content Director",
+      "startDate": "2014-02-01",
+      "endDate": "2017-05-01",
+      "summary": "Worked as Content Director at PublishingHub",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Information Systems",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "88"
+    },
+    {
+      "institution": "Tel Aviv University",
+      "area": "Economics",
+      "studyType": "MBA",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "95"
+    }
+  ],
+  "skills": [
+    {
+      "name": "SEO Writing",
+      "level": "Intermediate",
+      "keywords": [
+        "SEO Writing"
+      ]
+    },
+    {
+      "name": "Content Calendar",
+      "level": "Advanced",
+      "keywords": [
+        "Content Calendar"
+      ]
+    },
+    {
+      "name": "Content Strategy",
+      "level": "Beginner",
+      "keywords": [
+        "Content Strategy"
+      ]
+    },
+    {
+      "name": "Storytelling",
+      "level": "Beginner",
+      "keywords": [
+        "Storytelling"
+      ]
+    },
+    {
+      "name": "Analytics",
+      "level": "Beginner",
+      "keywords": [
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Editorial",
+      "level": "Beginner",
+      "keywords": [
+        "Editorial"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

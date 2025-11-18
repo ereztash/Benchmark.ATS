@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Iris Shavit",
+    "label": "Product Manager",
+    "email": "iris.shavit@email.com",
+    "phone": "+972-52-6899644",
+    "url": "https://linkedin.com/in/iris-shavit",
+    "summary": "Experienced Product Manager with 5 years of experience in development",
+    "location": {
+      "address": "55 Tech Avenue",
+      "postalCode": "96079",
+      "city": "Givatayim",
+      "countryCode": "IL",
+      "region": "Northern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Iris-Shavit",
+        "url": "https://linkedin.com/in/iris-shavit"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MarketLeaders",
+      "position": "Associate Product Manager",
+      "startDate": "2023-02-01",
+      "endDate": "",
+      "summary": "Worked as Associate Product Manager at MarketLeaders",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "ProductCo",
+      "position": "Product Manager",
+      "startDate": "2020-10-01",
+      "endDate": "2023-04-01",
+      "summary": "Worked as Product Manager at ProductCo",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "ProductCo",
+      "position": "Senior Product Manager",
+      "startDate": "2018-01-01",
+      "endDate": "2021-03-01",
+      "summary": "Worked as Senior Product Manager at ProductCo",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Engineering",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "84"
+    },
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Information Systems",
+      "studyType": "MBA",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "94"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Analytics",
+      "level": "Intermediate",
+      "keywords": [
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Product Strategy",
+      "level": "Beginner",
+      "keywords": [
+        "Product Strategy"
+      ]
+    },
+    {
+      "name": "User Research",
+      "level": "Beginner",
+      "keywords": [
+        "User Research"
+      ]
+    },
+    {
+      "name": "Stakeholder Management",
+      "level": "Intermediate",
+      "keywords": [
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Roadmapping",
+      "level": "Expert",
+      "keywords": [
+        "Roadmapping"
+      ]
+    },
+    {
+      "name": "A/B Testing",
+      "level": "Expert",
+      "keywords": [
+        "A/B Testing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Pragmatic Marketing",
+      "date": "2024-10-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

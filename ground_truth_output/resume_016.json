@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Iris Shavit",
+    "label": "HR Coordinator",
+    "email": "iris.shavit@email.com",
+    "phone": "+972-54-5842082",
+    "url": "https://linkedin.com/in/iris-shavit",
+    "summary": "Experienced HR Specialist with 2 years of experience in management",
+    "location": {
+      "address": "177 Business Road",
+      "postalCode": "62757",
+      "city": "Jerusalem",
+      "countryCode": "IL",
+      "region": "Central District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Iris-Shavit",
+        "url": "https://linkedin.com/in/iris-shavit"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "PeopleFirst",
+      "position": "HR Coordinator",
+      "startDate": "2021-08-01",
+      "endDate": "",
+      "summary": "Worked as HR Coordinator at PeopleFirst",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "OrganizationPlus",
+      "position": "HR Specialist",
+      "startDate": "2020-10-01",
+      "endDate": "2023-05-01",
+      "summary": "Worked as HR Specialist at OrganizationPlus",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bar Ilan University",
+      "area": "Computer Science",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "90"
+    },
+    {
+      "institution": "Bar Ilan University",
+      "area": "Engineering",
+      "studyType": "Master",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "85"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Labor Law",
+      "level": "Expert",
+      "keywords": [
+        "Labor Law"
+      ]
+    },
+    {
+      "name": "Training",
+      "level": "Expert",
+      "keywords": [
+        "Training"
+      ]
+    },
+    {
+      "name": "Recruitment",
+      "level": "Advanced",
+      "keywords": [
+        "Recruitment"
+      ]
+    },
+    {
+      "name": "Performance Management",
+      "level": "Intermediate",
+      "keywords": [
+        "Performance Management"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

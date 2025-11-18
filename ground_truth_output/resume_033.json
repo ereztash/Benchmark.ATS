@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "Noa Goldman",
+    "label": "QA Engineer",
+    "email": "noa.goldman@email.com",
+    "phone": "+972-54-5928582",
+    "url": "https://linkedin.com/in/noa-goldman",
+    "summary": "Experienced Quality Assurance with 5 years of experience in strategy",
+    "location": {
+      "address": "84 Business Road",
+      "postalCode": "50173",
+      "city": "Jerusalem",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Noa-Goldman",
+        "url": "https://linkedin.com/in/noa-goldman"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "QAExperts",
+      "position": "QA Tester",
+      "startDate": "2021-03-01",
+      "endDate": "",
+      "summary": "Worked as QA Tester at QAExperts",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "QAExperts",
+      "position": "QA Engineer",
+      "startDate": "2022-12-01",
+      "endDate": "2023-06-01",
+      "summary": "Worked as QA Engineer at QAExperts",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "QualityWorks",
+      "position": "Senior QA Engineer",
+      "startDate": "2020-11-01",
+      "endDate": "2021-11-01",
+      "summary": "Worked as Senior QA Engineer at QualityWorks",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Data Science",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "89"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Manual Testing",
+      "level": "Beginner",
+      "keywords": [
+        "Manual Testing"
+      ]
+    },
+    {
+      "name": "Test Automation",
+      "level": "Intermediate",
+      "keywords": [
+        "Test Automation"
+      ]
+    },
+    {
+      "name": "QA Methodologies",
+      "level": "Advanced",
+      "keywords": [
+        "QA Methodologies"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "name": "Selenium",
+      "level": "Expert",
+      "keywords": [
+        "Selenium"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

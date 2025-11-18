@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Noa Cohen",
+    "label": "Junior Software Engineer",
+    "email": "noa.cohen@email.com",
+    "phone": "+972-52-5108603",
+    "url": "https://linkedin.com/in/noa-cohen",
+    "summary": "Experienced Software Engineer with 2 years of experience in analysis",
+    "location": {
+      "address": "27 Main Street",
+      "postalCode": "87397",
+      "city": "Ramat Gan",
+      "countryCode": "IL",
+      "region": "Southern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Noa-Cohen",
+        "url": "https://linkedin.com/in/noa-cohen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "WebInnovate",
+      "position": "Junior Software Engineer",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "summary": "Worked as Junior Software Engineer at WebInnovate",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "AIGlobal",
+      "position": "Software Engineer",
+      "startDate": "2022-09-01",
+      "endDate": "2023-04-01",
+      "summary": "Worked as Software Engineer at AIGlobal",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tel Aviv University",
+      "area": "Engineering",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "86"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Node.js",
+      "level": "Expert",
+      "keywords": [
+        "Node.js"
+      ]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": [
+        "REST API"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Advanced",
+      "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "React"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "keywords": [
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Beginner",
+      "keywords": [
+        "Docker"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

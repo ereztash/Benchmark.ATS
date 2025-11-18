@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Leah Gonen",
+    "label": "QA Engineer",
+    "email": "leah.gonen@email.com",
+    "phone": "+972-54-6406444",
+    "url": "https://linkedin.com/in/leah-gonen",
+    "summary": "Experienced Quality Assurance with 5 years of experience in management",
+    "location": {
+      "address": "173 Tech Avenue",
+      "postalCode": "77000",
+      "city": "Bat Yam",
+      "countryCode": "IL",
+      "region": "Central District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Leah-Gonen",
+        "url": "https://linkedin.com/in/leah-gonen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "QAExperts",
+      "position": "QA Tester",
+      "startDate": "2023-11-01",
+      "endDate": "",
+      "summary": "Worked as QA Tester at QAExperts",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "AssuranceTech",
+      "position": "QA Engineer",
+      "startDate": "2022-04-01",
+      "endDate": "2023-11-01",
+      "summary": "Worked as QA Engineer at AssuranceTech",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "TestingLab",
+      "position": "Senior QA Engineer",
+      "startDate": "2020-01-01",
+      "endDate": "2021-04-01",
+      "summary": "Worked as Senior QA Engineer at TestingLab",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Haifa University",
+      "area": "Economics",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "76"
+    }
+  ],
+  "skills": [
+    {
+      "name": "QA Methodologies",
+      "level": "Expert",
+      "keywords": [
+        "QA Methodologies"
+      ]
+    },
+    {
+      "name": "Bug Tracking",
+      "level": "Intermediate",
+      "keywords": [
+        "Bug Tracking"
+      ]
+    },
+    {
+      "name": "Test Automation",
+      "level": "Intermediate",
+      "keywords": [
+        "Test Automation"
+      ]
+    },
+    {
+      "name": "Selenium",
+      "level": "Beginner",
+      "keywords": [
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Beginner",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "name": "Manual Testing",
+      "level": "Expert",
+      "keywords": [
+        "Manual Testing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

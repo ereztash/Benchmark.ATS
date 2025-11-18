@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Miriam Shalit",
+    "label": "UX Designer",
+    "email": "miriam.shalit@email.com",
+    "phone": "+972-53-9312590",
+    "url": "https://linkedin.com/in/miriam-shalit",
+    "summary": "Experienced UX Designer with 5 years of experience in strategy",
+    "location": {
+      "address": "10 Innovation Blvd",
+      "postalCode": "21542",
+      "city": "Netanya",
+      "countryCode": "IL",
+      "region": "Northern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Miriam-Shalit",
+        "url": "https://linkedin.com/in/miriam-shalit"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CreativeHub",
+      "position": "Junior UX Designer",
+      "startDate": "2022-06-01",
+      "endDate": "",
+      "summary": "Worked as Junior UX Designer at CreativeHub",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "DesignStudio",
+      "position": "UX Designer",
+      "startDate": "2019-07-01",
+      "endDate": "2023-01-01",
+      "summary": "Worked as UX Designer at DesignStudio",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "InterfaceWorks",
+      "position": "Senior UX Designer",
+      "startDate": "2017-01-01",
+      "endDate": "2021-04-01",
+      "summary": "Worked as Senior UX Designer at InterfaceWorks",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tel Aviv University",
+      "area": "Data Science",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "79"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Prototyping",
+      "level": "Intermediate",
+      "keywords": [
+        "Prototyping"
+      ]
+    },
+    {
+      "name": "UI Design",
+      "level": "Advanced",
+      "keywords": [
+        "UI Design"
+      ]
+    },
+    {
+      "name": "Interaction Design",
+      "level": "Beginner",
+      "keywords": [
+        "Interaction Design"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": [
+        "Figma"
+      ]
+    },
+    {
+      "name": "Adobe XD",
+      "level": "Beginner",
+      "keywords": [
+        "Adobe XD"
+      ]
+    },
+    {
+      "name": "Wireframing",
+      "level": "Intermediate",
+      "keywords": [
+        "Wireframing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Google UX Design",
+      "date": "2023-07-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

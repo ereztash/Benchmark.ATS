@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "name": "Reuben Armon",
+    "label": "Content Director",
+    "email": "reuben.armon@email.com",
+    "phone": "+972-54-4700025",
+    "url": "https://linkedin.com/in/reuben-armon",
+    "summary": "Experienced Content Strategist with 11 years of experience in management",
+    "location": {
+      "address": "112 Innovation Blvd",
+      "postalCode": "13804",
+      "city": "Petah Tikva",
+      "countryCode": "IL",
+      "region": "Haifa District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Reuben-Armon",
+        "url": "https://linkedin.com/in/reuben-armon"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DigitalPublishing",
+      "position": "Content Writer",
+      "startDate": "2022-11-01",
+      "endDate": "",
+      "summary": "Worked as Content Writer at DigitalPublishing",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "MediaGroup",
+      "position": "Content Strategist",
+      "startDate": "2019-03-01",
+      "endDate": "2023-10-01",
+      "summary": "Worked as Content Strategist at MediaGroup",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "ContentCreative",
+      "position": "Senior Content Strategist",
+      "startDate": "2020-11-01",
+      "endDate": "2021-07-01",
+      "summary": "Worked as Senior Content Strategist at ContentCreative",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "ContentCreative",
+      "position": "Content Director",
+      "startDate": "2016-07-01",
+      "endDate": "2019-06-01",
+      "summary": "Worked as Content Director at ContentCreative",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "PublishingHub",
+      "position": "Content Director",
+      "startDate": "2013-05-01",
+      "endDate": "2017-07-01",
+      "summary": "Worked as Content Director at PublishingHub",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tel Aviv University",
+      "area": "Information Systems",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "79"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Editorial",
+      "level": "Intermediate",
+      "keywords": [
+        "Editorial"
+      ]
+    },
+    {
+      "name": "Storytelling",
+      "level": "Beginner",
+      "keywords": [
+        "Storytelling"
+      ]
+    },
+    {
+      "name": "Content Strategy",
+      "level": "Beginner",
+      "keywords": [
+        "Content Strategy"
+      ]
+    },
+    {
+      "name": "SEO Writing",
+      "level": "Beginner",
+      "keywords": [
+        "SEO Writing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

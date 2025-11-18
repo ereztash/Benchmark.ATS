@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "Sarah Gonen",
+    "label": "Senior Financial Analyst",
+    "email": "sarah.gonen@email.com",
+    "phone": "+972-51-9882862",
+    "url": "https://linkedin.com/in/sarah-gonen",
+    "summary": "Experienced Financial Analyst with 8 years of experience in strategy",
+    "location": {
+      "address": "167 Business Road",
+      "postalCode": "42717",
+      "city": "Netanya",
+      "countryCode": "IL",
+      "region": "Haifa District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Sarah-Gonen",
+        "url": "https://linkedin.com/in/sarah-gonen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "FinancePartners",
+      "position": "Junior Financial Analyst",
+      "startDate": "2024-12-01",
+      "endDate": "",
+      "summary": "Worked as Junior Financial Analyst at FinancePartners",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "CapitalAdvisory",
+      "position": "Financial Analyst",
+      "startDate": "2022-05-01",
+      "endDate": "2023-05-01",
+      "summary": "Worked as Financial Analyst at CapitalAdvisory",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "Wealth Management",
+      "position": "Senior Financial Analyst",
+      "startDate": "2017-04-01",
+      "endDate": "2021-02-01",
+      "summary": "Worked as Senior Financial Analyst at Wealth Management",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "InvestmentCorp",
+      "position": "Finance Manager",
+      "startDate": "2015-02-01",
+      "endDate": "2019-11-01",
+      "summary": "Worked as Finance Manager at InvestmentCorp",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "90"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Bloomberg",
+      "level": "Intermediate",
+      "keywords": [
+        "Bloomberg"
+      ]
+    },
+    {
+      "name": "Accounting",
+      "level": "Intermediate",
+      "keywords": [
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Valuation",
+      "level": "Advanced",
+      "keywords": [
+        "Valuation"
+      ]
+    },
+    {
+      "name": "Excel",
+      "level": "Intermediate",
+      "keywords": [
+        "Excel"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

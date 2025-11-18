@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "Benjamin Levi",
+    "label": "HR Coordinator",
+    "email": "benjamin.levi@email.com",
+    "phone": "+972-50-2016911",
+    "url": "https://linkedin.com/in/benjamin-levi",
+    "summary": "Experienced HR Specialist with 2 years of experience in management",
+    "location": {
+      "address": "64 Tech Avenue",
+      "postalCode": "34931",
+      "city": "Haifa",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Benjamin-Levi",
+        "url": "https://linkedin.com/in/benjamin-levi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "OrganizationPlus",
+      "position": "HR Coordinator",
+      "startDate": "2023-07-01",
+      "endDate": "",
+      "summary": "Worked as HR Coordinator at OrganizationPlus",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "TalentCorp",
+      "position": "HR Specialist",
+      "startDate": "2022-08-01",
+      "endDate": "2023-09-01",
+      "summary": "Worked as HR Specialist at TalentCorp",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bar Ilan University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "87"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Recruitment",
+      "level": "Expert",
+      "keywords": [
+        "Recruitment"
+      ]
+    },
+    {
+      "name": "Employee Relations",
+      "level": "Expert",
+      "keywords": [
+        "Employee Relations"
+      ]
+    },
+    {
+      "name": "HRIS",
+      "level": "Intermediate",
+      "keywords": [
+        "HRIS"
+      ]
+    },
+    {
+      "name": "Performance Management",
+      "level": "Expert",
+      "keywords": [
+        "Performance Management"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "HR Business Partner",
+      "date": "2023-07-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

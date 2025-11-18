@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "David Gur",
+    "label": "Sales Development Representative",
+    "email": "david.gur@email.com",
+    "phone": "+972-53-4931560",
+    "url": "https://linkedin.com/in/david-gur",
+    "summary": "Experienced Sales Representative with 2 years of experience in analysis",
+    "location": {
+      "address": "129 Business Road",
+      "postalCode": "40692",
+      "city": "Tel Aviv",
+      "countryCode": "IL",
+      "region": "Jerusalem District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "David-Gur",
+        "url": "https://linkedin.com/in/david-gur"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ClientSuccess",
+      "position": "Sales Development Representative",
+      "startDate": "2022-04-01",
+      "endDate": "",
+      "summary": "Worked as Sales Development Representative at ClientSuccess",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "RevenueDrive",
+      "position": "Sales Executive",
+      "startDate": "2019-05-01",
+      "endDate": "2023-05-01",
+      "summary": "Worked as Sales Executive at RevenueDrive",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Information Systems",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "90"
+    },
+    {
+      "institution": "Hebrew University",
+      "area": "Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "79"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Pipeline Management",
+      "level": "Expert",
+      "keywords": [
+        "Pipeline Management"
+      ]
+    },
+    {
+      "name": "Customer Relations",
+      "level": "Advanced",
+      "keywords": [
+        "Customer Relations"
+      ]
+    },
+    {
+      "name": "Closing",
+      "level": "Expert",
+      "keywords": [
+        "Closing"
+      ]
+    },
+    {
+      "name": "Sales",
+      "level": "Expert",
+      "keywords": [
+        "Sales"
+      ]
+    },
+    {
+      "name": "Negotiation",
+      "level": "Intermediate",
+      "keywords": [
+        "Negotiation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "SPIN Selling",
+      "date": "2022-09-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

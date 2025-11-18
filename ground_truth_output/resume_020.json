@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Erez Stein",
+    "label": "Sales Development Representative",
+    "email": "erez.stein@email.com",
+    "phone": "+972-52-3650391",
+    "url": "https://linkedin.com/in/erez-stein",
+    "summary": "Experienced Sales Representative with 2 years of experience in development",
+    "location": {
+      "address": "151 Business Road",
+      "postalCode": "93746",
+      "city": "Bat Yam",
+      "countryCode": "IL",
+      "region": "Haifa District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Erez-Stein",
+        "url": "https://linkedin.com/in/erez-stein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MarketCapture",
+      "position": "Sales Development Representative",
+      "startDate": "2022-08-01",
+      "endDate": "",
+      "summary": "Worked as Sales Development Representative at MarketCapture",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "MarketCapture",
+      "position": "Sales Executive",
+      "startDate": "2022-04-01",
+      "endDate": "2023-07-01",
+      "summary": "Worked as Sales Executive at MarketCapture",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Information Systems",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "83"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Pipeline Management",
+      "level": "Beginner",
+      "keywords": [
+        "Pipeline Management"
+      ]
+    },
+    {
+      "name": "CRM",
+      "level": "Beginner",
+      "keywords": [
+        "CRM"
+      ]
+    },
+    {
+      "name": "Sales",
+      "level": "Expert",
+      "keywords": [
+        "Sales"
+      ]
+    },
+    {
+      "name": "Closing",
+      "level": "Advanced",
+      "keywords": [
+        "Closing"
+      ]
+    },
+    {
+      "name": "Negotiation",
+      "level": "Intermediate",
+      "keywords": [
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Customer Relations",
+      "level": "Advanced",
+      "keywords": [
+        "Customer Relations"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Sandler Sales",
+      "date": "2025-11-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

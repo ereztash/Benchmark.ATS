@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Dani Gur",
+    "label": "Product Manager",
+    "email": "dani.gur@email.com",
+    "phone": "+972-50-5955645",
+    "url": "https://linkedin.com/in/dani-gur",
+    "summary": "Experienced Product Manager with 5 years of experience in analysis",
+    "location": {
+      "address": "69 Tech Avenue",
+      "postalCode": "59807",
+      "city": "Jerusalem",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Dani-Gur",
+        "url": "https://linkedin.com/in/dani-gur"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "InnovateLabs",
+      "position": "Associate Product Manager",
+      "startDate": "2021-06-01",
+      "endDate": "",
+      "summary": "Worked as Associate Product Manager at InnovateLabs",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "ProductCo",
+      "position": "Product Manager",
+      "startDate": "2020-08-01",
+      "endDate": "2023-06-01",
+      "summary": "Worked as Product Manager at ProductCo",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "ProductCo",
+      "position": "Senior Product Manager",
+      "startDate": "2019-07-01",
+      "endDate": "2021-08-01",
+      "summary": "Worked as Senior Product Manager at ProductCo",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Haifa University",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "87"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Product Strategy",
+      "level": "Expert",
+      "keywords": [
+        "Product Strategy"
+      ]
+    },
+    {
+      "name": "A/B Testing",
+      "level": "Beginner",
+      "keywords": [
+        "A/B Testing"
+      ]
+    },
+    {
+      "name": "Stakeholder Management",
+      "level": "Advanced",
+      "keywords": [
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "User Research",
+      "level": "Expert",
+      "keywords": [
+        "User Research"
+      ]
+    },
+    {
+      "name": "Roadmapping",
+      "level": "Expert",
+      "keywords": [
+        "Roadmapping"
+      ]
+    },
+    {
+      "name": "Analytics",
+      "level": "Beginner",
+      "keywords": [
+        "Analytics"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

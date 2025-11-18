@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Benjamin Amiram",
+    "label": "UX Designer",
+    "email": "benjamin.amiram@email.com",
+    "phone": "+972-54-9286475",
+    "url": "https://linkedin.com/in/benjamin-amiram",
+    "summary": "Experienced UX Designer with 5 years of experience in analysis",
+    "location": {
+      "address": "70 Tech Avenue",
+      "postalCode": "24764",
+      "city": "Holon",
+      "countryCode": "IL",
+      "region": "Central District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Benjamin-Amiram",
+        "url": "https://linkedin.com/in/benjamin-amiram"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CreativeHub",
+      "position": "Junior UX Designer",
+      "startDate": "2023-12-01",
+      "endDate": "",
+      "summary": "Worked as Junior UX Designer at CreativeHub",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "UserExperience",
+      "position": "UX Designer",
+      "startDate": "2022-12-01",
+      "endDate": "2023-06-01",
+      "summary": "Worked as UX Designer at UserExperience",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "UserExperience",
+      "position": "Senior UX Designer",
+      "startDate": "2019-10-01",
+      "endDate": "2021-11-01",
+      "summary": "Worked as Senior UX Designer at UserExperience",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Engineering",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "93"
+    },
+    {
+      "institution": "Haifa University",
+      "area": "Computer Science",
+      "studyType": "MBA",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "83"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Advanced",
+      "keywords": [
+        "Figma"
+      ]
+    },
+    {
+      "name": "Prototyping",
+      "level": "Intermediate",
+      "keywords": [
+        "Prototyping"
+      ]
+    },
+    {
+      "name": "Interaction Design",
+      "level": "Beginner",
+      "keywords": [
+        "Interaction Design"
+      ]
+    },
+    {
+      "name": "User Research",
+      "level": "Advanced",
+      "keywords": [
+        "User Research"
+      ]
+    },
+    {
+      "name": "Adobe XD",
+      "level": "Expert",
+      "keywords": [
+        "Adobe XD"
+      ]
+    },
+    {
+      "name": "UI Design",
+      "level": "Intermediate",
+      "keywords": [
+        "UI Design"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Michael Armon",
+    "label": "Marketing Director",
+    "email": "michael.armon@email.com",
+    "phone": "+972-51-7884990",
+    "url": "https://linkedin.com/in/michael-armon",
+    "summary": "Experienced Marketing Manager with 11 years of experience in management",
+    "location": {
+      "address": "36 Tech Avenue",
+      "postalCode": "83516",
+      "city": "Tel Aviv",
+      "countryCode": "IL",
+      "region": "Southern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Michael-Armon",
+        "url": "https://linkedin.com/in/michael-armon"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "GrowthCo",
+      "position": "Marketing Coordinator",
+      "startDate": "2021-09-01",
+      "endDate": "",
+      "summary": "Worked as Marketing Coordinator at GrowthCo",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "DigitalDynamics",
+      "position": "Marketing Manager",
+      "startDate": "2020-09-01",
+      "endDate": "2023-06-01",
+      "summary": "Worked as Marketing Manager at DigitalDynamics",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "GrowthCo",
+      "position": "Senior Marketing Manager",
+      "startDate": "2017-04-01",
+      "endDate": "2021-04-01",
+      "summary": "Worked as Senior Marketing Manager at GrowthCo",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "BrandForce",
+      "position": "Marketing Director",
+      "startDate": "2016-05-01",
+      "endDate": "2019-12-01",
+      "summary": "Worked as Marketing Director at BrandForce",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "DigitalDynamics",
+      "position": "Marketing Director",
+      "startDate": "2014-08-01",
+      "endDate": "2017-06-01",
+      "summary": "Worked as Marketing Director at DigitalDynamics",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Data Science",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "90"
+    },
+    {
+      "institution": "Hebrew University",
+      "area": "Information Systems",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "83"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Digital Marketing",
+      "level": "Intermediate",
+      "keywords": [
+        "Digital Marketing"
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "level": "Advanced",
+      "keywords": [
+        "Google Analytics"
+      ]
+    },
+    {
+      "name": "Campaign Management",
+      "level": "Beginner",
+      "keywords": [
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "Social Media",
+      "level": "Advanced",
+      "keywords": [
+        "Social Media"
+      ]
+    },
+    {
+      "name": "SEO",
+      "level": "Beginner",
+      "keywords": [
+        "SEO"
+      ]
+    },
+    {
+      "name": "Content Strategy",
+      "level": "Advanced",
+      "keywords": [
+        "Content Strategy"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Google Analytics IQ",
+      "date": "2025-10-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

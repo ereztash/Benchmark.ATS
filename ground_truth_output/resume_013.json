@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Hana Stein",
+    "label": "Product Manager",
+    "email": "hana.stein@email.com",
+    "phone": "+972-51-8306261",
+    "url": "https://linkedin.com/in/hana-stein",
+    "summary": "Experienced Product Manager with 5 years of experience in analysis",
+    "location": {
+      "address": "70 Innovation Blvd",
+      "postalCode": "70931",
+      "city": "Holon",
+      "countryCode": "IL",
+      "region": "Southern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Hana-Stein",
+        "url": "https://linkedin.com/in/hana-stein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MarketLeaders",
+      "position": "Associate Product Manager",
+      "startDate": "2022-06-01",
+      "endDate": "",
+      "summary": "Worked as Associate Product Manager at MarketLeaders",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "MarketLeaders",
+      "position": "Product Manager",
+      "startDate": "2021-08-01",
+      "endDate": "2023-10-01",
+      "summary": "Worked as Product Manager at MarketLeaders",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "StrategicTech",
+      "position": "Senior Product Manager",
+      "startDate": "2020-08-01",
+      "endDate": "2021-06-01",
+      "summary": "Worked as Senior Product Manager at StrategicTech",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bar Ilan University",
+      "area": "Economics",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "75"
+    },
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Business Administration",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "87"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Analytics",
+      "level": "Intermediate",
+      "keywords": [
+        "Analytics"
+      ]
+    },
+    {
+      "name": "A/B Testing",
+      "level": "Beginner",
+      "keywords": [
+        "A/B Testing"
+      ]
+    },
+    {
+      "name": "Stakeholder Management",
+      "level": "Intermediate",
+      "keywords": [
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Roadmapping",
+      "level": "Expert",
+      "keywords": [
+        "Roadmapping"
+      ]
+    },
+    {
+      "name": "User Research",
+      "level": "Expert",
+      "keywords": [
+        "User Research"
+      ]
+    },
+    {
+      "name": "Product Strategy",
+      "level": "Intermediate",
+      "keywords": [
+        "Product Strategy"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

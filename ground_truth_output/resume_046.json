@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "Hana Shalit",
+    "label": "Senior Financial Analyst",
+    "email": "hana.shalit@email.com",
+    "phone": "+972-53-1766977",
+    "url": "https://linkedin.com/in/hana-shalit",
+    "summary": "Experienced Financial Analyst with 8 years of experience in analysis",
+    "location": {
+      "address": "67 Innovation Blvd",
+      "postalCode": "48691",
+      "city": "Ramat Gan",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Hana-Shalit",
+        "url": "https://linkedin.com/in/hana-shalit"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "InvestmentCorp",
+      "position": "Junior Financial Analyst",
+      "startDate": "2023-06-01",
+      "endDate": "",
+      "summary": "Worked as Junior Financial Analyst at InvestmentCorp",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "InvestmentCorp",
+      "position": "Financial Analyst",
+      "startDate": "2019-09-01",
+      "endDate": "2023-11-01",
+      "summary": "Worked as Financial Analyst at InvestmentCorp",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "CapitalAdvisory",
+      "position": "Senior Financial Analyst",
+      "startDate": "2017-08-01",
+      "endDate": "2021-03-01",
+      "summary": "Worked as Senior Financial Analyst at CapitalAdvisory",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "InvestmentCorp",
+      "position": "Finance Manager",
+      "startDate": "2015-03-01",
+      "endDate": "2019-09-01",
+      "summary": "Worked as Finance Manager at InvestmentCorp",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Haifa University",
+      "area": "Economics",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "86"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Financial Modeling",
+      "level": "Intermediate",
+      "keywords": [
+        "Financial Modeling"
+      ]
+    },
+    {
+      "name": "Accounting",
+      "level": "Intermediate",
+      "keywords": [
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Bloomberg",
+      "level": "Beginner",
+      "keywords": [
+        "Bloomberg"
+      ]
+    },
+    {
+      "name": "Excel",
+      "level": "Intermediate",
+      "keywords": [
+        "Excel"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Financial Modeling",
+      "date": "2022-01-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

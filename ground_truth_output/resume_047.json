@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "name": "Erez Amiram",
+    "label": "Content Director",
+    "email": "erez.amiram@email.com",
+    "phone": "+972-54-7901115",
+    "url": "https://linkedin.com/in/erez-amiram",
+    "summary": "Experienced Content Strategist with 11 years of experience in development",
+    "location": {
+      "address": "185 Business Road",
+      "postalCode": "80220",
+      "city": "Tel Aviv",
+      "countryCode": "IL",
+      "region": "Northern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Erez-Amiram",
+        "url": "https://linkedin.com/in/erez-amiram"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "PublishingHub",
+      "position": "Content Writer",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Worked as Content Writer at PublishingHub",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "MediaGroup",
+      "position": "Content Strategist",
+      "startDate": "2022-02-01",
+      "endDate": "2023-09-01",
+      "summary": "Worked as Content Strategist at MediaGroup",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "PublishingHub",
+      "position": "Senior Content Strategist",
+      "startDate": "2018-05-01",
+      "endDate": "2021-07-01",
+      "summary": "Worked as Senior Content Strategist at PublishingHub",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "DigitalPublishing",
+      "position": "Content Director",
+      "startDate": "2017-12-01",
+      "endDate": "2019-04-01",
+      "summary": "Worked as Content Director at DigitalPublishing",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "ContentCreative",
+      "position": "Content Director",
+      "startDate": "2016-07-01",
+      "endDate": "2017-07-01",
+      "summary": "Worked as Content Director at ContentCreative",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Data Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "93"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Editorial",
+      "level": "Expert",
+      "keywords": [
+        "Editorial"
+      ]
+    },
+    {
+      "name": "Content Strategy",
+      "level": "Expert",
+      "keywords": [
+        "Content Strategy"
+      ]
+    },
+    {
+      "name": "SEO Writing",
+      "level": "Advanced",
+      "keywords": [
+        "SEO Writing"
+      ]
+    },
+    {
+      "name": "Storytelling",
+      "level": "Beginner",
+      "keywords": [
+        "Storytelling"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

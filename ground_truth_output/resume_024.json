@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Yael Navon",
+    "label": "Junior Software Engineer",
+    "email": "yael.navon@email.com",
+    "phone": "+972-53-9481739",
+    "url": "https://linkedin.com/in/yael-navon",
+    "summary": "Experienced Software Engineer with 2 years of experience in management",
+    "location": {
+      "address": "30 Tech Avenue",
+      "postalCode": "66370",
+      "city": "Jerusalem",
+      "countryCode": "IL",
+      "region": "Southern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Yael-Navon",
+        "url": "https://linkedin.com/in/yael-navon"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "WebInnovate",
+      "position": "Junior Software Engineer",
+      "startDate": "2023-07-01",
+      "endDate": "",
+      "summary": "Worked as Junior Software Engineer at WebInnovate",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "WebInnovate",
+      "position": "Software Engineer",
+      "startDate": "2022-06-01",
+      "endDate": "2023-07-01",
+      "summary": "Worked as Software Engineer at WebInnovate",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Data Science",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "88"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "level": "Expert",
+      "keywords": [
+        "React"
+      ]
+    },
+    {
+      "name": "REST API",
+      "level": "Beginner",
+      "keywords": [
+        "REST API"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Git"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Beginner",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Advanced",
+      "keywords": [
+        "SQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

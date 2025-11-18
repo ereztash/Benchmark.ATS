@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Dani Levi",
+    "label": "Marketing Director",
+    "email": "dani.levi@email.com",
+    "phone": "+972-51-3503120",
+    "url": "https://linkedin.com/in/dani-levi",
+    "summary": "Experienced Marketing Manager with 11 years of experience in strategy",
+    "location": {
+      "address": "31 Innovation Blvd",
+      "postalCode": "89471",
+      "city": "Jerusalem",
+      "countryCode": "IL",
+      "region": "Jerusalem District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Dani-Levi",
+        "url": "https://linkedin.com/in/dani-levi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BrandForce",
+      "position": "Marketing Coordinator",
+      "startDate": "2021-08-01",
+      "endDate": "",
+      "summary": "Worked as Marketing Coordinator at BrandForce",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "DigitalDynamics",
+      "position": "Marketing Manager",
+      "startDate": "2020-10-01",
+      "endDate": "2023-10-01",
+      "summary": "Worked as Marketing Manager at DigitalDynamics",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "MarketingHub",
+      "position": "Senior Marketing Manager",
+      "startDate": "2019-11-01",
+      "endDate": "2021-04-01",
+      "summary": "Worked as Senior Marketing Manager at MarketingHub",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "BrandForce",
+      "position": "Marketing Director",
+      "startDate": "2017-03-01",
+      "endDate": "2019-09-01",
+      "summary": "Worked as Marketing Director at BrandForce",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "DigitalDynamics",
+      "position": "Marketing Director",
+      "startDate": "2013-12-01",
+      "endDate": "2017-10-01",
+      "summary": "Worked as Marketing Director at DigitalDynamics",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Engineering",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "79"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Content Strategy",
+      "level": "Intermediate",
+      "keywords": [
+        "Content Strategy"
+      ]
+    },
+    {
+      "name": "Campaign Management",
+      "level": "Advanced",
+      "keywords": [
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "Brand Strategy",
+      "level": "Intermediate",
+      "keywords": [
+        "Brand Strategy"
+      ]
+    },
+    {
+      "name": "Social Media",
+      "level": "Expert",
+      "keywords": [
+        "Social Media"
+      ]
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "Beginner",
+      "keywords": [
+        "Digital Marketing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

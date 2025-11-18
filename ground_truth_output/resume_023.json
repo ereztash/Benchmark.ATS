@@ -1,0 +1,160 @@
+{
+  "basics": {
+    "name": "Daniel Gonen",
+    "label": "Content Director",
+    "email": "daniel.gonen@email.com",
+    "phone": "+972-51-4909069",
+    "url": "https://linkedin.com/in/daniel-gonen",
+    "summary": "Experienced Content Strategist with 11 years of experience in strategy",
+    "location": {
+      "address": "1 Business Road",
+      "postalCode": "28964",
+      "city": "Ramat Gan",
+      "countryCode": "IL",
+      "region": "Northern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Daniel-Gonen",
+        "url": "https://linkedin.com/in/daniel-gonen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MediaGroup",
+      "position": "Content Writer",
+      "startDate": "2022-03-01",
+      "endDate": "",
+      "summary": "Worked as Content Writer at MediaGroup",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "MediaGroup",
+      "position": "Content Strategist",
+      "startDate": "2022-06-01",
+      "endDate": "2023-04-01",
+      "summary": "Worked as Content Strategist at MediaGroup",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "MediaGroup",
+      "position": "Senior Content Strategist",
+      "startDate": "2018-01-01",
+      "endDate": "2021-03-01",
+      "summary": "Worked as Senior Content Strategist at MediaGroup",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "ContentCreative",
+      "position": "Content Director",
+      "startDate": "2018-08-01",
+      "endDate": "2019-08-01",
+      "summary": "Worked as Content Director at ContentCreative",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "ContentCreative",
+      "position": "Content Director",
+      "startDate": "2013-09-01",
+      "endDate": "2017-04-01",
+      "summary": "Worked as Content Director at ContentCreative",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hebrew University",
+      "area": "Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "94"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Analytics",
+      "level": "Beginner",
+      "keywords": [
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Content Strategy",
+      "level": "Expert",
+      "keywords": [
+        "Content Strategy"
+      ]
+    },
+    {
+      "name": "Storytelling",
+      "level": "Expert",
+      "keywords": [
+        "Storytelling"
+      ]
+    },
+    {
+      "name": "SEO Writing",
+      "level": "Beginner",
+      "keywords": [
+        "SEO Writing"
+      ]
+    },
+    {
+      "name": "Content Calendar",
+      "level": "Beginner",
+      "keywords": [
+        "Content Calendar"
+      ]
+    },
+    {
+      "name": "Editorial",
+      "level": "Advanced",
+      "keywords": [
+        "Editorial"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "SEO Fundamentals",
+      "date": "2022-10-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Yael Stein",
+    "label": "Senior Business Analyst",
+    "email": "yael.stein@email.com",
+    "phone": "+972-54-5780297",
+    "url": "https://linkedin.com/in/yael-stein",
+    "summary": "Experienced Business Analyst with 8 years of experience in management",
+    "location": {
+      "address": "62 Business Road",
+      "postalCode": "71474",
+      "city": "Petah Tikva",
+      "countryCode": "IL",
+      "region": "Northern District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Yael-Stein",
+        "url": "https://linkedin.com/in/yael-stein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ProcessOptimize",
+      "position": "Junior Business Analyst",
+      "startDate": "2022-11-01",
+      "endDate": "",
+      "summary": "Worked as Junior Business Analyst at ProcessOptimize",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    },
+    {
+      "name": "StrategyConsult",
+      "position": "Business Analyst",
+      "startDate": "2019-09-01",
+      "endDate": "2023-09-01",
+      "summary": "Worked as Business Analyst at StrategyConsult",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led team of 3 successfully",
+        "Achieved cost savings goals"
+      ]
+    },
+    {
+      "name": "ProcessOptimize",
+      "position": "Senior Business Analyst",
+      "startDate": "2018-01-01",
+      "endDate": "2021-11-01",
+      "summary": "Worked as Senior Business Analyst at ProcessOptimize",
+      "highlights": [
+        "Improved efficiency by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "BusinessSolutions",
+      "position": "Business Analysis Manager",
+      "startDate": "2018-05-01",
+      "endDate": "2019-02-01",
+      "summary": "Worked as Business Analysis Manager at BusinessSolutions",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved revenue growth goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tel Aviv University",
+      "area": "Engineering",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "82"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Business Acumen",
+      "level": "Beginner",
+      "keywords": [
+        "Business Acumen"
+      ]
+    },
+    {
+      "name": "Requirements Analysis",
+      "level": "Expert",
+      "keywords": [
+        "Requirements Analysis"
+      ]
+    },
+    {
+      "name": "Process Improvement",
+      "level": "Beginner",
+      "keywords": [
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Expert",
+      "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Stakeholder Management",
+      "level": "Advanced",
+      "keywords": [
+        "Stakeholder Management"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

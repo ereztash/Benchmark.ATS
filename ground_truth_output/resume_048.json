@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Sarah Shir",
+    "label": "Junior Software Engineer",
+    "email": "sarah.shir@email.com",
+    "phone": "+972-54-1552000",
+    "url": "https://linkedin.com/in/sarah-shir",
+    "summary": "Experienced Software Engineer with 2 years of experience in analysis",
+    "location": {
+      "address": "54 Tech Avenue",
+      "postalCode": "62205",
+      "city": "Haifa",
+      "countryCode": "IL",
+      "region": "Tel Aviv District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Sarah-Shir",
+        "url": "https://linkedin.com/in/sarah-shir"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TechCorp",
+      "position": "Junior Software Engineer",
+      "startDate": "2022-03-01",
+      "endDate": "",
+      "summary": "Worked as Junior Software Engineer at TechCorp",
+      "highlights": [
+        "Improved quality by 20%",
+        "Led team of 3 successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "WebInnovate",
+      "position": "Software Engineer",
+      "startDate": "2020-07-01",
+      "endDate": "2023-12-01",
+      "summary": "Worked as Software Engineer at WebInnovate",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tel Aviv University",
+      "area": "Data Science",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "83"
+    },
+    {
+      "institution": "Bar Ilan University",
+      "area": "Business Administration",
+      "studyType": "Master",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "86"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Agile",
+      "level": "Expert",
+      "keywords": [
+        "Agile"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Beginner",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Kubernetes Certification",
+      "date": "2024-11-01",
+      "issuer": "Professional Organization"
+    }
+  ],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}

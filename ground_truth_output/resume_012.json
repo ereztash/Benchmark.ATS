@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Noa Gonen",
+    "label": "Junior Software Engineer",
+    "email": "noa.gonen@email.com",
+    "phone": "+972-51-8801975",
+    "url": "https://linkedin.com/in/noa-gonen",
+    "summary": "Experienced Software Engineer with 2 years of experience in strategy",
+    "location": {
+      "address": "156 Main Street",
+      "postalCode": "31465",
+      "city": "Haifa",
+      "countryCode": "IL",
+      "region": "Jerusalem District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Noa-Gonen",
+        "url": "https://linkedin.com/in/noa-gonen"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CloudTech",
+      "position": "Junior Software Engineer",
+      "startDate": "2024-10-01",
+      "endDate": "",
+      "summary": "Worked as Junior Software Engineer at CloudTech",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led project successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    },
+    {
+      "name": "WebInnovate",
+      "position": "Software Engineer",
+      "startDate": "2019-12-01",
+      "endDate": "2023-04-01",
+      "summary": "Worked as Software Engineer at WebInnovate",
+      "highlights": [
+        "Improved performance by 20%",
+        "Led initiative successfully",
+        "Achieved customer satisfaction goals"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion - Israel Tech",
+      "area": "Computer Science",
+      "studyType": "MBA",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
+      "score": "88"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Beginner",
+      "keywords": [
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Beginner",
+      "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Git"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Expert",
+      "keywords": [
+        "Docker"
+      ]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": [
+        "REST API"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": []
+}
