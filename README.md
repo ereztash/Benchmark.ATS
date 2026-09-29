@@ -1,5 +1,8 @@
 # ATS Benchmark Dataset — Quick Start
 
+
+> **Public release status:** source is public, but code licensing and benchmark-data provenance still require an explicit release decision. See [`PUBLIC_RELEASE_READINESS.md`](PUBLIC_RELEASE_READINESS.md).
+
 Purpose: a ready-to-run benchmark for testing ATS parsing and extraction accuracy.
 
 Key files (repo root):
